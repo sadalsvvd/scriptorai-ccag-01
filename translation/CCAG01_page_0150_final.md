@@ -1,0 +1,13 @@
+...the summer is fulfilled, which is fire. Again, when the sun enters Libra, a tropical sign of the zodiac, it causes the autumnal equinox, and from then the air inclines toward coolness; the night lengthens beyond the equal hours. Again, when the sun enters Scorpio, a solid sign of the zodiac, it makes the air of autumn more stable and unchanging, subtracting from the length of the day and adding to the length of the night. Again, when it enters Sagittarius, a double-bodied sign of the zodiac, it mixes the air and produces a temperament between autumn and winter; and further, it subtracts even more from the length of the day and adds to the length of the night. In this triadic sequence of zodiacal signs, therefore, autumn is completed, which is earth.
+
+Again, when the sun enters Capricorn, a tropical sign of the zodiac, it brings about the winter solstice; and from then the air turns toward wintriness, and the day begins to increase while the night decreases. Again, when it enters Aquarius, a solid and wintry sign of the zodiac, it makes the air of winter more stable and unchanging, subtracting from the length of the night and adding to the length of the day. Again, when it enters Pisces, a double-bodied sign of the zodiac, it mixes the air and produces a temperament between winter and spring, subtracting from the length of the night and adding to the length of the day, until the equinoctial hours. In this triadic sequence of zodiacal signs, winter air is completed, which is water.
+
+1. On masculine and feminine signs of the zodiac, and on places and stars that masculinize and feminize.
+
+There are six masculine signs of the zodiac: Aries, Gemini, Leo, Libra, Sagittarius, Aquarius; and six feminine ones: Taurus, Cancer, Virgo, Scorpio, Capricorn, Pisces. Masculine places are those from the Midheaven to the Ascendant; feminine, from the Ascendant to the Imum Coeli. Again, masculine places are those from the Imum Coeli to the western angle; feminine, from the Descendant to the Midheaven. Of these fourteen quadrants^1, two are made masculine, and two feminine. Moreover, masculine planets are the Sun, Saturn, Jupiter, Mars,
+
+---
+
+LLM Translation Footnotes
+
+^1🤖 The Greek term "τεταρτημορίων" literally means "quarters" or "quarter-areas," referring to the division of the astrological chart into four quadrants (or, contextually, partitioning into specific sectors). Some interpretations link the fourteen to divisions that include the twelve houses and two principal points, or other astrological schemes.

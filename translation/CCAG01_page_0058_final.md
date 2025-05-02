@@ -1,0 +1,19 @@
+...of those preserved from them, etc. — F. 142. On the causes of male and female animals. — On the fact that the Sun is responsible for generation and corruption^1🤖. — F. 143. On why the Sun has been assigned the middle zone. — On the fact that the Moon cooperates with the Sun in generation and corruption. — F. 144. On the operations of the Moon. — F. 145v. On the nature of the seven planets. — F. 146v. On boundaries. — F. 147. On the degrees of male and female [zodiacal signs]^2🤖. — F. 147v. On degrees that are bright and dark, shadowy and light. — F. 148v. On fortunate degrees. — F. 149. On animals that are mutually friendly and mutually hostile, etc. — On those rising in each decan. — F. 159. On the climates assigned to each sign. — F. 160v. On animals that are multiparous, twins, and barren (read: sterile)^3🤖. — On those that are vocal, intermediate, and mute^4🤖. — On animals that signify mange and leprosy, etc. — F. 161. On animals associated with eye diseases, etc. — On animals that are deceptive and subject to affections and cares, and even the obscure ones. — F. 161v. On animals signifying birds, quadrupeds, fish, and reptiles. — On animals signifying trees and plants. — On animals that are watery and fiery—all of which you have—but rather concerning the significations of the twelve places^5🤖. — F. 163. On animals that are ensouled and incorporeal, etc. — On the colors of animals. — On animals that ascend and descend, and those that are long and short. — F. 163v. On the causes of those dwelling in a city and those passing through. — On the dispositions of the stars. — F. 164v. On the configurations in relation to the Sun. — F. 165v. On the places of Mars in which the stars possess power. — On the latitude of the stars. — On the conjunctions of the stars. — F. 168. On the co-formations of the stars. — F. 169. On the power and impotence of the stars. — F. 171v. On empeirischēsis <sic>^6🤖. — F. 172. On the numbers of the stars. — F. 172v. On the properties (read: characteristics) of the stars. — F. 173v. On Jupiter. — F. 174v. On Mars. — F. 175. On the Sun. — F. 175v. On Venus. — F. 176. On Hermes (Mercury)^7🤖. — F. 177. On the Moon. — F. 177v. On the lots. — F. 179v. On the lots of the seven stars. — F. 180. On the Lot of Kronos (Saturn). — F. 180v. On the Lot of Jupiter. — F. 181. [On the Lot] of Mars | of Venus | of Hermes. — F. 181v. Of the Moon. — Of the twelve places. — F. 190v. On the lots that are not referred either to the seven planets or to the twelve places. — F. 192. On the sale of slaves. — On journeys abroad. — F. 192v. End of the operative mysteries of Apomasar.
+
+---
+
+LLM Translation Footnotes
+
+^1🤖 “Corruption” (φθορά) is often used in Greek philosophical and astrological texts as the antithesis of “generation” (γένεσις), meaning decay or destruction, but with a technical nuance distinct from modern “corruption.”
+
+^2🤖 The Greek term likely refers to “degrees” (μοιρῶν) within the context of zodiacal signs, a standard technical term in astrology.
+
+^3🤖 The Greek includes an editorial clarification (read: sterile), correcting to the standard form for “barren” or “sterile.”
+
+^4🤖 The tripartite classification probably refers to animals that vocalize, those that are intermediate, and those that are voiceless.
+
+^5🤖 “Twelve places” (δωδεκάτοπος/ib’ τόπων) generally refers to the astrological houses, not zodiacal signs, unless the context of the source text suggests otherwise.
+
+^6🤖 The word “empeirischēsis” is left in transliterated form due to uncertainty; it is likely a technical term or a textual corruption.
+
+^7🤖 Standard English names for planets are used, with “Hermes (Mercury)” clarified for readers.

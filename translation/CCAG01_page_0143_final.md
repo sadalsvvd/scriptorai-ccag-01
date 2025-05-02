@@ -1,0 +1,17 @@
+The Moon, occupying the zone closest to the earth, moves within a windy and moist atmosphere, receiving exhalations from all things and sharing in the exhalations of both the winds and the earth; for which reason its nature is established as both purifying and temperate^1🤖. It occupies the position of queen of the cosmos, being highly variable with respect to earthly and generable things because of the swiftness of its motion, causing rapid flows toward the earth due to its proximity. Whenever it is especially operative in relation to all generation—both after the full moon and after conjunction, and in its waxing and waning phases—it acts differently: for from conjunction up to full moon it becomes more vigorous toward things generated on earth due to the increase of its light, whereas from full moon back to conjunction it acts less strongly because of the decrease of its light. This very Moon is likewise established as the cause of the tides and ebbs in the ocean.
+
+F. 68. On conjunctions and full moons. [On commencements.]
+
+Conjunctions and full moons must not be observed under malefics^2🤖; let not the full moon fall in an eclipsing place; let conjunctions and full moons not be configured nor squared by malefics, for they worsen and debase the beginnings, and in general, the situation becomes critical. Let the rulers of conjunctions and full moons not be afflicted by malefic fortune, for they are carried away from both the earth and their native land; moreover, they also produce poverty. And when malefics attend, they destroy violently; but if well-disposed, they bring about precedence and fame. If the rulers of conjunctions and full moons fall into bad places, they confer trust upon borrowers and cause those who have lent to lose their property—especially when in angular places within the native land through lawsuits with relatives, and in tropical places through lawsuits from foreigners. Let not the rulers of the Ascendant and the Moon be in mutual opposition^3🤖; for they cause death abroad, and, when malefics are observing, even violent death.
+
+Schol. on v. 6: That the rulers of conjunctions and full moons, when afflicted by ill fortune, cause either exile or poverty; and when malefics are also involved, they even cause death by violence.
+
+V. 1. The same is found excerpted in codex 7, folio 152v, where, perhaps more correctly, the heading reads: On commencements at conjunctions and full moons. “And on commencements” is supplied in the margin (16th century and supplied).
+
+---
+
+LLM Translation Footnotes
+
+^1🤖 The phrase "sharing in the exhalations of both the winds and the earth" reflects the Greek “πνευμάτων” which can mean “winds,” “breaths,” or “spirits.” Here, "winds" is chosen for clarity in a cosmological/meteorological context.
+^2🤖 "Malefics" (Greek "κακοποιοί") is the standard astrological term, typically referring to Mars, Saturn, or other planets with harmful influence in Hellenistic astrology.
+^3🤖 "Let not the rulers of the Ascendant and the Moon be in mutual opposition" translates the technical astrological warning that these two significators should not be in opposition aspect (diametrically opposed across the zodiac), a configuration considered particularly ominous.

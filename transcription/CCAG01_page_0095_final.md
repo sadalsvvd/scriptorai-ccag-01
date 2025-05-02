@@ -1,0 +1,13 @@
+καὶ περιττεύειν, πλέον δὲ τούτου οὐκ ἂν γένοιτο ἔλλειψις ἢ πλεονασμός. καὶ ὁ Ἀβδουλαχμάνης ὁ Χαζηνὸς ὃς ἐποίησε τὴν ἀσφαλῆ καὶ στερεὰν σύνταξιν τοῦ Σαντζαρῆ¹ τὴν ὁδὸν τῶν ἀστέρων εἰς τοῦτο τὸ ἔτος ἔθηκεν. ἀρχὴ δὲ τοῦ ἔτους τούτου ἡμέρα ζ', κη' τοῦ Καιάκ, ὃς ἐστι μὴν γ' τοῦ μηνὸς Ναβουχοδονόσορ· ἀφ’ οὗ εἰσί χρόνοι ἀπὸ μέχρι τούτου τοῦ τετάρτου ἔτους· ἀπὸ δὲ τοῦ Μακεδόνος Ἀλεξάνδρου χρόνοι ϡμς' μέχρι τούτου.
+
+Τὸ πέμπτον ἔτος ἀπὸ τοῦ καιροῦ τοῦ Ἰασιαντζαρῆ τοῦ υἱοῦ Σαχηρή τοῦ Μεστρέ,² ὕστερον τῶν ἄλλων βασιλέων· τοὺς χρόνους τούτου κρατοῦσιν οἱ λατρεύοντες τῷ πυρί· ἀρχὴ τοῦ ἔτους τούτου ἡμέρα γ'· ἡ δὲ ἡμέρα ἐκείνη ἀρχὴ τοῦ Φαρβαδίν· καὶ ἡ ἀρχὴ τοῦ ἔτους τούτου ἡ ιθ' Καιχάκη μηνός· χρόνοι οὖν ἀπὸ τοῦ Ναβουχοδονόσορ ἀπ' ἕως τοῦ καιροῦ τούτου, καὶ ἀπὸ τοῦ Μακεδόνος χρόνοι ϡνς', καὶ ἀπὸ τοῦ Δουλκαρνάν ἀπὸ τῶν ισ' τοῦ [τοῦ] Χαζυρὰν χρόνοι ϡμγ' ἕως τούτου· κβ' οὖν τοῦ μηνὸς Ῥαμπαουὰλ χρόνων ια' κατὰ τὸν καιρὸν τοῦ Εἰζιράττο ἔτος Μωάμεθ· ποιητὴς τῆς συντάξεως Κασιαρὶ ἥτις ἐγένετο εἰς τοῦτο τὸ ἔτος, τὸ ὄνομα τούτου Ἀλῆς ὁ Ἀβδουλουκαρίμ· τὴν σύνταξιν Ἀλαῆ οὗτος εἰς τοῦτο τὸ ἔτος ἔθηκεν. ὁ Χουσάμης Σαλάρ τὴν σύνταξιν Ἰσαχὴ ἐν τούτῳ τῷ ἔτει τέθεικε, καὶ ἡ σύνταξις τοῦ Φεχεὶρ εἰς τοῦτο τὸ ἔτος, καὶ ἡ σύνταξις τοῦ Ἀθθρατὶν εἰς τοῦτο τὸ ἔτος ἐγένετο· καὶ ἡ σύνταξις Μαχχὶ Ματριτῆ εἰς τοῦτο τὸ ἔτος· καὶ ἡ σύνταξις δὲ τοῦ Χοντζανασύρη ἐν τούτῳ τῷ ἔτει ἔτεθη· καὶ ἑτέραι δὲ πλείσται συντάξεις κατὰ τὸ ἔτος τόδε ἔτεθησαν· διὰ τί; ὅτι τοῦτο τὸ ἔτος παρὰ τὰ ἕτερα εὐκαταληπτότερον.
+
+[F. C.]
+
+⁴ Volebat Χοιακ, quem mensem notatu dignum non quartum sed tertium dici: sequitur igitur scr. annum Antiochenum (Usener). 9 τούτων cod. 11 φαραβαδίν mensis Persarum Farvadin. 12 Καικάκι sine dubio Χοιακ(ι) (Usener). 14 τοῦ seclusi sed tota sententia corrupta videtur. Χαζυρὰ fortasse idem est atque Εἰζιράττο v. 34. 15 Ῥαμπαουὰλ = mensis Arabum Rebi-el-Awwel. 15 εἰζιράττο = hedschra, hegira. 20-21 καὶ ἡ ... ἔτος suppletum in marg. cod.
+
+¹ Σαντζαρῆς titulus est libri alsangari, tabularum quas Abulfateh Abdalrahman Alkhazin, olim servus natione graecus condidit et illo indice in sultani Sangar honorem insignivit... Anno heg. 509, p. Chr. 1115 Sangar regnare coepit. Gildemeister, l. c., p. 15, n. f. — Theodorus Meliteniota Sampsucharo perperam intellecto, inepte Santzarem nomen hominis esse credidit.
+
+² Yazdajird ben Shahryār ben Kisrā Parwiz — sic apud Albiruni appellatur (p. 35, Sachau) — anno 632, p. C. n. rex Persarum factus est.
+
+³ Ex hoc Sampsuchari loco speciosam orientalium scriptorum cognitionem mutuatus est Theodorus Meliteniota (Usener, l. c., p. 14) qui Gildemeistero occasionem praebuit eruditissime de singulis disserendi.

@@ -1,0 +1,14 @@
+…it is less so for rain. Therefore, whenever one of these three enters the aforementioned zodiacal signs, it produces rainfall; and if Venus too makes an ingress to these two when they are both present in any one of these signs, there occurs a great rain, though not a harmful one. [But if this is to destruction—indeed, if Venus should be in the said configuration, the rainfall is slower and less.^1🤖] Whenever Venus and the Moon are together, apart from Mercury, in any one of these signs, the rainfall is proportional and beneficial; and whenever the Moon alone receives the testimony of Venus or Mercury, the rain is good; but if the Moon is without testimony, and they themselves are in any of the aforementioned signs, it rains until the Moon departs from the sign she is in.
+
+Venus, Mercury, and the Moon, being apart from the testimony, co-presence, or return of the malefic planets^2🤖, if they are present, portend rain; but whenever there is testimony with or return to the malefics, it does not rain. Venus, the Moon, and Mercury being together in any of the aforementioned signs at the proper time are harmed by malefic planets, but rain occurs at the rising. The aforesaid stars, being together with malefics, bring about rain by intervals. Venus, bearing testimony to the aforementioned, has more power than when she is in conjunction. And whenever Venus or Mercury are in Virgo and the Moon in Taurus or in Scorpio or in Pisces, there occurs rain; and likewise, when the aforementioned stars are in one of the rainy signs and Venus and Mercury are under the beams or retrograde^3🤖, they do not cause rain.
+
+And when the Moon is in Taurus or Virgo and Venus, moving swiftly, aspects her without testimony of malefics, on that very day it rains, especially if the Moon is at her rising; but when with her at the setting, or without Saturn's testimony, and Venus and Mars and Mercury are in temporal signs^4🤖, it rains. Therefore, observe at the turning of the year, that is, when the Sun enters the first minute of Capricorn, how Venus and Mercury are situated, and if they are in any of the aforementioned, that is, the rainy signs, and the malefic planets do not behold them, the…
+
+---
+
+LLM Translation Footnotes
+
+^1🤖 The phrase references a situation where, if the configuration would produce destructive rain, the presence of Venus slows and lessens the rainfall.  
+^2🤖 “Malefic planets” in Hellenistic astrology refers specifically to Mars and Saturn.  
+^3🤖 “Under the beams” indicates planetary proximity to the Sun (combustion), while “retrograde” (ἀναποδιστικοί) is a technical term for reverse planetary motion.  
+^4🤖 “Temporal signs” likely refers to signs associated with seasonal change (“chronikos” in Greek), often the tropical cardinal signs; further context in the treatise may clarify this nuance.

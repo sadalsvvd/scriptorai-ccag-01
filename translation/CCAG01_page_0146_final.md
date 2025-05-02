@@ -1,0 +1,19 @@
+...through three (signs)^1🤖, we are therefore at a loss as to in which place each of the stars falls; it is necessary, then, to distinguish the places in the following manner: if we introduce both the horoskopos (Ascendant)^2🤖 and the midheaven degree of the zodiac into the orthos sphaera (the direct circle of the sphere)^3🤖, we take their corresponding ascensions. And since it has been stated by Ptolemy that the pivots (kentra)^4🤖 are effective from five of the previously indicated degrees, by subtracting five degrees from the ascensions, and taking the degrees of the signs corresponding to the remaining ascensions, we obtain the starting points of the horoskopos and the midheaven. Next, taking one third of the difference between these ascensions, subtracting it from the ascension associated with the starting point of the horoskopos, and introducing the remaining value into the same orthos sphaera, and taking the corresponding degree of the sign, we have the starting point of the twelfth place. By following the same procedure for the other pivots, through addition and subtraction of the ascensions in the direct sphere, we obtain the starting points of all the places.
+
+Saturn, when he is in conjunction with the horoskopos, signifies slaughter occurring in that place; if he is far from the pivot, the slaughter is in the neighboring or distant places. If the luminaries are on the pivots and observed by the malefics—being in opposition or square aspect—they signify that severe things will occur. In every matter, one must be on guard if the Moon is in eclipsing conjunctions, especially at conjunction, except in cases of purifications. At the advance of the Turks, Saturn was found at the setting, and this signified harm to us; for those advancing are reckoned from the horoskopos, but those upon whom they advance, from the setting. If a malefic star is rising and another malefic is configured with it, with none of the benefics aspecting it, the one about whom the inquiry was made has already died.
+
+If the Moon occupies the ninth place, she quickly brings matters to an end: the good things, such as honors, likewise; but the bad things—she increases their misfortune even more swiftly, as happened in the exile of Photius the patriarch.
+
+[adcl. τὴν ἐπορὸ <sic> cod.: ἐπ’ ὀρθῆς ἔρριψι, et 1 4 κανόνα dub. scripsimus κα vel signum nobis ignotum cod. 5-6 προανενεχθεισῶν cod. 9 ἔχομεν cod. 16 incipiunt scholia 26 συσχηματίζεται cod. 27 ἢ δὴ cod. 29 Third scholion on the exile of Photius the patriarch, edited by Boll in Byz. Zeitschr., 1898. F. 84r–93v. Astrological questions of Rhetorius excerpted from the treasures of Antiochus. Whatever we have ascertained about Antiochus and Rhetorius as astrologers, in the catalogue of the Munich astrological manuscripts, where the chapters of this little work, except in the Laurentianus XXVIII, 34, are preserved in the manuscripts, I promise to relate in the edition, more accurately.]
+
+---
+
+LLM Translation Footnotes
+
+^1🤖 Greek διὰ γ’ means "by/through three," referring to three signs or houses; this connects to the preceding discussion of possible arcs between the horoskopos and midheaven in calculating divisions.
+
+^2🤖 "horoskopos": Technical term in Hellenistic astrology for the degree of the zodiac rising on the eastern horizon at the moment of birth (the Ascendant).
+
+^3🤖 "orthos sphaera" (direct circle of the sphere): Refers to the principal celestial circle used for projecting degrees and calculating ascensions in astrological reckoning.
+
+^4🤖 "pivots (kentra)": The "pivot" houses—namely, the 1st, 4th, 7th, and 10th (ascendant, IC, descendant, MC)—crucial centers of interpretation in traditional astrology.

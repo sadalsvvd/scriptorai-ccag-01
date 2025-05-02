@@ -1,0 +1,15 @@
+and boundaries, and decans, and faces, and monomoiriai^1; but let the lots^2 be set forth by each as he wishes, according to the particular need in each case. The model of the subject is as follows: Let the year be reckoned from the beginning of the reign of Diocletian—which, that is, is from the last days of Alexander the Macedonian, in the month of Athyr, the first day according to the Alexandrians, at the seasonal hour of the day, toward Alexandria in Egypt, seventh hour, twelfth minute. At this time, therefore, and in the said place, namely Alexandria, we computed the epochs of the stars and the centers precisely, and set them forth unaltered, because it thus seemed good to the divine Ptolemy. Thus the epochs of the seven planets, and the centers, and the lots are as follows: Sun in Scorpio, 4°22′; Moon in Taurus, 18°10′; Saturn in Aries, 24°28′; Jupiter in Virgo, 4°12′; Mars in Leo, 17°35′; Venus in Cancer, 18°24′; Moon toward Taurus, 3°7′; Ascendant in Aries, 17°4′. Sun in Scorpio, 4°22′. . . . [A. O.]
+
+G. 144r. General Instruction Concerning the Weather Signs of Syria^3.
+
+We make the beginning of the observation concerning the annual condition^4 from the nineteenth of the month of July among the Romans; for on this day [rather, from the heliacal rising of Sirius (the Dog-Star), on the nineteenth of the month of July. On this day], after the setting of the sun, one must carefully observe the air throughout the night. And if clouds appear immediately as the sun is setting, it portends that there will be hail at the beginning of the month of October; but if they appear in the middle of the night, it portends hail around the middle of the month; but if these clouds appear at dawn, the outcome will come about at the end of the month. Simply put, by reasoning according to the proportion of the hours of the night, calculate when the circumstance will occur on that day of the month. And if the clouds appear thick, it portends that the hail will be heavy; but if thin, light hail; but if there should be dew, it portends wind; but chiefly, hail will occur precisely where the clouds have appeared. But if neither clouds
+
+LLM Translation Footnotes
+
+^1 "Monomoiriai" (μονομοιρίαι) is a technical term in Hellenistic astrology denoting the division of the zodiac into single-degree segments, each associated with particular properties.
+
+^2 "Lots" (κλῆροι, klēroi) refers to calculated points in a horoscope—‘parts’ or ‘lots’—especially those like the Lot of Fortune, used for nuanced astrological interpretations.
+
+^3 The original note refers to previous discussion: "On Syros/Syria, cf. supra, p. 131, n. 1." The title can also be rendered "Concerning the Weather Signs of Syria" depending on interpretation of the Greek.
+
+^4 "Condition" translates Greek κατάστημα (katastēma), a specialized term for the yearly state of the air or weather; "annual condition" is most neutral, but options include "annual weather" or "yearly state."
