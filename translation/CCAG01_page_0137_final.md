@@ -1,52 +1,22 @@
 APPENDIX
 
-Babylon, and from such inquiry to foretell matters concerning wars,  
-droughts, rainfall, kings, and every kind of affliction and misfortune prevailing throughout all lands—thus, therefore, I have judged  
-this practice to be both proper and wisely conceived: to set up a genethlialogical chart (i.e., a mundane one)  
-for the whole inhabited world, taking as its origin the reigning city as from the pivot of the  
-universal theater, and, after establishing the horoscope, to treat everything as if for the nativity,  
-through the testimonies of the benefic and malefic planets, and through the  
-positions of the luminaries. However, in that which concerns the king, it is permitted for us to take from  
-the royal lot and the position of its trigon lords,  
-and from the degree culminating at the midheaven, and from the trigon lords of the  
-midheaven and their positions, together with those of Jupiter.  
-Then likewise, matters concerning enemies from the position of Mars, and those concerning  
-the greatest misfortunes from Saturn, making use of the composite and natural  
-succession of the signs and the stars, and the authority of the year's rulers,  
-together with the prior first conjunction or synod or full moon of the year.  
-The most general and universal revolution of the year takes place when the Sun enters Aries,  
-while the most particular and partial is the one individually determined,  
-which the wise Ptolemy spoke of, either from the other ingresses—namely,  
-those of summer, autumn, and winter—and their preceding  
-conjunctions; or an even more detailed and monthly transition,  
-from the Sun’s entrance into each individual sign, and the associated  
-horoscopic position and the focalization^1🤖 at that time, and the prior conjunction of the luminaries  
-and the house-star governing it.  
-These, then, are to be examined with respect to the yearly revolution, and accordingly  
-the following matters as well; then in this way consider the outcomes, as we have set forth.
+Babylon, and from such a treatise to predict matters concerning wars, and droughts, and rains, and kings, and every misfortune happening throughout all lands, therefore I have judged that this is fitting and wisely conceived—to cast a nativity, that is, a mundane one—for the whole inhabited world, from the ruling city as from the foundation of the cosmic theater, and, after establishing the horoscope, to investigate everything as for a birth, through the indications both of benefics and malefics and of the positions of the luminaries; only as concerns the king, it is permitted for us to take from the royal lot and the positions of its triangular rulers, and from the culminating degree and the triangular rulers of the culmination, and their positions, and together with them, that of Jupiter; then, likewise, matters concerning enemies from the position of Mars, but those concerning the greatest crises from Saturn, using the systematic and natural sequence of the signs and stars and the rule of the lords of the year, together with the prior first conjunction of the year, that is, of the synod or the full moon.
+
+And the most general and universal revolution of the year is that which takes place in Aries, but the most particular and partial one is that which is recognized for a part—which the wise Ptolemy stated—either from the remaining ingresses, that is, the summer and autumn and winter ingresses, and also those conjunctions that precede them; or the more detailed, monthly transition, from the Sun’s passage into each individual sign, and the horoscope and centration for that, and the prior conjunction of the luminaries which precedes it, and the star ruling it. On these things, therefore, let us deliberate concerning the annual revolution and what follows, and then thus examine the outcomes as we have laid out.
 
                                               [W. K.]
 
-3 rursus inc. B: and therefore I have judged this practice to be proper, to set up a mundane genethlialogical chart, etc.  
-5 φημι (“I mean”) omitted in B.  7 καλοποιῶν (“beneficent”) B  8 περὶ βασιλέως A only.  12 καὶ εἶθ’ (“and then likewise”) A.  
-18 καὶ ἢ is excessive here.  19 εἰρήγατο A, παρέδωκεν B.  20 μεσουρανήμ. A B.  
-χειμ. τὰ μένοντα (instead of “approaching,” “those remaining”) looking to the prior  
-conjunctions in B.  21 ἡ δὲ τι (for ἔτι) B.  debeat esse τε τῆς τοῦ.  
-22 καθ’ ἕκαστον B.  κατεκείνουσι A B.  24 καὶ om. A.  
-So, when these matters have been discussed, in what follows we shall investigate  
-the results; accordingly, etc. B, continuing with what is introduced after the heading: results of the annual revolution  
-as I have gathered from the ancients.
-
-F. 65. On rains: a reputable doctrine from the saying of a certain Syrian¹.
-
-It is necessary to understand concerning each occurrence of rainfall from the  
-rulers of the year and from those of Venus and Hermes  
-and the Moon.
-
-¹ [The certain Syrian to whom this fragment is attributed is without doubt the same as the Syrian elsewhere.]
-
 ---
 
-LLM Translation Footnotes
+3 rursus inc. B: “and for this reason I have judged that it is fitting to cast a mundane nativity…” etc.  
+5 φημι (“I say”) omitted in B.  7 ἀγαθοποιῶν (“of benefics”) in B.  8 περὶ βασιλέως (“concerning the king”) in A omitted.  12 καὶ εἶθ’ (“and then”) in A.  
+18 καὶ ἢ (“and or”) superfluous in ἡ.  19 εἰρήγατο A] παρέδωκεν (“handed down”) in B.  20 μεσουρανήματος in A and B.  
+“Winter [the things] remaining (for μέλλοντα: about to happen) examining from the prior conjunctions” in B.  21 ἡ δὲ τι (for ἔτι) in B. It should be “τε τῆς τοῦ.”  
+22 καθ’ ἕκαστον (“for each”) in B.  κατεκείνουσι in A and B.  24 καὶ omitted in A.  
+“So as these things are treated, in what follows, we will examine about the outcomes; accordingly…” B proceeding to those things which are added on a slip labeled: “the results of the annual period as I collected from the ancients.”
 
-^1🤖 The term rendered "focalization" here corresponds to a technical astrological notion, sometimes translated as "centering" or "kentrōsis" (κεντρώσις) in the Greek. It refers to the focal or angular significance in the horoscope at the time of the Sun’s ingress, lacking an exact English equivalent. Alternate renderings might include "angular point" or "strong placement."
+F. 65. On rains, an established doctrine from the saying of a certain Syrian¹.
+
+It is necessary to know concerning the rain which is happening at any given time, from the lords of the year and from that of Venus and Hermes and the Moon.
+
+¹ [This “certain Syrian” to whom this fragment is attributed is doubtless the same as the Syrian mentioned elsewhere.]

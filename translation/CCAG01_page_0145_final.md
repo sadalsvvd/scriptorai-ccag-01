@@ -1,21 +1,9 @@
-…the house-ruler <comes> to it; if the house-ruler does not stand apart from the sign and depart, if at first it is in quadrature to it, but then becomes trine to it after changing, what results will have a brief delay. But if it passes from trine to the incongruous sign, the matter will not be accomplished—except whenever the house-ruler of the Moon comes again to the same sign in which it stood at the inception.  
+…for the ruler of the house to come to her, if the ruler of the house has not departed from the sign, and if at first he is square to her but then becomes trine to her, what happens will be somewhat delayed; but if he comes from a trine to the inconjunct sign, the matter will not be accomplished, except when the ruler of the Moon returns to the same sign in which she stood at the commencement. If the Moon, being afflicted by malefics and found together with them in the same sign, while the benefics observe her from the square, release is afforded; but if she comes to the square of the benefics, she brings a favorable end to the matter. If she comes to the square of both benefics and malefics, it is said that both harm and benefit will alternate in the matter, and there is a danger that the malefics may harm while the benefics may not be able to confer complete benefit. If the Moon moves from one malefic to another, either by bodily conjunction or by aspect (testimony), matters will proceed from bad to worse. In every inception, one must consider both the Ascendant and the Moon; if the inception is nocturnal, observe the Moon above the horizon; if diurnal, observe her on or below the Ascendant.
 
-If the Moon is afflicted by malefics, being together with them in a sign, but benefics observe it in quadrature, release is provided. If the Moon comes by quadrature to one of the benefics, it grants a good outcome for the matter; but if it comes into quadrature with both benefics and malefics, there will be a mixed result for the matter—both harm and benefit—and one must fear lest the malefics bring harm, and the benefics not be able to confer full benefit. If the Moon moves from malefic to malefic, by bodily conjunction or by aspect, the matters will proceed from bad to worse.  
+Scholia of Leo the Philosopher on the Hermetic [work].
 
-It is necessary in every inception to examine both the Ascendant and the Moon; but if the inception is nocturnal, consider the Moon in the hemisphere above the earth, and if diurnal, in the hemisphere beneath, or according to the Ascendant.^1🤖  
+On account of this example and this error, Porphyry too was misled, being unskilled and far from the intellect of the great Ptolemy; for the ruler in Sagittarius does not reach the setting in 5½ days, but in 40½; for the canon of the fifth climate contains not the descensions of Sagittarius and Libra, but clearly the ascensions. If therefore, in the first position, Aries 10° is the Ascendant, and with this the ascending times are 5½, 40½; in the second position, with Sagittarius 8° setting, the Ascendant should be Gemini 8°, which has times 45½, 45½; the excess in time is not 5½ but 40½ and 5 minutes.
 
-Scholia of Leo the Philosopher on the text of Hermes.
+F. 83v. On the Division of the Twelve Places; Valens.
 
-By this same example and this same error, Porphyry too was caught, being unlearned and far from the mind of the great Ptolemy; for in the matter of the governor (aphetes) in Sagittarius, he does not arrive at the setting point in five days but in forty,^2🤖 for the rule of the fifth climate does not concern the settings (descents) of Sagittarius and Libra, but clearly their ascensions. Therefore, if, in this first position, Aries 10° is the Ascendant and corresponds to ascensional times of five and forty; and, in the second position, Sagittarius is setting at 8°, then Gemini 8° ought to be ascending, having ascensional times of forty-five and forty-five; the excess is not five but forty and five minutes.
-
-F. 83v. On the division of the twelve places: Valens.
-
-Since it often happens that the distance between the Ascendant and the Midheaven does not occur over four signs but even over five and… 
-
----
-
-LLM Translation Footnotes
-
-^1🤖 The expression "hemisphere above the earth" and "beneath" refer to the Moon being above or below the horizon, corresponding to nocturnal and diurnal inceptions, respectively.
-
-^2🤖 The Greek uses the numerals σε’ (5) and μ’ (40), hence “five days” and “forty days.” The text contrasts these computations in ascensional astrology.
+Since it often happens that the distance between the Ascendant and the Midheaven does not occur through four signs, but even through five and...

@@ -1,63 +1,29 @@
-...and of plots and of power and of all forms of wrongdoing is established as the cause.
-
-Victory, on the other hand, is established as the cause of faith and good hope and contest and all fellowship, and furthermore, of initiative and success^1🤖.
-
-Retribution belongs to the underworld daimons and the hidden ones, and is established as the cause of revelation, inertia, flight, destruction, mourning, and the quality of death^2🤖.
-
-The "basis," which is the Ascendant (Horoskopos), is established as the cause of life and spirit, since at the very moment of birth everything that comes into being draws in the vital breath^3🤖 from the air at the appointed turning of the hour of condensation^4🤖, which indicates the whole of things.
+...and of treachery and of power and of every kind of villainy has become the proximate cause.  
+But victory has become the proximate cause of faith and of good hope and of struggle and of all fellowship, and further also of enterprise and of success.  
+Retribution of the chthonic spirits and things hidden, and also of exposure and of sloth and of flight and of ruin and of mourning and of the mode of death has become the proximate cause.  
+The basis, which is the horoscope, has become the proximate cause of life and spirit, since at the very moment of birth, every being draws to itself from the air the vital spirit at the turning point of the hour of the descent, which is fixed according to the emergence, and which is a signifier of the whole.
 
 [F. C.]
 
-F. 132r. These Lots are diurnal.
+Folio 132r. These lots are diurnal.
 
-Lot of exile: from Mars to Sun  
-Lot of discovery: from Jupiter to Saturn  
-Lot of theft: from Saturn to Mars  
-Lot of inheritance: from Venus to Venus  
-Lot of loans: from Jupiter to Saturn  
-Lot of deeds: from Saturn to Mars  
-Lot of adultery: from Venus to Mars  
-Lot of parents: from Mars to Venus  
-Lot of slaves: from Sun to Sun  
-Lot of death: from Saturn to Saturn  
-Lot of business: from Jupiter to Saturn  
-Lot of disease: from Saturn to Saturn  
-Lot of life  
-Lot of enemies: from Jupiter to Venus  
-Lot of homeland: from Venus to Mars  
-Lot of love: from Venus to Jupiter  
-Lot of cohabitation: from Venus to Sun  
-Lot of selling: from Saturn to Mars  
-Lot of action: from Sun to *
+Lot of exile: from Mars to the Sun — lot of discovery: from Jupiter to Saturn — lot of theft: from Saturn to Mars — lot of heirs: from Venus to Venus — lot of loans: from Jupiter to Saturn — lot of action: from Saturn to Mars — lot of adultery: from Venus to Mars — lot of parents: from Mars to Venus — lot of slaves: from Sun to Sun — lot of death: from Saturn to Saturn — lot of business: from Jupiter to Saturn — lot of enmity: from Saturn to Saturn — lot of life: ... — lot of enemies: from Jupiter to Venus — lot of homeland: from Venus to Mars — lot of love: from Venus to Jupiter — lot of cohabitation: from Venus to Sun — lot of sale: from Saturn to Mars — lot of action: from Sun to *.
 
-For a nocturnal nativity, the reverse.
+For a nocturnal birth, the reverse.
 
-Lot of authority: from Mars to Sun  
-Lot of military service: from Mars to Saturn  
-Lot of desire: from Jupiter to Venus  
-Lot of fellowship: from Saturn to Venus  
-Lot of victory: from Venus to Mars  
-Lot of rulership: from Jupiter to Venus  
-Lot of buying: from Jupiter to Saturn  
-Lot of shipping: from Saturn to Saturn  
-Lot of exile: from Sun to Sun  
-Lot of humors: from Saturn to Jupiter  
-Lot of skill: from Jupiter to Sun  
-Lot of life: from Saturn to Saturn  
-Lot of basis: from Tyche ("Fortune") to Daimon ("Spirit")  
-Lot of anointing: from Jupiter to Saturn  
-Lot of judgments: from Saturn to Jupiter  
-Lot of departure: from Sun to (—  
-Lot of grief: from Jupiter to Saturn.
+Lot of power: from Mars to Sun — lot of military campaign: from Mars to Saturn — lot of desire: from Jupiter to Venus — lot of fellowship: from Saturn to Venus — lot of victory: from Venus to Mars — lot of rule: from Jupiter to Venus — lot of purchase: from Jupiter to Saturn — lot of shipping: from Saturn to Saturn — lot of exile: from Sun to Sun — lot of humors: from Saturn to Jupiter — lot of expertise: from Jupiter to Sun — lot of life: from Saturn to Saturn — lot of basis: from Fortune to Daimon — lot of unguent: from Jupiter to Saturn — lot of judgments: from Saturn to Jupiter — lot of expedition: from Sun to (— lot of grief: from Jupiter to Saturn.
 
----
-
-LLM Translation Footnotes
-
-1🤖. The phrase rendered as "furthermore, of initiative" translates the Greek "ἔτι δὲ καί," which can mean "furthermore," "even also," or "in addition;" the choice here preserves a sense of accumulating causes, and "initiative" reflects the original's nuance of active striving—alternatively, "effort" could be used.
-
-2🤖. "Revelation" here translates a Greek term that could also be rendered "exposure;" it refers to the bringing-to-light of hidden things—a standard technical sense in astrological literature.
-
-3🤖. The phrase "vital breath" renders the Greek "πνεῦμα," which can also mean "spirit." "Breath" is chosen here to emphasize the physiological aspect, but "spirit" is also a possible translation.
-
-4🤖. The phrase "at the appointed turning of the hour of condensation" translates a highly technical Greek astrological expression relating to the precise moment of birth. The term "condensation" (from Greek "σταλαγμία") literally means "dripping" or "distillation," and is employed metaphorically for the critical instant when the vital principle is received. Other possible renderings include "the instillation hour" or "the assigned moment of descent."
+1  and of treachery  Paulus and Rhetorius: of attack (omits "and") in the manuscript.  
+2  of struggle in the manuscript.  
+3  also in the manuscript.  
+4  Retribution of spirits in the manuscript; of exposure in the manuscript.  
+5  of courage Paulus and Rhetorius; of ruin in the manuscript; of the mode in the manuscript.  
+6 & supplied from Paulus.  
+7  proximate cause, Paulus, cf. 7. birth in the manuscript.  
+8  being Paulus: come-into-being in the manuscript. from the encircling (perhaps "surrounding," Kroll conjectures) air draws away Paulus. at the turning point of the hour according to the manuscript; at the turning point of the hour as per Paulus.  
+14  Begins folio 132r, cf. the phototype plate at the end of this book.  
+15  of adultery in the manuscript.  
+18  of life and following, half a line missing in the manuscript.  
+21  absent sign. Saturn to Saturn in the manuscript.  
+21  birth in the manuscript.  
+29  of judgments in the manuscript; of expedition in the manuscript, emended by Boll.

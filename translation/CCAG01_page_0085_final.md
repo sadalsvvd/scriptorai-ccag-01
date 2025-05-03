@@ -1,29 +1,14 @@
-OF GREEK ASTROLOGERS: SELECTED TESTIMONIES
+DE ASTROLOGICIS GRAECIS  
+SELECTED TESTIMONIES
 
-From Vettius Valens (writing between A.D. 161–180).
+From Vettius Valens (written between A.D. 161–180).
 
-Proem.
+Prooemium.
 
-Valens to Mark, greetings. As for those statements which the most divine king Nechepsos—who composed the introduction of the third book—has made, they have been collected in what has previously been arranged by ourselves and others. Now, however, I am compiling a work lacking in none of these matters. For it is evident that the judgment was made by him with a mystical insight, and he became for us the initiator of the approach to these things; and both his acknowledgment of former errors and his subsequent rectification provide the apology and intention appropriate to a good and wise man, and his disdain for all kingship and tyranny—compared to his diligent study of such matters, as an experienced and self-assured teacher, displaying to posterity a passionate and exhortative theory regarding these matters—demonstrate this as well. Nor was he, as so many today, carried away by compulsion of practical life or a wandering avarice; therefore, such a man is worthy of esteem.
+Valens to Marcus, greetings. Whatever the most divine king Nechepsos, who composed the beginning of the third book, has said, is gathered together in the works already compiled by us and others. But now I arrange this (book), leaving nothing out. That indeed he made his judgment with mystical understanding, and became for us the chief guide into these things, is clear; also, that his acknowledgment of his previous errors, but his subsequent corrections, bespeaks an apology and purpose on the part of a good and wise man; and his despising all kingship and tyranny besides, in contrast to having zealously pursued such matters as one experienced and confident, showing to those who come after an attitude both passionate and exhortatory. Nor, indeed, did any compulsion of daily life or greedy wandering, as is the case with many now, deter him; whence such a man is acceptable.
 
-The most wise Critodemus, in a work ascribed to him and, with utmost conciseness among many testimonies, composed the following preface: Already, having once sailed across the open sea and traversed many foreign lands, he was deemed worthy by the gods to reach a harbor free from danger and the most secure haven for sojourn. Likewise also Timaeus and Asclettion and many others: these men, carried away by their eloquence and pursuit of marvels, did not produce works consistent with their promises, nor complete and clearly elucidated treatises, but works that in many respects are continually lacking for those who encounter them. In all these, there is what is twisted, envious, confused, and intermingled, and they guide by no road at all, but keep on offering one doctrine after another and—
+Now the most wise Critodemus, in the action entitled with his name, having collected very many testimonies, made such a beginning: Once, having wandered far and journeyed through much desert, he was thought worthy by the gods to attain a harbor without danger and a most safe haven. The same is true of Timaeus and Ascletion and very many others. These, then, carried away by the elegance of their speech and by marvel-mongering, did not exhibit deeds according to their promises, nor formulations that were complete and conclusive, but always left something lacking in many for those who approached them; and in everything there was a certain crookedness and envy and incompleteness and confusion. Nor did they lead by any path, but kept offering choice after choice and an-
 
 ---
-
-LLM Translation Footnotes
-
-^1🤖 The term "composed the introduction of the third book" translates Greek "τὴν ἀρχὴν ποιησάμενος τῆς γ΄ βίβλου," which could also mean "composed the beginning" or "authored the start." Here, "introduction" is chosen for clarity.
-^2🤖 "Collected in what has previously been arranged" renders "ἐν τοῖς προσυντεταγμένοις," indicating prior compilations by this and other authors.
-^3🤖 "Lacking in none of these matters" is from "λειπομένην ἐν οὐδενί," emphasizing comprehensiveness rather than mere completion.
-^4🤖 "With a mystical insight" translates "μυστικῇ συνέσει"; alternatives could be "mystical sense" or "esoteric understanding."
-^5🤖 "Initiator of the approach" for "ἀρχηγὸς τῆς ... εἴσοδου" aligns with the technical sense of leading into a path of knowledge, as in ancient mystery traditions.
-^6🤖 The clause about Nechepsos’s errors could also be rendered, "and his acknowledgment concerning his former errors and, later, his accomplishments, constitute the apology and intention of a good and wise man."
-^7🤖 "Disdain for all kingship and tyranny" translates Greek "καταφρονεῖν ὅλης τῆς βασιλείας καὶ τυραννίδος"; "contempt" or "scorn" also fit but "disdain" suits scholarly style.
-^8🤖 The phrase "passionate and exhortative theory" is from "ἐρωτικὴν καὶ προτρεπτικὴν θεωρίαν"—literally, a theory both passionate (or loving) and encouraging.
-^9🤖 "Compulsion of practical life or a wandering avarice" streamlines "ἀνάγκη βιωτικὴ καὶ πλάνη φιλάργυρος."
-^10🤖 "Worthy of esteem" translates "ἀποδεκτὸς ὁ τοιούτος," which can also mean "such a one is acceptable," but the former better captures the intended respect.
-^11🤖 "Having once sailed across the open sea..." preserves the third-person subject (Critodemus) and metaphorical tone; a literal first person would conflict with context.
-^12🤖 "Pursuit of marvels" renders "φιλοτεχνίας μύθων," which is literally "love of marvelous tales," but "pursuit" fits formal register.
-^13🤖 "Clearly elucidated treatises" rather than "resolved" better expresses clarity and thorough explanation.
-^14🤖 "Twisted, envious, confused, and intermingled" for a series of critical adjectives denoting flaws in previous works.
-^15🤖 "Offering one doctrine after another" is a free but idiomatic translation of the Greek "προσεισφέροντες αἵρεσιν αἵρεσῃ," which could more literally be "offering choice upon choice."
+1 From cod. Bodlei. Selden. 22, 17th cent., description by Riess (cf. mus. Rhen., LII, 339).  
+2 Should δ be deleted? βιβλου ταῖς μυστικοῖς perhaps; συνέσει: see above; εἰς] ἐκ (perhaps ἐνταῃθα); 8 κατορθωμένου; 9 ἀπολ. καὶ διιδν. is suspect; καὶ τὸ καταφρονεῖν] κατὰ καταφρονεῖ (Cumont supports this, writing in v. 10 τὸ <τε> περὶ); 13 πολλοῖς; 15 δράσις; 16 πολαι ἁμαρτῶν; 17 cf. mus. Rhen., l. c. ποτὶ; 17 ἄρμηον διωδεύσας; 18 I question ἄλλως τε; 19 ἀσκλητίων or ἀκλατίων is uncertain; cf. infra Palchum v. 15 and Lydum v. 12. Beware inferring Ἀσκλητίων; the name is Egyptian, cf. Berlin. Urk., I, 14, c. 3, l. 10 (A.D. 255); 21 οὐδὲν πλήρης; 22 τῶν ἐντυγχανόντων I do not understand; 23 namely, ἀναδυόμενον

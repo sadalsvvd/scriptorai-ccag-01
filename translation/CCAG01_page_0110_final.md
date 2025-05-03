@@ -1,29 +1,15 @@
-Mars in Virgo at 8°, Jupiter in Aquarius at 8°, Venus in Gemini at 7°, Hermes (Mercury) in Leo, western (dyticus), separating (aphairetikos); the ascendant in Virgo at 2°, the midheaven in Taurus at 26°, the anabibazōn^1🤖 in Aries at 11°, the Lot of Fortune in Sagittarius at 29°.
+Ares in Virgo at 8°, Zeus in Aquarius at 8°, Aphrodite in Gemini at 7°, Hermes in Leo,** western (setting), separating, Ascendant in Virgo at 2°, Midheaven in Taurus at 26°, Anabibazon [rising degree] in Aries at 11°, Lot of Fortune in Sagittarius at 29°.
 
-Taking the significators for sailing and navigation—which were Saturn and Mars—and seeing again Saturn and Mars at the ascendant, and the Moon being carried toward Saturn, I then said that the ship had fallen into a great storm; but it was saved, because Venus and the Moon were under the aspect of Jupiter, their hebdomad (heptad)^2🤖 was moving toward Jupiter, and their dodekatemorion^3🤖 was toward Jupiter. And since the inception chart for the ship proved to be inconspicuous, the Lot of Fortune was in Sagittarius, where Argo rises, and its lord was in a "sleeping" (nocturnal)^4🤖 sign. Observing that the ascendant was in Gemini and its ruler was in a separating (aphairetikos)^5🤖 position, the ruler of the midheaven—Venus—was in Gemini, the ruler of Fortune was in Gemini, the receiver of the ruler of the Lot of Fortune was in Gemini, and the ruler of the Moon’s house was in Gemini, I said that these would transfer from one ship to another. Furthermore, because Venus was winged according to Sagittarius, I said they were carrying with them some birds; and because the Moon was in the house of Mars and in the bounds of Hermes (Mercury), I said it was likely they were also carrying with them some books or documents, and some bronze vessels because of Scorpio.
+Taking the one sailing and governing—the rulers were Kronos and Ares—and again seeing Kronos and Ares at the Ascendant, and the Moon moving towards Kronos, I then said that the ship had fallen into a great storm; but that it would be saved, because Aphrodite and the Moon were seen under the aspect of Zeus, and their heptad (seven-fold division) was brought toward Zeus, and their dodekatemorion [twelfth-part] toward Zeus. And because the foundation chart concerning the beginning of the voyage was found to be obscure, the Lot of Fortune being in Sagittarius where Argo rises, and its ruler also being in a cadent sign, and seeing the Ascendant in Gemini and the lord of the Ascendant separating, and the lady of the Midheaven, Aphrodite, in Gemini, and the ruler of Fortune in Gemini, and the receiver, the lord of the Lot of Fortune, in Gemini, and the steward of the Moon in Gemini, I said that these would go from ship to ship. And because Aphrodite was “winged” according to Sagittarius, I said that they were carrying some winged things with them; and because the Moon was in the domicile of Ares and the bounds of Hermes, I said also that they were likely to be carrying some books or charts, and some bronze vessels because of Scorpio.
 
-Seeing that Asclepius was rising together with the Moon, I said that they were also bringing medical instruments with them. As for when they should return, I said: when the Moon would be in Aquarius. They came back and, when questioned, recounted their delay at sea, stating that a great storm had arisen, the sea had parted, the prow struck a rock and was broken, and they suffered greatly from the storm; but after putting in to harbor, they transferred the cargo to another ship, and of the items they had brought with them, there were indeed small winged sparrows, a slender scroll because Hermes (Mercury) was separating, cooking vessels because of Scorpio, and a medicine chest filled by reason of Asclepius and Hygieia.
+And seeing that Asclepius rises with the Moon, I said also that they were carrying medical instruments with them. As to when it ought to arrive, I said when the Moon was in Aquarius. They arrived, and when asked, related the slowness at sea; we know that a great storm arose and the sea was divided, the prow struck a rock and was broken, and they suffered greatly from the storm; but after entering a harbor, transferring the cargo to another ship, they finally arrived, bringing with them little winged sparrows and a plain chart because Hermes was separating, and cooking vessels because of Scorpio, and a medicine chest well-stocked because of Asclepius and Hygieia.
 
                                                                                  [F. C.]
 
 ---
 
-G. 113 (236v). Section VI: From Demetrius¹, Concerning Runaways.
+G. 113 (236v). 6. Of Demetrius¹, concerning fugitives.
 
-The ascendant signifies the runaway and the time of his discovery; the midheaven, the cause of the flight; the descendant (setting sign), the outcome for the one who has run away; the IC (lower or subterranean sign), to what region or climate he goes and where he is about to remain. If, then, someone runs away while Aries is ascending, he will be found—
+The Ascendant is the fugitive and also the time of his discovery; the Midheaven, the cause of the flight; the Descendant, the result for the fugitive; the lower heaven [imum coeli], the region to which he is carried off and where he is likely to remain. If, then, someone flees with Aries rising, he will be found—
 
 ¹ Demetrius otherwise appears to be unknown.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 ἀναβιβάζων (anabibazōn): A technical astrological term referring to the anabibazon, a specific degree or point following the ascendant, significant in Hellenistic astrology.
-
-^2🤖 ἑβδομάς (hebdomad, heptad): In ancient astrology, this refers to a span or division of seven degrees (or possibly planetary periods); here, it marks a technical aspect moving toward Jupiter.
-
-^3🤖 δωδεκατημόριον (dodekatemorion): A subdivision of a sign into twelve equal parts (2.5° each), utilized in Hellenistic astrology for precise interpretive work.
-
-^4🤖 καθύπνῳ ζῳδίῳ ("sleeping" or nocturnal sign): The Greek refers to a nocturnal or "inactive" sign; the technical nuance may denote the ruler's passivity or invisibility in the chart.
-
-^5🤖 ἀφαιρετικός (aphairetikos): A technical term meaning "separating" or "removing"—a planet or point moving away from a significant position (e.g., from the Sun or an angle), important for timing and interpretational subtlety in astrology.

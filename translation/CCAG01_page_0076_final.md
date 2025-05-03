@@ -1,21 +1,18 @@
-In the year 2479, the epochs of the fixed stars in the spider-web (ἀράχνη) of the astrolabe.^1🤖
+Year 747: Epochs of the fixed stars on the spiderweb of the astrolabe¹.
 
-Folio 144. General instruction concerning the stations; of Syros = codex 8, folio 143. — Published in the appendix.  
-Folio 144v. Epithets of the seven stars. — Published in the appendix.  
-  On the successive seven ages (Zeus possesses the age of old age; Kronos, thirty-six years; Zeus possesses the age of elderhood, twelve years; the Moon, four years).  
-  Greatest, middle, and least years of the stars (Kronos, greatest years fifty-seven — least, twenty-five).  
-Folio 145. How many years each zodiacal sign apportions and the total years of the stars (Aquarius apportions thirty years — sum, seventy).  
-  Twelfth-part (dodecatemorion) of Aries: a later hand has added in the margin “Ptolemy.” Generally, the twelfth-part of Aries is determined by the equinoctial indicator — and likewise for the remaining signs up to Pisces; explication: “the southern [signs] are watery.”  
-Folio 146. On the tropical and equinoctial signs and the other two centers (“Therefore, in general, there are differences among the so-called tropical [signs], due to physical disposition”).  
-Folio 146v. On the configuration of the stars (“They become related to each other through the parts of the zodiac, because of the co-lordship of Aphrodite”).  
-Folio 148. On exaltations (“The so-called exaltations of the planets (literally ‘wanderers’) are brought low”).  
-Folio 148v. On the bounds (horoi) of the five stars (“The schema of the bounds for the entire application; the explanation follows:”), then on folio 149 a table entitled: “Bounds according to Ptolemy,” then another on folio 149v: “Bounds according to the Egyptians.” The text continues: “Some have also divided them by years… they happen altogether exactly.” Explication: a table concerning which stars have lordship — cf. Paul of Alexandria, folio C, 3v, ed. 1586.  
-Folio 151. On the configurations of the stars (“With these matters thus set forth, the partial approaches are configured together”).  
-Folio 151v. On the examination of meteorological phenomena [meteors] (“With regard to the partial phenomena, anyone investigating by measure will not miss the aim”).  
-Folio 153. General observation concerning the Moon, thunderbolts, and other phenomena, from Labeo, interpreted word for word.
+Folio 144. General instruction concerning the positions; of Syros = codex 8, folio 143. — Edited in the appendix.  
+Folio 144 verso. Epithets of the seven stars. — Edited in the appendix.  
+  On the subordinate seven ages (Zeus has the age of old age; Kronos [has] 36 years; Zeus [has] the age of elders, 12 years — the moon [has] 4 years).  
+  The greatest, mean, and least years of the stars (Kronos: greatest, 57 years — least, 25 years).  
+Folio 145. How many years each zodiac sign apportions, and the complete years of the stars (Aquarius apportions 30 years — and they add up to 70).  
+  Dodecatemorion of Aries: a later hand in the margin has added ‘of Ptolemy’² (So then, the dodecatemorion of Aries in general is according to the indication of the equinoctial — then similarly for the other signs up to Pisces; note: ‘those signs in the south are watery’).  
+Folio 146. On the tropic, equinoctial, and the two other centers (In general, there are differences of the so-called tropics — of physical peculiarity).  
+Folio 146 verso. On the configuration of the stars (They associate with each other among the parts of the zodiac — through the joint lordship of Aphrodite).  
+Folio 148. On the exaltations (The so-called exaltations of the planets — are brought low).  
+Folio 148 verso. On the terms of the five stars (The schema of the terms of the whole imposition — the exposition is thus), then follows on folio 149 a table titled: Terms according to Ptolemy, then another on folio 149 verso: Terms according to the Egyptians; the text resumes: and some have divided even into years — they are entirely thus. Note: table on which stars have dominion — Paul of Alexandria, fol. C, 3v, ed. 1586.  
+Folio 151. On the figures of the stars (Having thus set forth these things, the individual progressions — being figured together).  
+Folio 151 verso. On the investigation of aerial phenomena (With respect to the individual — whoever examines with measure will not miss the mark).  
+Folio 153. Universal observation concerning the Moon on thunderbolts and other positions from Labeo, word-for-word in interpretation.
 
----
-
-LLM Translation Footnotes
-
-^1🤖 The phrase “Ἔτους ζμισ᾽” is Greek numeration. ζμισ᾽ should be read as the numeral 2479 (ζ = 7, μ = 40, ι = 10, σ = 200, ʹ = 1000; thus, (1000 + 700 + 40 + 10 + 200 + 9) = 2479), but the precise year may vary depending on manuscript context. "Spider-web" (ἀράχνη) refers to the web or grid pattern marking the fixed stars on the astrolabe.
+¹ The manuscript is usually assigned to the 11th century; I would not categorically deny that it could have been written in 907, cf. the note on Photius at folio 35v [Kroll, loc. cit.].  
+² Folios 145–152 verso are excerpts from Ptolemy's Tetrabiblos with a few changes (Book II, 10; I, 9, 11, 15–19; II, 11). Collated by Boll.

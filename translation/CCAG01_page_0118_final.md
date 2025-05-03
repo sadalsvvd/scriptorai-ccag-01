@@ -1,44 +1,28 @@
-clearly-shown parents and well-disposed friends as well;  
-heavenly Zeus, the great giver of wealth and fruits;  
-† and at the farthest boundary, upon those who are by far the most blessed,  
-he grants unwearying wealth in abundance, and from the broad-bosomed earth  
-he bestows gold exceedingly precious, heaped together;  
-and bestowing honors, Zeus the good grants many profits at the boundary set by fate  
-to the heirs of their own and to those who have advanced to what is another’s.
+clearly manifest parents and well-disposed friends as well;  
+Zeus, the great heavenly giver of wealth and fruits;  
+and at the furthest end, to the most excellent, he bestows inexhaustible wealth, and out of the broad-soiled earth, precious gold in abundance, to unite them all;  
+and at the boundary of fate, he gives as heirs both those of one’s own kin and those who have come from outside.
 
 Ares in the place of parents.  
-But if Ares consents and swiftly urges on,  
-he sends swift-doomed children by dreadful diseases and makes progeny rare,  
-and by wounds of iron and dreadful calamities,  
-he brings manifold pains with blood and hateful diseases,  
-to a wretched body he gives jaundice and pallor,  
-and in life, grievous toils bringing every kind of disgraceful pain.
+If Ares inclines and drives swiftly into the course of generations,  
+he sends early deaths, dreadful diseases, parent-scarcity, wounds of iron and grievous calamities.  
+Much pain by blood and hateful diseases—jaundice, baleful pallor—falls upon the wretched body,  
+and in life, labors that cause utter disgraceful pain.
 
 Aphrodite in the place of parents.  
-They call her Phosphorus—laughter-loving Aphrodite,  
-a heavenly star, outstanding in great strength,  
-kind both to parent and well-disposed friend, but toward wives  
-she is inferior, a renowned star of much pain;  
-among the people she reveals both distinction and fame for them,  
-she brings estrangement and the “albios”^1🤖 that follows upon it;  
-to the prudent she brings dread things, corrupting wives in their beds.
+She whom they call “the light-bringer,” laughter-loving Aphrodite,  
+celestial star, singular in great vigor, both a blessing to parent and to friend, and calm,  
+but with respect to wives she is worse, a renowned but distress-bringing star,  
+making them conspicuous in the community, bestowing repute and at times exile, as well as dread afflictions,  
+corrupting prudent wives in their beds.
 
 Hermes in the place of parents.  
-Hermes, traversing the place of parents, is not evil;  
-with courage and wise skills he weaves intricate works,  
-he adorns one inferior in repute and skill with knowledge,  
-in the bright arts of the Muses, rich in invention.
+Hermes occupying the place of parents is not evil;  
+by the arts of boldness and wisdom he brings about skillful works;  
+he renders one distinguished in opinions and skilled achievements  
+in the shining arts of the Muses, adorned with inventions.
 
 Selene in the place of children.  
-But if you observe golden Selene again  
-at the birth of children, guiding the course for beloved offspring,  
-she grants a prosperous house and preserves the parent  
-among children possessing very beautiful adornment;  
-she grants much happiness in time—especially with well-born children—  
-and to possess the highly-prized, ever-increasing number for the span of life.
-
----
-
-LLM Translation Footnotes
-
-1. “albios”: The Greek term “ἀλβίον” is obscure and debated; it may refer to a physical affliction (e.g., a whiteness or disease), social estrangement, or another negative condition. The word is retained here given scholarly uncertainty.
+If you behold golden Selene again over offspring—loving children—guiding the path of friends,  
+she bestows a blessed home, grants the parent children of supremely beautiful character,  
+granting much happiness over time, and especially, among those well-born, the possession of a precious and increasing number in life.

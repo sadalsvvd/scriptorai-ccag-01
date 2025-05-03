@@ -1,45 +1,37 @@
-F.65. Cosmical outcomes of the conjunctions (Whenever Saturn is elevated, the one who brings down together with the Sun—in the underlying climes). On years, a trustworthy account from the utterance of a certain Syrian—cod. 7, f. 149v. Cf. Taurinens. CVII, 10, f. 36v [Studi ital., IV, 219]. Published in the appendix.
+F.65. Cosmical Outcomes of Conjunctions (Whenever Saturn is ascendant by chance, the one descending together with the Sun — according to the underlying climes). On Years: A tested [doctrine] from the saying of a certain Syrian — cod. 7, f. 149v. Cf. Taurinens. CVII, 10, f. 36v [Studi ital., IV, 219]. Edited in the appendix.
 
-F.66. On the configurations of the seven stars by Julianus—cod. 7, f. 149v. Published in the appendix.
+F.66. On the Stations of the Seven Stars by Julianus — cod. 7, f. 149v. Edited in the appendix.
 
-F.67v. From what causes the Moon and the stars are harmed (It is necessary to know from what causes the Moon—since it does not seem to be weak)—cod. 7, f. 151v.
+F.67v. From What the Moon and the Stars Are Harmed (One must know from what the Moon — from which it does not seem to be weak) — cod. 7, f. 151v.
 
-F.68. On conjunctions at the full moon, on the beginning—cod. 7, f. 152v. Published in the appendix.
+F.68. On Full Moon Conjunctions, on Inceptions — cod. 7, f. 152v. Edited in the appendix.
 
-On the beginning (At every beginning, observe the sign in which the Moon happens to be—in such a configuration)—cod. 7, f. 153.
+On Inceptions (At every inception, observe the zodiacal sign in which the Moon happens to be — in such a configuration) — cod. 7, f. 153.
 
-F.69. Otherwise on the beginning (The discourse concerning the beginning is presented—and will quickly be made plain)—cod. 7, f. 154.
+F.69. Otherwise Concerning Inceptions (The discourse on inception is apprehended — and will soon be smoothed over) — cod. 7, f. 154.
 
-F.69v. Outcomes of the one who elevates and the one who brings down (If the one who elevates happens together with Jupiter—he will not benefit).
+F.69v. Outcomes of the Ascending and Descending One (If the Ascending One happens to be with Jupiter — neither will it benefit).
 
-F.70. On the manner of the beginning (Then, from the Ascendant let it be taken—it is considered)—cod. 7, f. 154.
+F.70. On the Method of Inception (Thus it must be taken from the ascendant — it is considered) — cod. 7, f. 154.
 
-On the luminaries (At every beginning, if indeed the Sun—of the beginning).
+On the Luminaries (At every inception, if the Sun — of the inception).
 
-F.70v. On the Sun in the beginnings (It is necessary to take the Sun... the circumstances of the beginning will be arranged without harm).
+F.70v. On the Sun in Inceptions (The Sun must be taken... thus the matters of dissolution will proceed without harm).
 
-On the Moon in the beginnings (One must consider with which of the stars—he signifies)—cod. 7, f. 154v.
+On the Moon in Inceptions (And one must see with which of the stars — it indicates) — cod. 7, f. 154v.
 
-F.71v. Inquiry from the configuration of the stars about whatever someone wishes to ask (According to a marginal superscript, [attributed] to Teucer¹) (If someone approaches asking about royal matters—such as these and those that stray aimlessly).
+F.71v. Inquiry from the Combination of the Stars about Whom Someone Wishes to Ask Man. alt. superscr. Teucer¹ (If someone approaches asking concerning royal matters — such men also wander).
 
-F.72v. Restorations of the stars (The star of Hermes—the heliacal rising).
+F.72v. Restorations of the Stars (The star of Hermes — morning rising).
 
-On the manner of the one asking us (See the house rising... of whatever kind).
+On the Manner of the One Consulting Us (See the house on the ascendant... of whatever kind).
 
-Otherwise (When a matter... in presence).
+Otherwise (Whenever a matter... with presence).
 
-On what we are asked (If Saturn is ascending among the evening stars—the underlying subject).
+On Those Things about Which We Are Questioned (If Saturn is on the ascendant among the evening stars — underlying).
 
-F.73. Of what sort is the beginning (Therefore, one must observe the eastern [point]—the beginning is to be conjectured)—cod. 7, f. 155.
+F.73. Of What Kind Is the Inception (Therefore the eastern [star] must be observed — to predict) — cod. 7, f. 155.
 
-What is the nature of the beginning (Thus indeed, the very nature of the beginning—of the position of the stars)—cod. 7, f. 155v.
+What Is the Form of the Inception (So then, the very form of the inception itself — the positions of the stars) — cod. 7, f. 155v.
 
----
-
-¹ On Teucer of Babylon, see von Gutschmid, Kleine Schriften, vol. II, pp. 677, 708 sqq., and Kroll, Philologus, 1898, p. 128. Cf. below at f. 134v.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 On the phrase “According to a marginal superscript, [attributed] to Teucer”: The manuscript contains a marginal note or superscript indicating that this passage is attributed to Teucer. Alternate translation: “as noted in the margin, [this section is] attributed to Teucer (of Babylon).”
+¹ On Teucer of Babylon, see von Gutschmid, Kleine Schriften, vol. II, pp. 677, 708 sqq. and Kroll, Philologus, 1898, p. 128. Cf. infra at f. 134v.

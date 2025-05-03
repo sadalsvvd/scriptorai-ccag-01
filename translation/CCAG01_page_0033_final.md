@@ -1,38 +1,33 @@
 CODICES FLORENTINI 27
 
-Folio 199. 266. On determining what degree the Sun occupies and what degree the Ascendant (The motion from sign to sign—in the compilation of Ptolemy).
+F. 199. 266th section. On how to know what degree the Sun occupies and what degree the Ascendant occupies (The movement from sign to sign—in the compilation of Ptolemy).
 
-Folio 200. 267. On determining the culminating degree (that is, the degree of the sign at the Midheaven—e.g., Aries culminating at degrees 7, 48).
+F. 200. 267th. On how to know the degree at the Midheaven (And the degree of the culminating sign—when Aries culminates at degree 7, minute 48).
 
-268. On determining the year, the month, and the day (Whatever the nativity—the Moon is aspected and Cancer… for the month and for the day).
+268th. On the year, month, and day (Whatever the nativity—when the Moon and Cancer are illuminated, for the month and day).
 
-Folio 202 verso. 270. On the unipartite degree by triangle^1🤖 (The unipartite degree by triangle, after discussing the outcomes, falls short of the greatest beneficence).
+F. 202v. 270th. On the trigonal monomoiria (single-degree divisions) (The trigonal monomoiria... after discussing results, diminishes from much goodness).
 
-Folio 204 verso. 271. Table of triangular unipartite degrees; signs.
+F. 204v. 271st. Table of the trigonal monomoiriai; Signs of the Zodiac.
 
-Folio 205. 272. On the necessary degree of the Ascendant (The unipartite degree by triangle—first he instructed us concerning the Sun’s period—to the rising sign… of the ascending degree).
+F. 205. 272nd. On the necessary degree of the Ascendant (Now the trigonal monomoiria... first he advised us regarding the period of the Sun—toward the rising sign... of the ascending degree).
 
-Folio 207 verso. 273. On climacterics (It indicates deadly and perilous [years], etc.)
-On the conjunctions of the Moon, written in red pigment (The conjunction of the Moon—and on the configurations of the Moon with the Sun).
+F. 207v. 273rd. On climacterics (It indicates fatal and dangerous, etc.)
+On the conjunctions of the Moon written in red pigment (The conjunction of the Moon—and concerning the configurations of the Moon with the Sun).
 
-Folio 212. 274. On rulership and the years of life (The manner of the ruler—the rulership of the years of life).
+F. 212. 274th. On rulership and periods of life (The mode of the ruler—rulership of the periods of life).
 
-Folio 213. 275. From the astronomical prooimion of Hephaistion^2🤖 (Of the celestial disposition, that is, the Zodiac—what is called the thema, we shall state).
-276. On how the thema is constituted (Thema, then, is said to be the whole celestial disposition—twelve places are observed).
-277. On the twelve portions of the Zodiac (Each sign is called—the setting is shown).
+F. 213. 275th. From the astronomical proem of Hephaestion¹ (Concerning the celestial disposition, that is, of the Zodiac—we shall declare what they call the thema).
+276th. On how the thema (chart) is constructed (The so-called thema is the entire celestial disposition—twelve places are seen).
+277th. On the twelve parts of the Zodiac (Each sign is called—the setting is indicated).
 
-Folio 213 verso. 278. On the triangles (triplicities) in the signs (It seems astrologers divide the twelve signs—and the southwesterly [triangle]).
-279. On exaltations ("Exaltation: the Sun—at the 20th degree).
-6. On the configurations of the stars, and first, on the triangle (They are configured with respect to one another; likewise in the others).
+F. 213v. 278th. On the triangles in the signs (They divide, ///// <perhaps: astrologers> the twelve signs—and the notolubikon²).
+279th. On exaltations ("The exaltation is the Sun—at the 20th degree").
+6th. On the figures of the stars, and, first (perhaps), concerning the triangle (They are configured with respect to one another—similarly regarding the rest).
 
-Folio 214. 281. On the configuration by square (The configuration by square—also the one in Capricorn to the one in Aries).
-282. On the configuration by hexagon (The configuration by hexagon is—the only one in one sign).
+F. 214. 281st. On the square configuration (The square configuration—also he in Capricorn with the one in Aries).
+282nd. On the hexagonal configuration (A hexagonal is made—only in one sign).
 
-__________________
-¹ Cf. supra, p. 24, n. 1.
-
-LLM Translation Footnotes
-
-^1🤖 “Unipartite degree” translates a Greek term sometimes rendered as “unidegree”; “unipartite degree” is preferred here for technical precision. Alternative: “unidegree.”
-
-^2🤖 “Prooimion” is retained from the Greek προοίμιον, denoting a scholarly preface or introduction. An alternative rendering would be “preface” or “proem,” but “prooimion” is standard in academic treatments of ancient scientific texts, especially to preserve technical connotations. “Thema,” likewise, is a technical term referring to the whole astrological configuration at birth.
+________________  
+¹ Cf. supra, p. 24, n. 1.  
+² The term "notolubikon" is obscure and untranslated in the source.

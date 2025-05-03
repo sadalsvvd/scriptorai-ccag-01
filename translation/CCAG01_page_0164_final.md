@@ -1,44 +1,50 @@
 158  
-CODICES FLORENTINI
+Codices Florentini
 
-31. On Counter-Dispositorship (Antanalypsis)
+31. On mutual reception.
 
-Counter-dispositorship (Antanalypsis) occurs when the diurnal planets possess the places of the nocturnal ones and the nocturnal planets those of the diurnal—or when stars situated in the signs operate favorably, but the rulers (lords) of those signs are debilitated and ineffective.^1🤖
+Mutual reception is when the diurnal planets occupy the places of the nocturnal, and the nocturnal the places of the diurnal, or when stars situated upon the signs are well dignified, while the lords of the signs are in debility and do not act.
 
-32. On Mutual Reception
+32. On mutual lordship.
 
-Mutual reception is said to occur when, in the signs where the planets are situated, one possesses exaltation and the other domicile.^2🤖
+They are said to be mutual lords when, in the signs where the stars are, one has its exaltation and the other its domicile.
 
-33. On House Lordship (Oikodespotes)
+33. On domicile-lord.
 
-A planet is called the house lord (oikodespotes) when it holds the greatest number of dignities—domicile, exaltation, triplicity, term, or face (decan)—in a given sign.^3🤖
+A planet is called domicile-lord when it has multiple lordships in any of the signs; that is, of domicile, exaltation, triplicity, term, phase, or configuration.
 
-34. On Adherence (Kollēsis)
+34. On application.
 
-Adherence (kollēsis) is the strictest form of application, which occurs whenever a swifter planet draws near to a slower one, provided they are not more than three degrees apart.^4🤖
+Application is, properly, the most direct approach, when one star approaches another, the swifter to the slower, provided they are not separated by more than three degrees.
 
-35. On Application (Synaphē)
+35. On lunar application.
 
-Application (synaphē) of the Moon is when she is within a day's journey (in degree) of forming a synodic conjunction.
+Lunar application is the application of the Moon, when she is distant within a day's journey by synodic degree.
 
-36. On Intervention at Midpoint (Mesembolēsis)
+36. On mediation.
 
-Intervention at midpoint (mesembolēsis) occurs when a star casts its rays into the middle degrees separating two planets as they apply to each other.
+Mediation is when a star casts its rays to the mid-degrees of the application.
 
-37. On Variation (Parallagē)
+37. On separation.
 
-Variation (parallagē) occurs when one star moves away from the degree of another star, either by bodily separation (i.e., ending conjunction) or by aspect.
+Separation is when one of the stars separates either bodily or by aspect from the degree of the other star.
 
-38. On Bond (Syndesmos)
+38. On conjunction.
 
-The Moon is said to be in bond (syndesmos) when she is within fifteen degrees of the Sun; she is released from it when, after departing, she is separated from the Sun by the same number of degrees. The same is said at Full Moon: when she is within fifteen degrees before Full Moon, she is in bond; after receding the same distance past Full Moon, she is released.^5🤖
+Concerning “conjunction”: it is said that the Moon is carried when she comes to fifteen degrees from the Sun; and to release it is when, having separated from it, she recedes by the same number of degrees from the Sun; and the same is said concerning the Full Moon. For when she is within fifteen degrees before the Full Moon, she is coming to conjunction; but when she has moved that amount backward, she releases it.
 
 ---
-
-LLM Translation Footnotes
-
-^1🤖 The Greek ἀνταναλύσις (antanalypsis) denotes a technical condition where planets exchange signs (places), or when the signs themselves are favorable but their rulers are weakened—an idea also known in modern astrology as "mutual disposition" or "counter-dispositorship."  
-^2🤖 “Mutual reception” is the standard English term for the condition where two planets are in each other's signs of exaltation and domicile.  
-^3🤖 "Oikodespotes" (οἰκοδεσπότης) here refers to the planet with the greatest dignity in a sign, calculated by residence and essential dignities: domicile, exaltation, triplicity, term, and face/decan.  
-^4🤖 "Adherence" or "kollēsis" denotes an especially close form of approach (application) within three degrees—the Greek emphasizes contact between faster and slower-moving planets.  
-^5🤖 "Bond" (syndesmos) describes the period when the Moon is near the Sun (within ±15°), technically referring both to the period around New Moon and to a window around Full Moon. This is distinct from the usual conjunction (combustion), and is a broader period of influence.
+2. Nearly the same is given by Porphyry, l. l.  
+3. ἔχουσιν L.  
+5. ἐν δὲ L., ὑπάρχουσι L.  
+6. In codices a, m, q, p, f, chapters 32–44 are joined under the common title: “Explanation of the Terms in the Apotelesmata” (“On the…” etc., m).  
+9. Cf. Hephaestio, 1.13.  
+13–16. Cf. Porphyry, p. 187, Hephaestio I, 14.  
+15. τὸ βραδέιον L. μοῖρας τρεῖς L.  
+19. Cf. Porphyry, p. 188.  
+20. ἀστήρ L¹ and Porphyry, ὁ ἥλιος L² and q, manifest error.  
+22. Cf. Porphyry, p. 187.  
+24. ἀστέρος L²] ἄστρου L¹.  
+26. Ὑπὸ omitted in q. δὲ omitted in L.  ἰεʹ μοῖρες q.  
+28. τοῦ ἡλίου omitted in L¹.  
+29. οὔσα] οὕτως q.

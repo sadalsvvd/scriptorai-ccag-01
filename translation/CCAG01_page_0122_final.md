@@ -1,27 +1,23 @@
 116  
-Florentine Manuscripts
+FLORENTINE MANUSCRIPTS
 
-...the one on the left foot of Orion, the middle one of the three on his belt, the one on the right shoulder of Auriga, the one at the knee of Sagittarius, the one in the Gorgoneion of Perseus, Sirius, the one on the head of the leader of Gemini, the one on the northern claw of Libra, the one on the head of the leader of Gemini, the one on the right shoulder of Orion, the one common to Pegasus and Andromeda, the one on the right foot of Centaurus, the last one of Eridanus.^1🤖
+res, the one on the left foot of Orion, or the middle of the three of his belt, the one on the right shoulder of Auriga, the one at the knee of Sagittarius, the one at the Gorgoneion of Perseus, Sirius, the one on the head of the leader of Gemini, the one on the northern claw of Libra, the one on the head of the leader of Gemini, the one on the right shoulder of Orion, the common star of Pegasus and Andromeda, the one on the right foot of Centaurus, the last of the river Eridanus.
 
-The text proceeds as follows (f. 140v):
+The text proceeds with these words (f. 140v):
 
-If someone is born while the bright star at the tail of Leo is ascending—which is at the 27th degree of Leo—or the one at its loins, also at the same 27th degree, or again when the bright star of Hydra is rising, which comes up with the third degree of Leo, with the mixture (krasis) being that of Saturn and Aphrodite^2🤖, and these stars are rising at the hour of birth, then those so born are made fortunate, very wealthy, and most distinguished. But they are also passionate, and either given to shameful acts or effeminate in appearance^3🤖, lovers of dancing, and prone to coarse or indecent speech concerning matters of love. As they advance in age, some become participants in certain temple-robberies, in pursuit of some kind of divine religiosity—or, honored for self-control, abstain from certain prisoners and from books, and even become knowledgeable about secret things^4🤖. They also become lovers of celestial matters, with eyes that are more gleaming or gray than bright^5🤖, and are handsome in appearance.
+If someone is born when the bright star at the tail of Leo is rising—which is at the 27th degree of the same Leo—or at the one at his loins, which is also at the 27th degree of the same sign, or again when the bright star of Hydra is rising, which rises with the third degree of Leo, having the nature of Saturn and Venus, these rising at the hour of birth make those thus born both fortunate and wealthy and most illustrious, but also passionate and inclined to shameful acts or effeminate in beauty, and furthermore fond of dancing and prone to wicked speech regarding matters of Venus; as they advance in age, some become temple-robbers, finding themselves involved for the sake of a certain religiousness—divine in a sense—or honored for their continence, and refraining from certain prisoners and from books, indeed even becoming experts in the esoteric; they also become lovers of things heavenly, having eyes rather greyish than bright, and handsome in appearance.
 
-3 κζ′: the second is corrupt  4 "of the" their codex  5 "being of the" her codex, perhaps “of the Moon”?  6 The anacoluthon should be attributed to the scribe.  11 "become knowledgeable" thus in the codex  12 "admirers of beauty."
+3  27th: the second occurrence is corrupt.  
+4  at the...: the manuscript.  
+5  being: of the... the manuscript, perhaps of the Moon?  
+6  The anacoluthon seems attributable to the scribe.  
+11  become experts in the esoteric thus in the manuscript.  
+12  lovers of beauty.
 
-Then the author discusses the bright star of the Hyades (the bright one of the Hyades), which produces wealthy and eminent men (f. 141r):
+Next, the author discusses the bright star of the Hyades (the brightest of the Hyades), which produces wealthy and prominent men (f. 141r):
 
-‘Just as the star itself and the position of the Hyades in the whole world is very well known to all people—and is more conspicuous than the rest—so too those who are born when the bright star of the Hyades is rising or on the ascendant become most renowned, most distinguished, and wealthier than other people. The same occurs even when it is in equal portion^6🤖 with the Moon at its rising or at the ascendant. For this star alone has a double power over the others: as it rises, the bright star of Antares is setting exactly opposite, being diametrically situated at the 15th degree of Scorpio, both within the zodiacal circle itself. Thus, both in the western and eastern regions of the inhabited world, and in the other climes, those born at this configuration are famed and powerful.’
+“For just as the star itself and the position of the Hyades are in the whole world and to all people well-known—and is more conspicuous than the others—so too are those born at the rising or culmination of the brightest of the Hyades most renowned and most illustrious and richer than other people. And it effects the same when it shares the same degree with the Moon at its rising or culmination. For this is the only star that has double the power of the other stars, for when it is rising, the bright star of Antares is setting at equal distance, set diametrically opposite at the 15th degree of Scorpio, and both are in the zodiacal circle. Thus indeed, both in the western regions of the inhabited world and in the eastern and in other climates, those under its influence are acclaimed and greatly capable.”
 
-2–3 "than the others" supplied, cf. v. 5.  6 "is in equal portion" in the codex  12 "are" supplied.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 Where constellation or star names might be ambiguous in the Greek (e.g., "the Dog" = Sirius; "the River" = Eridanus; "the Centaur" = Centaurus; "the Twins" = Gemini), standardized modern astronomical nomenclature is used.  
-^2🤖 The phrase "the mixture (krasis) being that of Saturn and Aphrodite" translates the technical Greek astrological term describing the influential temperament formed by Saturn and Venus.  
-^3🤖 "Effeminate in appearance" translates μαλακοκάλους; this might also be rendered "delicately handsome" or "soft in appearance." The term in ancient astrology can suggest a range from graceful refinement to effeminacy.  
-^4🤖 "Secret things" renders ἀπόρρητα, but could also be interpreted as "forbidden" or "arcane" matters, reflecting both esoteric knowledge and possibly taboo subjects.  
-^5🤖 The eye color phrase is difficult: the Greek could indicate "eyes more gleaming or gray than bright," with variants including "bluish-gray," "gleaming," or "gray." The ambiguity is noted for scholarly caution.  
-^6🤖 "Is in equal portion with the Moon" is a translation of the Greek technical astrological expression (ἰσομοιρήσῃ τῇ Σελήνῃ), referencing an aspect or equidistant configuration—i.e., the star and the Moon holding equal or corresponding divisions in the zodiac. Alternate possible renderings are "forms an equal aspect with the Moon" or "is in equal division with the Moon."
+2–3  than the others: supplied, cf. v. 5.  
+6  shares the same degree: manuscript.  
+12  are: supplied.

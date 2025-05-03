@@ -1,1 +1,1 @@
-[No translation provided.]
+[No text to translate on this page.]

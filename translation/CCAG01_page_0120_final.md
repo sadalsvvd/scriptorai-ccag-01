@@ -1,27 +1,37 @@
 114 FLORENTINE MANUSCRIPTS
 
-…the apokyntic hour, at the time of old age, bestows successes and happiness upon the one born, and from great enhancing influences they are fortunate—for the place is obscure—and their deaths, moreover, become illustrious and widely known; for from this same place is also inferred the posthumous transformation of the body.
+…the “apokyntic” hour, at the period of old age, grants successes and good fortunes to the one born, and through great parathetike*[1] they prosper—for the place is obscure—and, moreover, their deaths too become distinguished and widely known; for from this place also is apprehended the posthumous coming-into-being of the body.
 
-These considerations, then, we have set forth with regard to what pertains to the axiom of fortune.^1🤖 For, generally speaking, whenever a bright star arises at the ascendant for any person—or even when one happens to be at the center and the Moon is configured, as we said before, with one of the bright and notable stars—at the apokyntic hour, that person will have a splendid and remarkable life.
+These matters we have indeed discussed in the section concerning the axiom of fortune. In general, for all people, whoever is born at the rising of a bright star, or even when another occupies the center and the Moon makes contact[2]—as we have previously stated—with some one of the bright and notable stars, during the “apokyntic” hour, will have a splendid and illustrious life.
 
-But since their natures have the greatest, most marvelous, and most varied power, and since the difference brought about by their locations is significant, it is necessary for us to set forth what peculiar properties with respect to them have been handed down from our predecessors;
+Now, since their natural influence is greatest, most wondrous, and manifold, and since the difference arises according to the places, it is therefore necessary to set forth the particular natures which have been conserved by the ancients concerning these [stars];
 
-for according to the manner in which each of the fixed stars has an affinity with the planets and with their analogous temperaments, in the same way each of the planets is able and actually brings about similar effects, as even Syphaios himself says. For it is not only necessary to consider the mixture of the Five Stars^2🤖, the Sun, and the Moon with each other, but also their combinations with those of the same nature among the fixed stars, according to the preserved, demonstrated, and recorded affinities with the planets as set down in the table, just as their qualities are able to produce and actually bring about similar effects.
+for, according to the way in which each of the fixed stars has a conjunction (synoikeiosis)[3] with the planets and with their similar mixtures, each of the planets is both capable of and does produce the same effects, as Syphaios*[4] himself also says; for it is necessary not only to consider the mixture of the five stars, the Sun, and the Moon with one another, but also with those of the fixed stars sharing the same nature, in accordance with their preserved and demonstrated and inscribed synoikeiosis with the planets, as shown in the table—just as, among their qualities, being able to produce the same effects.
 
-We have also found this usage among a very few of the ancients, chiefly among those who philosophized about this part of prediction and about the science of the divinity of numbers; these, among the ancients, presented knowledge and qualities of the phenomena more in a scattered and obscure manner.
+We have found this teaching also in very few others among the ancients on the subject of the fixed stars, but most of all among those who philosophized about this part of prognostication and the science of the divinity of numbers; these, among the ancients, have set out the understanding and qualities of the phenomena in a rather scattered and obscure manner.
 
-We, however, wishing to leave a record for ourselves to those worthy of the study of the stars, have drawn from the astronomical canon only those things which [Ptolemy] set forth as useful in the astronomical art, and we have eagerly undertaken and have first fashioned a newer and more commendable arrangement of the table, comprising all wisdom and knowledge of heavenly things, as follows:
-
-***
+But we, wishing to leave a remembrance for ourselves among those worthy of the stars, have transferred from the astronomical canon only so much as [Ptolemy] set forth as useful in the astronomical art, and we have also sought out and for the first time drawn up a newer and more praiseworthy arrangement of the table, containing all wisdom and knowledge of celestial things, as follows:
 
 ---
 
-1. apokyntic hour: The term refers to a technical division of the horoscope, associated with the subsequent phase or 'setting aside'; see the note on terminology.
-2. Five Stars: The five visible planets, i.e., Saturn, Jupiter, Mars, Venus, and Mercury.
+[1] parathetike (παραθητικῶν): The Greek here is corrupt and the precise sense is unclear; sometimes glossed as "substitution," but the true meaning is uncertain.
+[2] "the Moon makes contact": The Greek term is ambiguous and may refer to astrological aspects or conjunction.
+[3] synoikeiosis (συνοικείωσις): A Greek technical term signifying a conjunction or mutual indwelling between celestial bodies.
+[4] Syphaios: The reference is to a person mentioned in the manuscript whose identification is uncertain; see also p. 80, line 9, for further discussion.
 
----
-
-LLM Translation Footnotes
-
-^1🤖 The phrase “axiom of fortune” (περὶ τύχης ἀξιωματικῆς) is a technical term referring to the astrological principle or rule governing fortune or luck. Alternatives might include “doctrine of fortune” or “the authoritative principle concerning fortune.”
-^2🤖 The “Five Stars” (τῶν ἐ’ ἀστέρων) is a standard ancient designation for the five planets visible to the naked eye—Saturn, Jupiter, Mars, Venus, and Mercury—distinct from the Sun and Moon. Also, calling the planets “wandering stars” as opposed to “fixed stars” (ἁπλανεῖς ἀστέρες) follows ancient astronomical terminology.
+Errata and textual apparatus:  
+1 “apokyntic”: ms.; “old age”: ms.  
+2 “to the one born”: ms.; “parathetikon”: corrupt. Perhaps “through great parathetikon.”  
+6 “in general”: ms.  
+7 “whoever”: “the one who” ms.; “bright star”: ms.; “at the center”: ms.  
+8 “in some”: cf. Kroll’s correction; ms.  
+12 “concerning”: ms., emended by Kroll.  
+12 “influence”: ms.  
+14 “their”: ms., emended by Kroll; “particular natures”: ms.; cf. Syphaios—name unknown, cf. p. 80, l. 9, Ephai.  
+22 “from those who bring to an end”: ms.  
+24 “philosophized”: ms.; “this part”: Kroll emendation.  
+25 “numbers”: μ superscript; above “science of the divinity” three dots—something may be missing, hence “science” not emended.  
+26 “obscure”: ms.  
+27 “for ourselves” instead of “for themselves” (cf. Kroll and Marquardt, praef. Galeni, I p. XLIV), though the sense seems to require the former.  
+29 “only”: deleted by Kroll; but “astronomical” seems unique in Ptolemy’s language. “Ptolemy” gloss rejected. “in”: added.  
+32 Perhaps <thus (δεικνυμένου)>. After "as follows" there formerly followed a table, now missing.

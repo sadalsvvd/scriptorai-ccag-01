@@ -1,55 +1,52 @@
-Stê. (306). On the opposition (Opposition occurs when—while the opposition).
+316. On the Diametral Aspect. (A diametral aspect occurs— when the two bodies are in opposition by diameter.)
 
-Spd. (284). On right-hand and left-hand configurations (Whenever it is necessary by degree—in the right-hand configuration).
+314. On Right and Left Figures. (When it is necessary according to degree— in the right-hand figure.)
 
-Folio 214v. Spe. (305). On casting a ray (It is said to cast a ray when—a malefic influence is produced by the diameter).
+F. 214v.  
+315. On Irradiation. (Irradiation is said to occur— when a malefic is present on the diameter.)
 
-Sph. (308). On disjunct and aversive signs (Disjunct signs are—both the 8th and the 12th).
+318. On Disjunct and Averse Signs. (Disjunct signs are— both the eighth and the twelfth.)
 
-Spz. (307). On masculine and feminine signs (Some of the signs are masculine—up to the ascendant).
+317. On Masculine and Feminine Signs. (Some signs are masculine— up to the ascendant.)
 
-Stê. (306^1🤖). On profitable and unprofitable places (Profitable places are—the rest are unprofitable).
+318. On Lucrative and Non-lucrative Places. (Lucrative places are— the rest are non-lucrative.)
 
-Spth. (309). On the twelfth-part of the stars (The twelfth-part of the Moon—the twelfth-part of the Moon^2🤖).
+319. On the Dodecatemoria of the Stars. (The dodecatemorion of the Moon— the dodecatemorion of the Moon.)
 
-Folio 215. Sph. (330). On conjunction and application (Conjunction and application occur—until the following seven appears).
+F. 215.  
+320. On Application and Adherence. (Application and adherence— until the following seven occur.)
 
-Spha. (331). On separation (Separation is whenever—up to twenty the separation).
+321. On Emission. (Emission is when— until the twentieth, the emission.)
 
-Sphb. (332). On abscission (A star is called abscissory—and this is called "to trample").
+322. On Removal. (A removal star is said— and is said to be “underfoot.”)
 
-Sphg. (333). On addition (Addition occurs when—they effect movement).
+323. On Addition. (An addition star is when— they make movement.)
 
-Sphd. (334). On station (Station is said—even one degree).
+324. On Support. (Support is said to be— and a single degree.)
 
-Sphe. (335). On first light (A star is said to be at first light—at the time of its setting).
+325. On the “Under the Rays” Status. (“Under the rays” is said— at the setting.)
 
-Sphz. (337). On diurnal and nocturnal <stars> (Diurnal <stars>—may have been configured^3🤖).
+327. On Diurnal and Nocturnal Stars. (Diurnal stars— are configured.)
 
-Sphê. (338). On eclipsing conjunctions (There are two places—not a sign of conjunction).
+328. On Ecliptic Conjunctions. (There are two places— conjunction is not a sign.)
 
-Sphth. (339). On lordship (It is said to be lord—of whatever kind it is).
+329. On the Steward. (To be steward is said— of whatever kind it may be.)
 
-Schth. (869). On leap (A leap is when—it will damage the nativity).
+389. On Ejection. (Ejection is said— it harms the nativity.)
 
-T'. (9). On fall (Fall is when—the full moon).
+9. On Fall. (Fall is said— the full moon.)
 
-Ta'. (61). On releasing places in a nativity (Releasing places are—at each nativity).
+11. On Aphetic Places in the Nativity. (Aphetic places are— for each nativity.)
 
-Folio 216. Tb'. (62). On projection by ray (When the ascendant—it is called matured).
+F. 216.  
+12. On Release by Irradiation. (When the ascendant— it is called “matured.”)
 
-Tg'. (63). On enclosure (They speak of enclosure—but under benefics it is beneficial).
+13. On Enclosure. (Enclosure is said to be— but by benefics, it is beneficial.)
 
-Folio 216v. Td'. (64). On the houses of the stars (The houses of the stars—and one must not speak tautologically).
+F. 216v.  
+14. On the Domiciles of the Stars. (The domiciles of the stars— and one should not be repetitive.)
 
-Te'. (65). On co-rulership (Co-rulers of each other—of the others likewise).
+15. On Co-rulership. (Co-rulers of each other are— likewise for the others.)
 
----
-
-LLM Translation Footnotes
-
-^1🤖 The repetition of "Stê. (306)" reflects the Greek manuscript divisions; the topics differ, so both are kept.
-
-^2🤖 The repetition ("The twelfth-part of the Moon—the twelfth-part of the Moon") mirrors the original's terse referential style.
-
-^3🤖 The term <stars> is supplied editorially where the Greek refers elliptically to diurnal and nocturnal entities; see apparatus for details.
+________________  
+¹ Cf. supra, p. 24, n. 1.

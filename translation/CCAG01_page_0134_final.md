@@ -1,30 +1,35 @@
 128  
 CODICES FLORENTINI
 
-...of reclination. For from these it is possible to discern those matters that are more accessible, as well as anything that has been omitted owing to the length of the treatise.
-
+...of decumbiture; for from these it is possible to find the most pertinent outcomes, as well as anything omitted on account of the length of the treatise.  
 [A. O.]
 
-F. 20. A Method by Numbers concerning the Prognosis of Whether the Patient Will Survive in Health, Be in Danger, or Die.
+F. 20. A method by numbers for predicting whether the patient will survive in health, remain in danger, or die.
 
-For the sake of clarity, let the divisions of days first be set forth as indicated to humanity by Hermes Trismegistus; after these follow the methods discovered by Petosiris and Pythagoras. Now, Hermes Trismegistus advises to count from the heliacal rising of Sirius—that is, Epiphi 25 according to the Alexandrians—up to the day of crisis^1🤖, and then to divide the total number by 30. One then observes, in the following canon, with which verse (stichos) and with which direct element^2🤖 the remainder coincides. For zeta (7)^3🤖 signifies life, kappa (20) danger, and theta (9) death.
-
+And for the sake of clarity, let us first present the division of days indicated to mortals by Hermes; after this follow the methods discovered by Petosiris and Pythagoras. Thus, Hermes Trismegistus advises to count from the rising of the Dog-Star—that is, Epiphi 25 according to the Alexandrians—up to the day of decumbiture, and to divide the resulting number by 36; then, observe the remainder in the following canon, to see in which line and in which direct element it falls. For zeta (ζ, 7) indicates life, kappa (κ, 20) danger, and theta (θ, 9) death.
 [A. O.]
 
-⁴–⁵ "to humanity" omitted in L’. 5 "of days" for "through <certain> [words]" <> erased in L’. 6 "and in addition even 21 by" in L’. "methods discovered" omitted in L’. 7 "of the letter" in L’. 8 in the margin, vanished: "that is, July 19 (?)." "up to the day" omitted in L’. 9 "remainder" in L’. 10 after "and": "the adjacent element by such a number to be taken for the knowledge of the object sought," in L’. 10–11 "with which direct element" omitted in L’. 11 after "zeta": "element" in L’.
+⁴–⁵ “to mortals” omitted in L’.  
+5 “of days”: “through certain” in erasure L’.  
+6 “and also in the case of 12 by” under L’.  
+“methods discovered” omitted in L’.  
+7 “of the letter” L’.  
+8 In the margin, erased: “that is, July 19 (?)”.  
+“up to the day” omitted in L’.  
+9 “remaining” L’.  
+10 After “and”: “the adjacent element for such a number is taken for the knowledge of the proposed query” L’.  
+10–11 “in which direct element” “in which” omitted in L’.  
+11 After “zeta (ζ)”: “element” L’.
 
-F. 22v. Beginnings According to Zenarion.
+F. 22v. Beginnings according to Zenarion¹.
 
-Let it also be set forth, as according to Zenarion, how certain individuals arrange the beginnings so that their method does not escape notice. For, having determined the day of the conjunction in Cancer, they count from that day up to the desired day and divide the total by 7, then analyze the remainder by units: the first to Kronos, the second to Ares, the third to Aphrodite, the fourth to Selene (the Moon), the fifth to Zeus, the sixth to Helios (the Sun), the seventh to Hermes. Accordingly, whichever planet the number ends upon, they say that this planet has lordship over the day and is at war. As for the hour of the beginning, they assign the presiding planet in this manner: the first hour is given to the ruling planet itself, and the second arranged thus—for example, if Kronos is ruler, Kronos receives the first hour, Selene the second, Hermes the third, Ares the fourth, Helios the fifth, Aphrodite the sixth, Zeus the seventh; likewise, the eighth hour returns to Kronos, and the remainder follow in the same previously stated order of rulers. If Ares is the ruler, it proceeds in the same fashion.
+Let it also be set forth, according to Zenarion, how certain persons determine the beginnings so as not to be deceived, each according to their own method; for having found the day of the conjunction in Cancer, they count from that day up to the desired day, and the total they divide by 7, resolving the remainders one by one: the first to Kronos (Saturn), second to Ares (Mars), third to Aphrodite (Venus), fourth to Selene (Moon), fifth to Zeus (Jupiter), sixth to Helios (Sun), seventh to Hermes (Mercury); and whichever number it falls to, this one, they say, rules and contends for the day. The ruler of the hour of the beginning is taken likewise: the first hour is assigned to the very one contending, the second as follows: if, for instance, Kronos is contending, Kronos is given the first hour, Selene the second, Hermes the third, Ares the fourth, Helios the fifth, Aphrodite the sixth, Zeus the seventh; in the same way, the eighth again to Kronos, and so on for the rest according to the aforementioned order of the rulers. If Ares is contending, then in the same order, likewise.
 
-(Parisinum) 1991, 15th c. (f. 49r), collated by Cumont. 6 supply "they assign" (cf. below), first, second, etc. codex. 8 "upon which" P. "ends" P. 10 "the first" L. "to" omitted in P. 11 "for example" P. "ruling" P. "the first, etc.," "the" everywhere must be written or omitted as in vv. 15 sqq. 12 "thus" mss., "Hermes" corr. Kroll.
+(Parisinus) 1991, 15th century (f. 49r) collated by Cumont.  
+6 Supply “they assign” (cf. infra) to “first,” “second,” etc. in the codex.  
+8 “on which” P. “it falls” P.  
+10 “the first” L., “the” omitted in P.  
+11 “if” P. “contending” P. “the first, etc.” write or omit everywhere as in vv. 15ff.  
+12 “likewise” manuscripts, “Hermes” corrected by Kroll.
 
-¹ Nothing reliable is known about Zenarion.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 The Greek term "ἡμέρα τῆς κατακλίσεως" literally means "the day of reclination" (when a patient takes to bed ill). In this medical-astrological context, it refers to the "critical day" or significant turning point in an illness.  
-^2🤖 The term "στοιχεῖον" here could indicate a letter/character, a particular element in a list or table, or potentially even an astrological element; given the tabular context and the use of Greek letter-numerals, both senses may be relevant.  
-^3🤖 Greek letters were often used numerically in such tables; thus, zeta (7), kappa (20), and theta (9) indicate both the letter and the corresponding numeric value.
+¹ Nothing is known about Zenarion.

@@ -1,31 +1,23 @@
-...terms and bounds, while Kronos has both exaltation and terms; yet the authority of Aphrodite is greater^1🤖 owing to her domicile. In Scorpio, Ares has domicile, trigon^2🤖, and terms; Aphrodite has trigon and terms; the Moon only trigon; therefore, Ares has greater authority by reason of domicile and also by superiority in governing powers. In Sagittarius, Zeus has domicile, trigon, and terms; the Sun only trigon; the others only terms—thus, Zeus has greater authority. In Capricorn, Kronos has domicile and terms, the Moon has trigon, Aphrodite has trigon and terms, but Kronos is more authoritative. In Aquarius, Kronos has domicile, trigon, and terms; Hermes has trigon and terms; clearly, Kronos is the more authoritative. In Pisces, Zeus has domicile and terms; Ares and Aphrodite have trigon and terms; the Moon has trigon; thus, Zeus is more authoritative. But, for clarity, let it be set out as follows: the Sun alone for Leo; the Moon alone for Cancer; Hermes for Gemini and Virgo; Aphrodite for Libra and Taurus; Ares for Aries and Scorpio; Zeus for Sagittarius and Pisces; Kronos for Aquarius and Capricorn.
+...of Aphrodite both the triplicity and the bounds, and Kronos both the exaltation and the bounds, yet the lordship of Aphrodite is greater on account of the domicile; in Scorpio, Mars has the domicile, as well as the triplicity and the bounds, Aphrodite the triplicity and the bounds, and the Moon only the triplicity, so that Mars is more dominant, both because of the domicile and because of the greater share according to the doctrines; in Sagittarius, Zeus has the domicile, and also the triplicity and the bounds, while the Sun only the triplicity, and the rest only the bounds, so Zeus is more dominant; in Capricorn, Kronos has the domicile and the bounds, the Moon the triplicity, Aphrodite the triplicity and the bounds, and Kronos is more dominant; in Aquarius, Kronos has the domicile, and both the triplicity and the bounds, while Hermes has both the triplicity and the bounds, and it is clear that Kronos is more dominant; in Pisces, Zeus has the domicile and the bounds, Mars and Aphrodite both the triplicity and the bounds, and the Moon the triplicity, so Zeus, therefore, is more dominant. For greater clarity, let these be set out thus: only the Sun for Leo, only the Moon for Cancer, Hermes for Gemini and Virgo, Aphrodite for Libra and Taurus, Mars for Aries and Scorpio, <Zeus for Sagittarius> and Pisces, <Kronos for Aquarius> and Capricorn.
 
 [A. O.]
 
-"[The sign of Aquarius can easily be read instead of Scorpio, as below at (51), Virgo instead of Capricorn.]"
-"[Sagittarius supplied.]"
-"[Kronos supplied.]"
+2 “Aquarii signum pro Scorpii facile legitur, ut infra (51) Virginis pro Capricorni.”
+15 <Sagittarius> supplied.
+16 <Kronos> supplied.
 
-F. 43v. 31. On Application (Synaphē) and Separation.
+F. 43v.
 
-Application^3🤖, also called "conjunction," occurs when two or more stars are in the same zodiacal sign, and the preceding one is joined to the following either bodily or in whatever aspect, or is about to be joined within up to 3 degrees; only for the Moon does application begin from 10 degrees. Separation, on the other hand, is when a star, having already been joined to another, either bodily or by aspect, departs again after three degrees toward the following (degrees); for the Moon alone, separation is reckoned after 10 degrees.
+31. On conjunction (also called application) and separation.
+
+Conjunction, which is also called application, is when two stars—or more—are in one zodiacal sign and the preceding is joined to the following either bodily or by any figure, or is about to be joined within three degrees, except for the Moon, which forms a conjunction from ten degrees. Separation is when a star, having already been bodily joined or configured with another, withdraws again from it after three degrees, moving to the next; for the Moon alone, separation occurs after ten degrees.
 
 [A. O.]
 
-1 Cf. Hephaistio of Thebes, loc. cit., ch. 14. 2 “as also” supplied by Kroll.
+1 Cf. Hephaistio of Thebes, ibid., ch. 14.   2 “as also” (ὡς καὶ) supplied by Kroll.
 
-32. On Enclosure, mentioned in three ways.
+32. On enclosure; stated in three ways.
 
-Enclosure is said to occur when the body of a star is in a certain zodiacal sign, and the two signs on either side of it are configured by trigon and by opposition (i.e., diametrically^4🤖) by one of the malefics^5🤖; for example, let the Moon be in Virgo and Ares in Aries—thus, Ares configures the two signs on either side of Virgo, Leo and Libra, the one by trigon and the other by opposition. Therefore, in a nativity, when the Moon or the Ascendant is enclosed by one of the malefic stars, the configuration is inauspicious and makes those born under it short-lived. Others, however, have defined enclosure as follows—
+Enclosure occurs when the body of a star in a certain sign, and the two signs on either side, are figured by one of the malefics, either by trine or by opposition; for example, let the Moon be in Virgo and Mars in Aries: here Mars figures the two signs on either side of Virgo, Leo and Libra, one by trine and the other by opposition. Therefore, when at a nativity the Moon or the Ascendant is enclosed by one of the malefics, the configuration is bad and makes those born short-lived. Others, however, have handed down enclosure as follows—
 
-1 Cf. Hephaistio of Thebes, loc. cit., ch. 15. 3 "are configured" in codex. 9 "those born" in codex.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 Greek "κυριώτερος": Here rendered as "greater authority" or "more authoritative" to express the technical astrological sense of having the dominant influence or rulership in the sign, rather than mere physical strength. Alternate renderings: "more dominant," "is predominant."
-^2🤖 "Trigon" is left untranslated for scholarly precision. In Hellenistic astrology, "trigon" refers specifically to triplicity rulership, not the aspect "trine," which is a geometric configuration.
-^3🤖 Greek "συναφή": Though sometimes translated as "application" (the approaching of two planets or luminaries by degree), some traditions render it "conjunction." Modern astrology uses "application" when a faster planet approaches a slower, or a planet approaches an aspect. The Moon has a larger orb for application/separation (10 degrees).
-^4🤖 Greek "διαμετρικῶς": "Diametrically" clarifies the technical sense of opposition—i.e., a 180-degree relationship between signs.
-^5🤖 "Malefics" refers to Ares (Mars) and Kronos (Saturn) in ancient astrology, understood as planets whose influence is traditionally regarded as inauspicious.
+1 Cf. Hephaistio of Thebes, ibid., ch. 15.   3 "σχηματίζονται" in the codex.   9 "γενομένους" in the codex.

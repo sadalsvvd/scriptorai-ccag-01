@@ -1,32 +1,29 @@
-CODICES FLORENTINI
+FLORENTINE MANUSCRIPTS
 
-and of the one causing it to descend. — 8ms, f. 6, On the latitude of the Moon.
-— 9ms, f. 6v, On the longitudinal computation by counting-off (ψηφοφορία; a computational method^1🤖) of the five wandering stars.
-— 10ms, f. 7, Computation by counting-off by longitude of the five wandering stars.
-— 11ms, f. 7v, On those by latitude, from the intervals in the zodiac, of the three wandering stars—Cronus (Saturn), Zeus (Jupiter), and Ares (Mars).
-— 12ms, f. 9, On the latitude of Aphrodite (Venus) and Hermes (Mercury).
-— 13ms, f. 10, On conjunctions and full-moon syzygies.
-— 14ms, f. 12v, On the ecliptic periods of the Sun and Moon.
-— 15ms, f. 13v, On lunar eclipses.
-— 16ms, f. 14, On solar eclipses.
-— 17ms, f. 15v, On the transition from sign to sign of the Sun, Moon, and the five wandering stars.
-— 18ms, f. 16v, On the increase (of those in relation to the Sun, Moon, and the rest)... in astrologica desinunt.
-(19ms, f. 17v, Prognostication from the lines in the palm; definitions [What one must define and call the part from the lines—from these a bad thing is produced for them]).
-—20ms, On election. [If, however, someone were to have the necessary (palm) line cut—he will be wounded or in danger of being wounded].
-—21ms, f. 18, On the life-giving line [If the life-giving line is divided by oblique lines—they are easily deceived by women^2🤖]).
-—ff. 20–89. Canons, the first of which is entitled “Canon of the longitude and latitude of notable cities”; the last, as appears from f. 81v (tables), is untitled.
+and of the one who leads down.  
+— 8ms, f. 6, On the breadth of the Moon.  
+— 9ms, f. 6v, On the longitudinal equation of the five wandering stars.  
+— 10ms, f. 7, Equation <sic> in longitude of the five wandering stars.  
+— 11ms, f. 7v, On the latitudinal differences, from the zodiacal line, of the three wandering stars Saturn, Jupiter, and Mars.  
+— 12ms, f. 9, On the latitude of Venus and Mercury.  
+— 13ms, f. 10, On synodic and full-moon conjunctions.  
+— 14ms, f. 12v, On the eclipse periods of Sun and Moon.  
+— 15ms, f. 13v, On lunar eclipses.  
+— 16ms, f. 14, On solar eclipses.  
+— 17ms, f. 15v, On the passage from sign to sign of the Sun, Moon, and the five wandering stars.  
+— 18ms, f. 16v, On the increase of those (i.e., of the Sun, Moon, and the others). The astrological matters conclude here.  
+(19ms, f. 17v, Prognostics from the lines in the palm; definitions [What must be determined and called the part from the lines — brings them harm]).  
+— 20ms, On the choice. [If anyone interrupts the necessary line — he will be wounded or run the risk of being wounded].  
+— 21ms, f. 18, On the life-line [If the life-line is divided by transverse lines — they are easily deceived by women]).
 
-f. 90. By Isaac the monk called Argyrus (the argentarius)^3 to Andronikos of Oinaeae (the Oenaitēs lord), at whose request he set forth methods, in logical demonstration, of the solar and lunar cycles and their attendant matters (Since the other wise men of today—will refuse to speak freely^4🤖).
+— ff. 20–89. Canons, of which the first is entitled “canon of the longitude and latitude of notable cities,” the last, as appears from f. 81v, tables, is without title.
 
-f. 99. From the Apotelesmatics^5 of Hephaestion of Thebes and other ancients. On the name and power of the twelve portions (The ancients [divided] the zodiac—either some sort of pharmakeia is performed or it is carried off and not even granted burial), cf. Hephaestion of Thebes, book I, ch. 1 (ed. Engelbrecht).
+f. 90. Isaac the monk, the silversmith¹, to the lord of Oinaion, Andronikos, who requested him to lay out logical methods for solar and lunar cycles and the following matters (Since the other wise men of our time — will decline to speak openly¹).
 
-f. 106. In which signs the five planets rejoice (Cancer rejoices in Aquarius... Hermes [Mercury] in Virgo), cf. ibid., ch. 7. Which of the twelve places are better (Of the twelve places—preeminently the most hateful of all), cf. ibid., ch. 12.
+f. 99. From the Apotelesmatics of Hephaestion of Thebes² and other ancients. On the names and powers of the twelve parts (The zodiac, the ancients — or sometimes a magical potion is performed, or the person is taken away and will not even receive burial), cf. Hephaest. Theb. book I, chap. 1 (ed. Engelbrecht).
+
+f. 106. In which places the five stars rejoice (Cancer rejoices in Aquarius — and Hermes in Virgo), cf. ibid., chap. 7. Which of the twelve places are better (Of the twelve places that exist — in particular above all are the most detested), cf. ibid., chap. 12.
 
 ---
-^1🤖 “ψηφοφορία” literally means “voting” or “counting-off,” but in the context of Greek astronomical texts, it refers to a computational or tabular procedure for determining positions, here of the planets (“wandering stars”).
-^2🤖 Refers to the line in chiromancy (palmistry) known as the “life-giving line”; the parenthetical phrase reflects a traditional interpretation linking certain palm features with susceptibility to women.
-^3 “Argyrus” is a name; “argentarius” (“the silversmith” or “money-changer”) is a possible title or nickname.
-^4🤖 “Will refuse to speak freely” attempts to render “τῷ παρρησιάζεσθαι παραιτήσονται,” which carries the sense of declining to express opinions openly; alternate translation: “will shrink from frank exposition.”
-^5 “Apotelesmatics” is a technical term for works dealing with the outcomes (effects, results) of astrological configurations.
-
-LLM Translation Footnotes
+¹ This booklet, written by Isaac the monk, at least sixty years old, in October of the year 1372, was published by D. Petavius in the Uranologion, p. 359 ff. (on the chronology see p. 362, 364b, 381d), [= De Doctrina temporum, Antwerp, 1703, vol. III, p. 195 ff.] Cf. Usener, op. cit., p. 5, n. 1.  
+² On the excerpts from Hephaestion, see cod. 8, f. 33 ff. and Studi italiani di Filologia classica, vol. VI, p. 2 ff., where we show that the Paris manuscripts used by Engelbrecht ought to be supplemented from the Laurentian ones.

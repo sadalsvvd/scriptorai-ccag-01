@@ -1,23 +1,14 @@
 APPENDIX
 
 The Sun in the place of children.  
-But the Sun by its ray is useless in respect to children  
-................................................................  
-for it is triangular [i.e., in a trine aspect]; and then it is opposed to Mars,  
-but in regard to friendship, as well as in deeds and prosperity, it is excellent.   [A. O.]
+The Sun is unprofitable for children in the ray of Boe.  
+...............................................................  
+it is triangular in form; then it is in opposition to Mars. In friendship, however, it is noble, both in deeds and in prosperity.   [A. O.]
 
-2 cf. Firmic. 133, 19 [Kroll]   3 lacun. signific.   4 ἐστὶ (sic) τι τρίγ. cod. μετὰ cod., corr. Kroll. καλῶς cod., corr. Kroll. ἐνεργοῦσι cod.
+2 cf. Firmic. 133, 19 [Kroll]   3 lacuna of meaning   4 ἐστὶ (sic) τι τρίγ. in the codex; μετὰ in the codex, emended by Kroll. καλῶς in the codex, emended by Kroll. ἐνεργοῦσι in the codex.
 
-F. 136v (288v). ρλεʹ. <Apotelesmata (Outcomes)> of the Period of the Fixed Stars¹.
+F. 136v (288v). ρλεʹ. <Apo>telēmata of the period of the fixed stars¹.
 
-If, therefore, at the nativity you find the Moon in conjunction with one of the bright and notable stars, that is, situated near their equal divisions, and especially if the Moon moves along the same wind as the bright star that is also close to her^1🤖 subdivisions, they make the nativities great, illustrious, most conspicuous, and prosperous. Likewise, if any of the bright stars is rising at the ascendant or is ascending at the time of birth, or again is overhead at the midheaven, or is found at any of the other angles, they produce illustrious, leading, enterprising, and wealthy natives, known or feared in cities or regions. And notably, in those regions where the bright stars also rise at the ascendant at the time someone is born, those born are renowned, as set forth in the table. Accordingly, those stars found at the ascendant or culminating at the midheaven grant prosperity almost from youth and in their own cities; but if any of the bright stars is found at the western angle at the hour of birth, happiness occurs especially in foreign lands and about middle age, and a splendid marriage and inheritance from the wealthy is bestowed, but disputes arise chiefly through the mediation of female persons. But if any of the bright stars is found at the lower angle at...^2🤖
+If, therefore, you find at birth the Moon meeting with one of the bright and notable stars, that is, being near their equidistant divisions, and especially if the Moon runs along the same wind as the bright star itself, which is near its (the Moon’s) divisions, they produce births that are great and brilliant and most illustrious and prosperous. Similarly, also, if one of the bright stars is at the horoscope or rising at the time of birth, or again is at the zenith in the midheaven, or even found at the other angles, it brings about people who are illustrious, high-ranking, active in affairs, wealthy, and either known or feared in cities or regions, and especially in those regions are the natives honored in which the bright stars themselves are placed or are rising when one is born, as is set forth in the table; thus, those rising or at culmination from youth provide prosperity even in one's own cities; but if one of the bright stars is found at the western angle at the time of birth, it brings about happiness especially in a foreign land and about middle age, and gives a splendid marriage and inheritance from the wealthy, and disputes mainly through the intervention of women; but if one of the bright stars is found at the lower angle at...
 
-¹ <Apotelesmata (Outcomes)> is omitted in the main text and restored here from the table of the codex; on this Greek term, see LLM Translation Footnotes.
-³ εὕρῃς cod., emended by Kroll. 6–7 τ. Σελήνης excluded. 13 ἀποτελεῖ cod. 15 πίνακι] cf. infra v. 53. 15 With the word "youth" fol. 137 and the writing of the earlier hand ends; folios 137–148 are by another copyist, apparently transcribing defective leaves from the fifteenth century. 16 "age" supplied in the margin. δὲ] τε cod.; cf. v. 21. 20 διὰ ὁρώσεως cod., δὲ added; on fol. 140v: "through female persons they greatly prosper."
-
----
-
-LLM Translation Footnotes
-
-^1🤖 The pronoun "her" is used for the Moon, following classical and astrological tradition and in accordance with the Greek grammatical gender.
-^2🤖 The ellipsis at the end of this sentence reflects an open or incomplete clause in the original manuscript, indicating a textual break or continuation onto the next folio.
+¹ Ἀπό omitted in the text, added from the table of the codex. 3 εὕρῃς in the codex, emended by Kroll. 6–7 [τ. Σελήνης] omitted. 13 ἀποτελεῖ in the codex. 15 πίνακι] cf. below v. 53. 15 With the word 'youth' the writing of folio 137 and of the first scribe ends. The following ff. 137–148 are written by a different scribe, who seems to have copied the worn leaves in the fifteenth century. 16 ἡλικίας supplied in the margin. δὲ] τε in the codex, cf. v. 21. 20 διὰ ὁρώσεως in the codex; δὲ added. On f. 140v, it reads: “from women’s interventions, they become very prosperous.”

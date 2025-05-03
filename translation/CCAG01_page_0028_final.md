@@ -1,51 +1,46 @@
 22  
-THE FLORENTINE MANUSCRIPTS  
+FLORENTINE MANUSCRIPTS  
 
-from the poorest of mortals, and this is what the book of the Babylonians records.
+from among the poorest of mortals, and this is also what the book of the Babylonians records.
 
-F. 18. In summary form you will find, according to the required Roman month of the current year, the place and time of the syzygies^1🤖 and full moons, transformed by new canons^2🤖 from those in the great Compilation^3🤖 of Ptolemy on the syzygies and full moons, as well as by canons for the anomaly of both the Sun and the Moon. From these, a very concise method is presented, showing at which syzygy there will be an eclipse of the Sun or the Moon—this at the request of certain persons, so that it might become a single treatise. Then, from these also, concerning the uniform and anomalous^4🤖 [motions] of the Sun at each season, and of the Moon only in its uniform [motion].
+F. 18. In brief, you will find, according to the desired Roman month of the current year, as well as the place and time of conjunctions and full moons, recalculated by new tables from those in the great compilation of Ptolemy concerning conjunctions and full moons, and also by tables of the anomaly of both the Sun and Moon; from which also a very concise method is derived, indicating in which conjunction there will be an eclipse of the Sun or Moon, at the request of certain individuals, so that it might form a single whole; then from these, also, concerning the regular and anomalous positions of the Sun at each season, but of the Moon only the regular.
 
-The chapters are inscribed as follows.
+The chapters are as follows:
 
-α. Method for the syzygies and full moons; whose beginning is the method for the conjunctions (The syzygy and the full moon—of its latitude).
+αʹ. Method of the conjunctions and full moons; whose beginning is the method of the conjunctions (The conjunction and the full moon—concerning their latitude).
 
 F. 18v.
 
-β. Time of the mean syzygy (And thus we have the time—from the [degree] in which the Sun is).
+βʹ. The time of the mean conjunction (And thus we have the time—from the moment in which the Sun is).
 
-γ. The uniform solar epoch or at the syzygy, in which degree of the Zodiac it is, or likewise the uniform lunar epoch, or at the syzygy, or the epoch of this [Moon], or at the opposition at the full moon (As for the Sun, its epoch—we will take the epoch).
+γʹ. Regular position of the Sun either at the conjunction, in which degree of the Zodiac it is, or also the regular position of the Moon is shown either at conjunction or its position at opposition at the full moon (The position of the Sun—from which we shall take the position).
 
 F. 19.
 
-δ. Concerning the precise solar epoch at the uniform syzygy (By inserting the [degrees] of apogee—less than 180).
+δʹ. Concerning the exact position of the Sun at the regular conjunction (Introducing the parameters of the apogee—less than 180).
 
-ε. What should be done whenever there are hours and minutes in the numbers inserted in the anomalies (But whenever there are hours in the inserted numbers—we shall take the precise [value]).
+εʹ. What should be done when there are hours and minutes among the numbers given in the anomalies (When there are hours among the numbers given—we shall take the exact value).
 
-ϛ. Concerning the precise lunar epoch at the uniform syzygy (Introducing after this—the summation of the days).
+ϛʹ. Concerning the exact position of the Moon at the regular conjunction (Introducing after this—the synodic period of days).
 
-ζ. How one must find the place of the precise syzygy (If, however, there is a difference—the diameter at the full moon).
+ζʹ. How one must find the place of the exact conjunction (If it differs—the opposition at the full moon).
 
 F. 19v.
 
-η. Determination of the hour of the syzygy (But the precise time—to that of the Sun will be added).
+ηʹ. Determination of the hour of the conjunction (The exact time—that of the Sun will be added).
 
-θ. Determination of the lunar anomaly’s current hourly motion (Now at that time—we have the time).
+θʹ. Determination of the anomalous motion of the Moon by hour (At that time—we have the time).
 
 F. 20.
 
-ι. Concerning the latitude of the Moon in reference to the occurrence of eclipses (As for the latitude of the Moon—the northern ascent).
+ιʹ. Concerning the latitude of the Moon contributing to the completion of eclipses (The latitude of the Moon—ascent to the north).
 
-ια. How here the existing tropic must be corrected in the syzygies, the difference that increases by the anomalies (But the hours—it makes distinct).
+ιαʹ. How at this point the present tropical point should be corrected in the conjunctions, that which is raised above the anomalous difference (Yet the hours—makes them distinct).
 
 F. 20v.
 
-ιβ. Whence the limits of eclipses, and in what numbers, at the northernmost point, there will be an eclipse (As for the northernmost point—of the established method).
+ιβʹ. From where are the ecliptic limits, and in what numbers of the northern extremity there will be an eclipse (Of the northern extremity—of the known method).
 
 ---
 
-LLM Translation Footnotes
-
-^1🤖 "Syzygy" (συζυγία) is a technical astronomical term referring to the alignment of celestial bodies, typically used for new and full moons, and is retained here for accuracy.
-^2🤖 "Canons" (κανονίων) are technical tables or rules used in astronomical calculations, especially in the Ptolemaic and Byzantine tradition.
-^3🤖 "Great Compilation" refers to the Almagest or similar works of Ptolemy; capitalization signals its status as a recognized scholarly treatise.
-^4🤖 The terms "uniform and anomalous [motions]" translate the Greek ὁμαλῆς and ἀνωμάλου, which correspond to regular (mean) and irregular (apparent) astronomical motions. Retained in technical language with bracketed explanatory notes.
+*Annotations from the original have been preserved verbatim. For leaf numbering, F. = folio. Greek chapter letters (αʹ, βʹ, etc.) correspond to aʹ, bʹ, etc., in modern notation.*

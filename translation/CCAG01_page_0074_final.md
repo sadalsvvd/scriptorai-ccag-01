@@ -1,33 +1,26 @@
-F. 107v. What the five planets produce in the dodecatemoria during the heliacal rising of the star are as follows (Kronos in Cancer—occurs <sic>) = Hephaestion, pp. 91.28–96.29 (Engelbrecht), Studi etc., ibid. — Between ff. 108v–109 a folio appears to be missing.
+F. 107v. As many things as the five planets effect in the dodecatemoria according to the rising of the star, these are (Kronos in Cancer—occurs <sic>) = Heph., p. 91,28–96,29 (Engelb.), Studi etc., ibid. — Between ff. 108v–109 a leaf appears to be missing.
 
-F. 109, without title. The Sun in eclipse—concerning what is signified; likewise, what the Moon signifies regarding winds (When the Moon is eclipsed—of Aquarius).—On what the five stars indicate in eclipse (During eclipses—as for the most part they have recorded).
+F. 109 without title. The Sun in eclipse—of the things signified | as much as the Moon signifies concerning winds (And when the Moon is also eclipsed—Aquarius). — Concerning things signified by the five stars during an eclipse (In eclipses—they indicated for the most part).
 
-F. 110. Natural inquiry concerning the occurrence of earthquakes according to the ancients^1🤖 (Therefore generally speaking—such discoveries) = cf. cod. 7, f. 203, ed. Wachsmuth in ed. Lydus, 1897, p. 172ff.
+F. 110. Physical investigation concerning the genesis of earthquakes as by the ancients¹ (Therefore, in general—so many discoveries) = cf. cod. 7, f. 203, ed. Wachsmuth in ed. Lydus, 1897, p. 172ff.
 
-F. 113v. Prediction concerning earthquakes (And if also regarding—all things in general).—Ed. ibid., pp. 173–75.
+F. 113v. Preliminary note concerning earthquakes (And also about—the universe). — Ed. ibid., pp. 173–75.
 
-F. 114v. A scholion from the dictation of Symeon the monk, the chrysograph, on the two preceding canons concerning earthquakes (The principal star—was found to indicate fate).—Ed. ibid., p. 175.
+F. 114v. Scholion from Symeon the Monk the Chrysographer on the preceding two canons concerning earthquakes (The star, the master—he happened to point out). — Ed. ibid., p. 175.
+On general examinations and outcomes (Thus of these—of the lights) = Heph. ibid., 20, pp. 75–81; Studi etc., p. 9.
 
-On general investigations and results (Thus of these—of the lights) = Hephaestion, ibid., 20, pp. 75–81; Studi etc., p. 9.
+F. 117. Outcomes of occurring eclipses and comets (The ancients also recorded—to be known) = Heph. ibid., 21, pp. 82–89; Studi, ibid.
 
-F. 117. Results arising from eclipses and comets (The ancients also recorded—to be ascertained) = Hephaestion, ibid., 21, pp. 82–89; Studi, ibid.
+F. 121. Concerning the signs in eclipses (Now, the signs in eclipses—it signifies) = Heph. ib., cap. 22, pp. 89–91; Studi, ibid.
 
-F. 121. On the signs in eclipses (Those in the eclipses—means) = Hephaestion, ibid., cap. 22, pp. 89–91; Studi, ibid.
+F. 122. Concerning the colors and comets in eclipses (It must also be observed—in part) = Heph. ibid., cap. 23, pp. 97–99; Wachsmuth, op. cit., pp. 167–69; Studi, ibid.
 
-F. 122. On the colors and comets in eclipses (It should also be observed—in part) = Hephaestion, ibid., cap. 23, pp. 97–99; Wachsmuth, op. cit., pp. 167–69; Studi, ibid.
+F. 123. Whatever the Moon, passing through each sign of the zodiac at the rising of Sirius, signifies (The rising of Sirius occurs—the loss of quadrupeds) = Geoponica, I, 8 (p. 15, ed. Beckh).
 
-F. 123. What the Moon signifies in each zodiac as she passes through during the heliacal rising of the Dog Star (The heliacal rising of the Dog Star occurs—destruction of quadrupeds) = Geoponica, I, 8 (p. 15, ed. Beckh).
+F. 123v. Concerning the zodiac (The Zodiac—the attestations of the benefics).
 
-F. 123v. On the Zodiac (The Zodiac—those testified to be of the benefics).
+F. 124. Concerning the rising and setting stars and those called ephemerides, and on their risings and settings, causing winds, disturbances, and violence of the sea, and also rain and fair weather, and all such things; and these occur from the visible stars (In the month of January etc.—many northerly winds) = Clodius' Calendar, ed. Wachsmuth, Lydus, pp. 117–155, 10.
 
-F. 124. On stars that become visible and that set, and on those called ephemerides, and concerning their risings and settings, producing winds, disturbances, and sea-violence, as well as rains and fair weather, and all such events; and these arise from the stars that appear (In the month of January, etc.—strong north wind) = Clodius’ Calendar, ed. Wachsmuth, Lydus, pp. 117–155, 10.
+F. 130 without title. Of Paul of Alexandria .... method of the calculation of the lots. Cf. the photographic image f. 132v. — Partially edited in the appendix.
 
-F. 130, without title. <Paulus Alexandrinus>... [on] the method for finding the Lots. Cf. the photographic image of f. 132v.—Partly published in the appendix.
-
-^1 Folios 110–129 of this book correspond to folios 1–24 of the Paris codex 1991 (cf. above, p. 62, n. 2).
-
-
-
-LLM Translation Footnotes
-
-^1🤖 I rendered "Φυσικὴ θεωρία περὶ τῶν γινομένων σεισμῶν ὡς οἱ παλαιοἰ" as "Natural inquiry concerning the occurrence of earthquakes according to the ancients." The Greek "θεωρία" can also mean "contemplation" or "theory"; "natural inquiry" has been preferred here as most neutral for ancient scientific writing, but "Natural theory" or "Physical contemplation" would also be valid alternatives. "According to the ancients" translates "ὡς οἱ παλαιοἰ," which could also be given as "in the manner of the ancients" or "as handed down by the ancients."
+¹ The leaves 110–129 of this manuscript correspond to folios 1–24 of Paris codex 1991 (cf. above, p. 62, n. 2).

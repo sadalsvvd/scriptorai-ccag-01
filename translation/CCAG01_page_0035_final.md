@@ -1,76 +1,21 @@
-27. On Variation  
-They call it “variation”—an exact diameter of 4 degrees.^1🤖
-
-28. On Interposition  
-Interposition is—in a similar manner for the others as well.
-
-29. On Void-of-Course  
-“To be void-of-course” is said either of the Moon, or of such a genesis.^2🤖
-
-30. On Proper Illuminations  
-In proper illuminations—it makes the nativity dominant.
-
-31. On Participation  
-Participation is—a culmination or height.
-
-32. On Dissolution  
-Dissolution is called—when in affliction.
-
-33. On Affliction  
-Affliction is called—being afflicted.
-
-34. Another on Application and Connection  
-Dorotheus, in his verses—examine the rule of the “Tritonocracy.”^3🤖
-
-35. On the Master of the House and the Dominator  
-They differ from each other, both the master of the house and the dominator—[each] presiding over a great result.
-
-36. On Obedient Signs  
-A sign obeys—and Scorpio [obeys] Virgo.
-
-37. On Equi-potent Signs  
-Equi-potent signs are—both Virgo and Libra.
-
-38. On Aspects  
-Those in aspect are—towards the 2nd [sign] and those following.
-
-39. On Disjunct Signs  
-Disjunct signs are—those that are configured.
-
-40. On the Four Quadrants of the Zodiac  
-Since there are four quadrants—a hidden Midheaven at the Ascendant.
-
-41. On Signs that Bring Prosperity  
-They bring prosperity in every nativity—when conjoined with the Ascendant.
-
-42. On the Prolific Sign  
-The prolific sign—the emission of the seed.^4🤖
-
-43. On Terms from the Transfers  
-On the transfers of the signs—in the handy canons.^5🤖
-
-44. On the Signs at Beginnings  
-Those rising rightly—for the sake of their own house.
-
-45. On Right and Left-Handed Stars  
-In every figure—it causes those born to perish.
-
-46. On Portents  
-Concerning those from the air—they indicate falsehood.
-
-46. On Death  
-The Lot of Death from the Moon—signifies death when they are not considered.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 “Variation” (Greek παραλλαγή) is a technical term in ancient astrology/astronomy, sometimes rendered as “parallax”. Here, “variation” is retained as an accepted term for an exact diameter of 4 degrees.
-
-^2🤖 “Void-of-course” (Greek κενοδρομία) refers to the Moon when it makes no aspects before leaving its current sign, a concept retained in modern astrology.
-
-^3🤖 “Tritonocracy” (Greek τριτωνοκρατορία) is a rare, technical astrological term. The Greek is left in transliteration due to uncertainty; alternate renderings might include “governance of the third part” or “rule of the tritone”, but these are speculative.
-
-^4🤖 The Greek σπορίμου ζῳδίου translates literally as “seed-producing sign”. “Prolific sign” is the usual rendering in astrological usage.
-
-^5🤖 “Transfers” here likely refers to astrological directions or transmissions (Greek ἀναφοραί). “Handy canons” denotes practical, ready-to-use tables or rules; the exact Greek is sometimes uncertain due to manuscript variants.
+27. On parallax (They call parallax—the precise diameter is 4 degrees).
+28. On interpolation (Interpolation is when—and similarly concerning the others).
+29. On void of course (To be void of course is said either of the Moon—or such a nativity).
+30. On proper illuminations (In proper illuminations—it makes the nativity authoritative).
+31. On participation (Participation is—exaltation or).
+32. On release (Release is called—when in affliction). F. 217.
+33. On affliction (Affliction is said—of one being afflicted).
+34. Another on conjunction and connection (Dorotheus, in his verses—should be observed with regard to tritono-cracy).
+35. On lord of the house and ruling lord (The lord of the house and the ruling lord differ from each other—and may preside over a great outcome). F. 217v.
+36. On obedient signs (A sign obeys—and Scorpio to Virgo).
+37. On equivalent signs (Equivalent signs are—and Virgo and Libra). F. 218.
+38. On aspects (Aspects are—from the second onward).
+39. On disjunct signs (Disjunct signs are—those being shaped).
+40. On the four quadrants of the zodiac (Since there are four quadrants—the lower midheaven to the ascendant).
+41. On places that bestow income (They bestow income in every nativity—the one co-significating with the ascendant).
+42. On the fertile sign (A fertile sign—the casting of the seed). F. 218v.
+43. On times from the ascensions (Concerning the ascensions of the signs—in the prepared tables). F. 219.
+44. On the signs at beginnings (Thus those that rise properly—because it is its own house).
+45. On right-hand and left-hand stars (In every configuration—it causes the offspring to be lost). F. 220v.
+47. On portents (Concerning those from the air—they indicate falsehood). F. 225.
+48. On death (The Lot of Death from the Moon—those not being considered indicate death).

@@ -1,25 +1,13 @@
 APPENDIX
 
-They observe the horoscope, or measure the horoscope—or measure the Moon^1🤖—this is a sign of great danger and adversity. But if, when these are present, benefic planets regard the figure, there will be aid for the patient. If instead a malefic is joined, there will be distress and intensification of pains—especially if this occurs within the bounds of a malefic; but when it is joined to a benefic, there is relief, and the pains are alleviated, especially if within the bounds of a benefic. One must also observe the following:
+...they cast horoscopes or measure the horoscope, or they measure the Moon; this is a sign of great danger and hardship. But if, under these circumstances, the benefics regard the configuration, there will be assistance for the sick person; but if it is conjoined with a malefic, there will be distress and aggravation of pains, especially if this takes place in the bounds of a malefic. But whenever it is conjoined with a benefic, there is relief and easing of pains, and especially if it happens in the bounds of a benefic. One must also observe the following:
 
-Having taken the position of the Moon at the moment of inception, look up in the ephemerides: after seven days, the Moon arrives in its own figure, that is, the square; after nine days it comes into the triangular figure from the inception; after fourteen days, it will be in diametrical opposition to its starting point, clearly; after nineteen days, it comes into the right triangle; and after twenty-one days, it enters its own right square.
+Taking the Moon’s position at the time of onset, observe from the ephemerides: after seven days, the Moon comes to its own configuration, that is, the quadrature; then, after nine days, it comes to a trine configuration relative to the inception; then, after fourteen days, it will obviously be diametrically opposed to itself; then, after nineteen days, it comes to the dexter trine; then, after twenty-one days, it will come to its dexter quadrature.
 
-Therefore, one must carefully observe these five figures of the Moon, and with which of the stars^2🤖, after the inception's figure, it is about to be joined. For if it is joined to a benefic, there is relief; but if to malefics, distress and harm. Diseases that begin during the day are resolved in seven or nineteen days; those at night, in ten or twenty-one days. By observing these things, you will have foreknowledge not only of the day of relief or distress, but also of the very hour.
+Therefore, one must observe exactly these five configurations of the Moon, and with which of the stars, after the configuration of the inception, it is going to be conjoined; for if it is conjoined with a benefic, there is relief; but if with malefics, distress and harm. Diseases beginning by day are decided after seven or nineteen days, but those at night after ten or twenty-one days. By observing these, one can predict not only the day of relief or distress, but also the hour.
 
-For when the benefics meet the Moon in the crisis, they bring relief, at whatever hour they regard her by degree; but the malefics bring distress and pain. Saturn is more harmful for those who fall ill at night, while Mars is more harmful for those who fall ill during the day. When the Moon and the horoscope are in the tropical signs, they induce relapses of diseases.
+For whenever the benefics meet the Moon at the critical hours, they bring relief, namely, at whatever hour they preside by degree over her; but the malefics bring distress and pain. Saturn is more harmful to those becoming ill by night, and Mars to those by day. The Moon and the horoscope, when located in tropical signs, cause relapses of diseases.
 
-If both luminaries^3🤖 are found below the earth at the time of reclining^4🤖, they indicate an evil sign for the patient, especially if from other signs as well a disorder is revealed; for it is not fitting to make rash and unexamined pronouncements based on only one sign, but from several, according to the so-called majority.
+The two luminaries, when found under the earth at the time of onset, indicate a bad sign for the sick person, if also from other signs impairment appears; for one must not rashly or without examination judge from one sign alone, but from several, according to the so-called majority.
 
-When the Moon completes, by its circuit, the aforementioned five figures, as has been said, if Saturn bears witness to her or—
-
----
-
-LLM Translation Footnotes
-
-^1🤖 The verb διαμετρῶσιν here can be interpreted as "they measure" or "they observe diametrically," possibly in an astrological sense. Its application to both the horoscope (ὡροσκόπον) and the Moon (Σελήνην) introduces ambiguity, which is characteristic of technical vocabulary in astrology.
-
-^2🤖 "Stars" (ἀστέρες) in ancient astrological texts generally refers to planets.
-
-^3🤖 "Luminaries" are the Sun and the Moon in astrological terminology.
-
-^4🤖 κατακλίσις (kataklisis) typically refers to "reclining" or the act of taking to bed due to illness; in medical-astrological contexts, this denotes the onset of a disease episode.
+When the Moon completes the aforementioned five configurations in her course, as has been stated, if Saturn testifies to her or...

@@ -1,72 +1,60 @@
-To discern in what manner each of the actions comes to its end (when the illumination of the Moon or its quadrature is observed) — codex 7, folio 176.
+To learn what end each of the actions has in such a manner (by observing the lights of the Moon — or the square) — codex 7, folio 176.
 
-Folio 83. On Inceptions by Julianus (and the divine Ptolemy makes use of the subascendant) — codex 7, folio 158v. — Published in the appendix.
+Folio 83. Julianus on the commencements (But the divine Ptolemy uses the dioptra) — codex 7, folio 158 verso. — Published in the appendix.
 
-Folio 83v. Scholia of Leo the Philosopher on the Horary. — Published in the appendix.
+Folio 83 verso. Scholia of Leo the Philosopher on the Horary. — Published in the appendix.
 
-On the division of the twelve places; unclear. Three scholia follow, of which the last is attributed to Photius the Patriarch. — Published in the appendix.
+On the division of the twelve places: not explicit. Three scholia follow, of which the last is by Photius the Patriarch. — Published in the appendix.
 
-Folio 84r. Treatises and solutions on every astronomical art from the Treasures of Antiochus <Proemium> (For what reason — it is water).
+Folio 84 recto. From the Treasuries of Antiochus: Solutions and Explanations of Every Astronomical Art <Prooemium> (For what purpose — water exists). —
 
-Folio 85. 1. On masculine and feminine signs of the zodiac, and on masculine and feminized places and stars.
+Folio 85. α'. On masculine and feminine signs of the zodiac, and masculine and feminine places and stars. —
 
-Folio 85v. 2. On the selection of stars.  
-3. On the temperaments (or mixtures^1🤖) of the twelve zodiacal signs.
+Folio 85 verso. β'. On the selection of stars. —
+γ'. On the temperament of the twelve signs of the zodiac. —
 
-Folio 86. 4. On leprous, alphous, mange-producing, or lichenoid signs of the zodiac^2🤖.  
-5. On unproductive (or uncontrolled/licentious^3🤖) signs of the zodiac.  
-6. On those signs of the zodiac which produce conditions affecting the eyes.  
-7. On elevations and depressions.
+Folio 86. δ'. On leprous, alphous, and mange-bringing or lichenoid signs of the zodiac. —
+ε'. On unchaste signs of the zodiac. —
+ζ'. On signs producing disease of the eyes. —
+ζ'. On exaltations and depressions (of the signs). —
 
-Folio 86v. 8. On oppositions among the stars.
+Folio 86 verso. η'. On the oppositions of the stars. —
 
-Folio 87. 9. On the selection of rulers of the triangles.  
-10. On the thirty-six decans and those rising together with them, and their faces.
+Folio 87. θ'. On the selection of the lords of the triangles. —
+ι'. On the thirty-six decans and those rising with them and on faces. —
 
-Folio 87v. 11. On the fixed bright stars and their antecedent (or preceding) powers.  
-12. On the bounds according to the Egyptians and Ptolemy, and on bright and shadowy <sic> degrees.
+Folio 87 verso. ια'. On the fixed bright stars and the powers that rise before them. —
+ιβ'. On the bounds according to the Egyptians and Ptolemy, and on bright and shadowy <sic> degrees. —
 
-Folio 88. 13. On the ascensions of the seven climes.  
-14. On the assignment of melodies to the zodiacal signs.  
-15. On triangles, quadratures, diameters, inconjuncts, etc.
+Folio 88. ιγ'. On the ascensions of the seven climates. —
+ιδ'. On the classification of the signs of the zodiac according to melody. —
+ιε'. On triangles and squares and diameters and the inconjunct, etc. —
 
-Folio 88v. 16. On the inconjunct signs of the zodiac and those having affinities with each other.
+Folio 88 verso. ις'. On the inconjunct signs of the zodiac and those having sympathy with each other. —
 
-Folio 89. 17. On the sympathetic and unsympathetic quadratures.  
-18. On the dodecatemoria of the stars.
+Folio 89. ιζ'. On squares, both sympathetic and unsympathetic. —
+ιη'. On the dodekatemoria of the stars. —
 
-Folio 89v. 19. On hearing and seeing [each other, of the zodiacal signs; this clause added by another hand].  
-20. On supervision (or: inspection).  
-21. On irradiation.  
-22. On right and left sides.  
-23. On the doryphory (bodyguard arrangement) of the stars^4🤖.
+Folio 89 verso. ιθ'. On signs that hear and see [each other, added in another hand]. —
+κ'. On inspection. —
+κα'. On irradiation. —
+κβ'. On the right and left sides. —
+κγ'. On the doryphory (satellitism) of the stars. —
 
-Folio 90. 24. On the doryphory of substitutive (counteractive) planets.  
-25. On concord (or: agreement/consonance).  
-26. On decadal division.  
-27. On afflictions and places without resources.  
-29. On those giving resources (or wealth) [and the good and practical places of the table; the latter clause added by another hand].  
-30. On participation.
+Folio 90. κδ'. On the doryphory (satellitism) of derivatives (paraireta). —
+κε'. On concordance. —
+κς'. On decade-division. —
+κζ'. On afflictions and places without financial means. —
+κθ'. On profitable [and good and practical places of the table, added in another hand]. —
+λ'. On participation. —
 
-Folio 90v. 31. On antanalysis (resolution).  
-32. On mutual lordship (rulerships of each other).  
-33. On the oikodespotes (house lord or domicile ruler).  
-34. On adherence.  
-35. On conjunction.  
-36. On median intervention.  
-37. On parallax.  
-38. On connection.  
-39. On empty course.  
-40. On co-
-
----
-
-LLM Translation Footnotes
-
-^1🤖 The Greek "κρᾶσις" can be translated as "mixture" or "temperament," referring to the blending of fundamental qualities in astrological signs.
-
-^2🤖 The Greek terms refer to ancient dermatological categories: "leprous" (leprosy), "alphous" (a lighter skin disease, possibly vitiligo or a similar condition), "mange-producing" (related to scabies or mange), and "lichenoid" (referring to lichen-like skin eruptions). The mapping to modern medical terminology is uncertain and debated.
-
-^3🤖 The Greek adjective may denote either "unproductive," "uncontrolled," or "licentious." The precise meaning may have differed in ancient astrological or medical context.
-
-^4🤖 "Doryphory" is a technical Hellenistic astrological term denoting a bodyguard configuration, where certain planets "attend" or "guard" a significator. The Greek term is sometimes left untranslated.
+Folio 90 verso. λα'. On counter-analysis (antanalyis). —
+λβ'. On mutual dominion. —
+λγ'. On the master of the house. —
+λδ'. On adjunction (connection, attachment). —
+λε'. On conjunction. —
+λς'. On mediation (middling position). —
+λζ'. On variation. —
+λη'. On bond (syndesmos). —
+λθ'. On the empty course (kenodromia). —
+μ'. On co-

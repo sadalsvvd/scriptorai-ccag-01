@@ -1,15 +1,9 @@
 PREFACE
 
-Nor will we be denied indulgence if, in this unexplored subject, some obscurities may remain, and our edition at times may seem not to be faultless in every respect. We admit that it is possible that many passages of this edition could be emended from other manuscripts, but if we had wanted to proceed to establish the text only after having marshaled every aid, this work would have appeared either too late or not at all. “Half is more than the whole.”^1🤖 Thus, as things stand, we are confident that the booklet will not prove entirely useless. Posterity will use it toward better things.
+Nor will pardon be denied us if, in an unexplored subject, some things remain obscure, and our edition may sometimes appear not entirely complete in all respects. We admit it is possible that many passages in this edition could be restored from other manuscripts, but if we had wished to proceed to establish the text only once provided with every resource, this work would have appeared either late or never. “The half is more than the whole.” Thus, as the little book stands, we trust it will not be altogether useless. Future generations will use it for better purposes.
 
-To the scholars who have generously lent us their efforts, I must now, willingly and deservedly, offer the thanks that are due. Hermann Usener, a veteran of these studies, most liberally offered me ample excerpts from his inexhaustible collections; Richard Wuensch granted us two Laurentian fragments as well as emendations and annotations; Joseph Bidez, while residing in Rome and Florence, spent many hours, out of kindly regard for me, examining astrological volumes; through the intercession of Aeneas Piccolomini and Christian Huelsen, Cerocchi, a diligent young man, most accurately transcribed for my use several chapters of the Angelican codex—extraordinarily difficult to read; in cooperation, one of us has often been assisted by another, but we are especially indebted to Wilhelm Kroll, who was willing to undertake with us the laborious task of correcting proofs and, from his own notes, removed numerous errors both in the description of manuscripts and in the edition of excerpts.
+I must gladly and deservedly render due thanks to the scholars who have kindly offered me their help. Hermann Usener, a veteran of these studies, generously offered me a substantial selection from his inexhaustible collection; Richard Wuensch imparted to us two Laurentian fragments, emendations, and annotations; Joseph Bidez, while staying in Rome and Florence, out of kindness toward me, spent many hours examining astrological volumes; through the intercession of Aeneas Piccolomini and Christian Huelsen, Cerocchi, a diligent young man, accurately transcribed for my use several chapters of the Angelican book, which is extremely difficult to read. It is fitting, in scholarly cooperation, that one of us is often assisted by another; but we are especially indebted to Wilhelm Kroll, who accepted the trouble of correcting proofs with us and, from his notes, removed many errors both in the description of manuscripts and in the edition of extracts.
 
 Written at Brussels, on the Ides of August, 1898.
 
 F. C.
-
----
-
-LLM Translation Footnotes
-
-^1🤖: The Greek proverb “Πλέον ἥμισυ παντός” (cf. Hesiod, Works and Days 40) is commonly rendered “Half is more than the whole,” conveying the paradox that sometimes a partial achievement is preferable to an unattainable complete one. Alternative translations include “The half is greater than the whole.”

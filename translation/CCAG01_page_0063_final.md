@@ -1,35 +1,23 @@
 CODICES FLORENTINI
 
-F. 257. π. On didactic propositions, conveying in summary the following manner (Venus together with Mars — produces).
+F. 257. π. On doctrines (or: lessons?) of theorems, concisely explained as follows: (When Venus is with Mars—she acts).
 
-F. 260v. πα’. Whatever useful things I found in the Brabilloi (in tab. Brabilloi) [read Barbillos]. Omitted. In margin: "This chapter was left as useless."
+F. 260v. πα’. Whatever I found useful in the “brabiloi?” (in tab.: βραβίλοις) [read Barbillus]. Omitted. In the margin: This chapter was omitted as useless.
 
-πβ’. In what month someone will die in any nativity (From the Sun to the ascendant — he will die).
+πβ’. In which month someone will die concerning any nativity (From the Sun to the Ascendant—will die).
 
-F. 261. πγ’. Scholia on the division of times from the Synousiai^1🤖 of Heliodorus¹. Omitted. In margin: "This too was left as being of no benefit."
+F. 261. πγ’. Scholion on the division of times from the “Synousiai” of Heliodorus¹. Omitted. In the margin: This too was omitted as of no use.
 
-πδ’. Concerning stirigmoi [supports/foundations]^2🤖 and the results from them (The star of Kronos — beneficial).
+πδ’. On “supports” and the outcomes resulting from them (The star of Saturn—beneficial).
 
-F. 261v. πε’. Concerning dispossession^3🤖 (Since Dorotheus says — it contributes).
+F. 261v. πε’. On “exclusion” (Since Dorotheus says—it concurs).
 
-F. 262. πς’. On the time of death (Again as to the same place — to make a denial^4🤖).
+F. 262. πς’. On the time of death (Again, as in the same place—to effect removal).
 
-F. 262v. πζ’. Beginnings (in tab. Beginnings) necessary for which I failed, being led astray, and after that, having found the cause, I marveled at the effectiveness beyond (about tab.) the letters employed. — Published in the appendix.
+F. 262v. πζ’. Initiations (in the table: initiation) necessary for which I failed, having wandered, and afterwards, having found the cause, I was amazed at the efficacy (about, in the table) of the letters carried over. — Published in the appendix.
 
-F. 263. πη’. On the beginning of Leo (tab. Leontios) crowned at Antioch. — Published in the appendix.
+F. 263. πη’. On the initiation of Leo (in the table: Leontios) being crowned at Antioch. — Published in the appendix.
 
-F. 264. πθ’. Atrophic degrees according to the Zodiac, whenever the Moon comes to them. Following: table.
+F. 264. πθ’. Atrophic degrees by sign of the Zodiac, whenever the Moon is upon them. Table follows.
 
-[1 Heliodorus, whose Synousiai Palchus, ca. A.D. 480, excerpted, appears to be the same as Heliodorus, "interpreter of fates through genitures," and "mathematician," who, at Antioch in 374 (Tillemont, vol. V, 1701, p. 107 sq.) reported the notary Theodorus, who aspired to become emperor (Ammianus XXIX, 1,3), and thus gained great influence with Valens (ibid., 2, 6 sqq.). He must be different from the Heliodorus who wrote a commentary on the Introduction of Paulus Alexandrinus (see above, p. 26, n. 1), since it is certain that Paulus’s book appeared after A.D. 378 (Fabricius–Harles, Bibl. gr., vol. IV, p. 140 sq.), whereas that Heliodorus of Antioch, according to Ammianus (XXIX, 2; 13), died before the death of Valens, i.e., before A.D. 378. It is possible that the commentator on Paulus is not different from the Heliodorus who dedicated a poem on the sacred art to Emperor Theodosius (A.D. 408–450) (ed. Fabricius–Harles, vol. VIII, p. 118 ff.; cf. de Heliodoris, p. 126 f.), a man not unknown in the Middle Ages (cf. Leo the Grammarian in Cramer, Anecdota Graeca Parisiensia, II, p. 306–10: “Heliodorus writes in iambic verse a composition on gold for the same Theodosius”; and Theodosius Melitenus, ed. Tafel, p. 73, var. 4, who incorrectly confuses him with the author of the Aethiopica). Certainly, the Byzantines of the 11th century, to whom belong the codices Marcianus 299 and Laurentianus 28, 34 (cod. 12, fol. 164), made no distinction between Heliodorus the chemist and Heliodorus, commentator on Paulus, but called both equally “Heliodorus the philosopher.” The codices always show that the secret sciences of alchemy and astrology were previously allied (cf. Paris. 2419), and this is otherwise well known (cf. Usener, De Stephano Alexandrino, 1879, p. 9). — F. C.]
-
----
-
-LLM Translation Footnotes
-
-^1🤖 "Synousiai" (συνουσίαι) is left untranslated here because of its specialized usage; possibilities include "assemblies," "meetings," or "conjunctions," but it also appears as a title or category of Heliodorus's astrological works.
-
-^2🤖 "Stirigmoi" (στηρίγμοι) is transliterated and glossed, as it is an uncommon technical term in this context, likely referring to "supports" or "foundations" in an astrological sense.
-
-^3🤖 Rendered as "dispossession," but alternate meanings, such as "forfeiture," could be possible depending on the specific astrological context.
-
-^4🤖 "Denial" (or "ablation" in some translations) represents a technical astrological concept of denying or preventing a certain outcome; the Greek term should be checked in context.
+[1 Heliodorus, whose “Synousiai” were pillaged by Palchus around the year 480 CE, seems to be the same as Heliodorus “the interpreter of destinies through nativities” and the “mathematician” who at Antioch in the year 374 (Tillemont, vol. V, 1701, p. 107 ff.) denounced by name the notary Theodorus, who was aspiring to imperial power (Ammianus Marcellinus XXIX, 1, 3), and thus had considerable influence with Valens (ibid., 2, 6 ff.). He must be distinguished from the Heliodorus who wrote the commentary on the Introduction (Εἰσαγωγή, Eisagoge) of Paulus Alexandrinus (see above, p. 26, n. 1), since it is certain that the book of Paulus was published after the year 378 (Fabricius–Harles, Bibliotheca graeca, vol. IV, p. 140 ff.), while, according to Ammianus (XXIX, 2; 13), that Heliodorus of Antioch died before the death of Valens, i.e., before the year 378. It is possible that the commentator on Paulus is not different from the Heliodorus who dedicated a poem on the sacred art to Emperor Theodosius (408–450 CE) (ed. Fabricius–Harles, vol. VIII, p. 118 ff.; see about Heliodoruses, p. 126 f.), a man not unknown in the Middle Ages (cf. Leo the Grammarian in Cramer’s Anecdota graeca, Paris, II, p. 306–10: “Heliodorus writes in iambic verse the making of gold for the same Theodosius,” and Theodosius of Melitene, ed. Tafel, p. 73, col. 4, who mistakenly confound him with the author of the Aethiopica). Certainly, the Byzantines of the 11th century, to which period manuscripts Marcianus 299 and Laurentianus 28, 34 (cod. 12, fol. 164) belong, do not distinguish Heliodorus the chemist from Heliodorus the interpreter of Paulus, but equally call both “Heliodorus the philosopher.” The arcane sciences of alchemy and astrology were always regarded as previously associated, as both the codices (see e.g. Paris. 2419) and general knowledge show (cf. Usener, De Stephano Alexandrino, 1879, p. 9). — F. C.]

@@ -1,54 +1,22 @@
-**Florentine Manuscripts**
+FLORENTINE MANUSCRIPTS
 
-Chapter: On Antanalysis (Antanalysis is when the diurnal stars—the stars).^1🤖  
-— After the chapter On Runaways (codex 7, fol. 219v) follow:
+Chapter: On Antanalysis (Antanalysis is when the daily [cycles]—the stars).  
+— After the chapter On Runaways (codex 7, folio 219 verso) follow:
 
-F. 153. §223. On the Beginning of the Month (It is necessary to count from the retrograde Sun—it will not be heeded).^2🤖  
-F. 154v. §224. On the Seven Stars (Saturn rules the houses—a benefic).  
-§§225–243 are missing from the text; they were fuller here than as preserved in codex 7, fol. 221ff. (Iatromathematica, etc.), as is made clear by the following index:  
-225. Hermes Trismegistus to Ammon, etc. —  
-227. On Those Who Cool. —  
-228. On Those Who Heat. —  
-229. Galen, On Lying Down of the Sick, etc. —  
-230. On Births, etc. —  
-231. On Phlebotomy, etc. —  
-231a. Pacharius On the Same Matters. —  
-232. On the Diagnoses By Which We Know Births. —  
-233. On Why We Are Not Asked Where the Illness Is. —  
-234. On Knowing, Concerning Whom One Inquires, Whether He Lives or Has Died. —  
-235. On Whether a Sick Person Will Live or Has Died. —  
-236. Hephaestion On the Same. —  
-237. On Surgery. —  
-238. On Purifications and Aversions. —  
-239. On Vomiting and Catharsis. —  
-240. Method by Numbers, Concerning Disease, Life, and Death. —  
-241. Another Method of Petosiris; cf. codex 12, fol. 21. —  
-242. Beginnings of Diseases According to Zenarion. —  
-243. Another Numerical Method Concerning the Sick; cf. codex 12, fol. 22.
+Folio 153. 223rd chapter. On the Beginning of the Month (One must calculate from the transit of the Sun—he will not be heard).  
+Folio 154 verso. 224th chapter. On the Seven Stars (Saturn holds houses—beneficent).  
+Chapters 225–243 are missing in the text; they were more extensive than those preserved in codex 7, folio 221 and following (Iatromathematica [medical-astrological], etc.), as will be clearly seen from the following index:  
+225. Hermes Trismegistus to Ammon, etc. — 227. On cooling agents. — 228. On heating agents. — 229. Galen on the placement of patients, etc. — 231. On women in childbirth, etc. — 231a. On phlebotomy, etc. — 231a. Pacharius on the same subjects. — 232. On placements by which we know nativities. — 233. On cases where we are not asked where the disease is. — 234. On learning whether, concerning someone being asked about, he lives or has died. — 235. On a sick person, whether he will live or has died. — 236. Hephaestion on the same subject. — 237. On surgery. — 238. On purgations and avertings. — 239. On vomiting and purgation. — 240. Method by numbers concerning illness, life, and death. — 241. Another numerical method of Petosiris, cf. codex 12, folio 21. — 242. On the beginnings of diseases according to Zenarion. — 243. Another numerical method concerning those who fall ill, cf. codex 12, folio 22.
 
-F. 169. §244. Astrampsychicus the Egyptian to King Ptolemy (That nothing benefits you—you were saved among all men).^3🤖  
-§245. On the Pronouncement Concerning Various Questions (Thus indeed Astrampsychicus—and this is the prayer. Beginning: Almighty Lord, etc.)
+Folio 169. 244th chapter. Of Astrampsychicus (sic) the Egyptian to King Ptolemy (That it benefits you nothing—you have been saved among all men).  
+245th chapter. On the prediction of various questions (Thus then Astrampsychus—and this is the prayer. The prayer is as follows: "Lord Almighty," etc.)
 
-F. 169v. §246. The Little Book of Stephanus of Alexandria (cf. codex 7, fol. 240), ends: “on account of the change of seasons, and the ...”
+Folio 169 verso. 247th chapter. The treatise of Stephanus of Alexandria (cf. codex 7, folio 240) ends: "because of the change of the seasons, and the..."
 
-F. 170. §247. How to Examine the Transits of Times and the Events Occurring in Them <i.—for those> according to the four turnings of the year (Since the beginning—it indicates that it will be).^4🤖
+Folio 170. 247th chapter. How one must examine the transfers of the years and what happens during them according to the four seasons of the year (Since the beginning—it shows what will be).
 
-F. 173v. §248. Theophilus, On Beginnings (The ancients regarded the year's beginning—we will study the king and thus in order the rest) = codex 12, fol. 38v.
+Folio 173 verso. 248th chapter. Theophilus On Beginnings (The ancients reckoned the beginning of the year—we will examine the king, and thus in sequence the rest) = codex 12, folio 38 verso.
 
-F. 175. §249. On the Royal Lot (The lot of the king—one must treat of it). On §§249–251, cf. codex 12, fol. 60v.
+Folio 175. 249th chapter. On the King's Lot (The lot of the king—one must treat). On chapters 249–351, cf. codex 12, folio 60 verso.
 
----
-
-¹ Ed. Hercher, Astrampsychi oculorum decades, Berlin, 1863, pp. 1–3. In Hercher’s edition, two chapters that are distinct in the manuscript are joined.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 *On Antanalysis*: The Greek term “ἀνταναλύσις” (antanalysis) is a technical term in late antique astrology. The parenthetical phrase appears fragmentary; it is likely a definition describing an astrological process involving “diurnal stars,” that is, stars associated with the daytime movement; context may clarify further.
-
-^2🤖 *Retrograde Sun*: Whether “passing” or “retrograde” Sun is correct depends on the exact Greek term (e.g., ἀναποδίζων for "retrograde"); “retrograde” is used here as standard astrological terminology, but if the Greek is ambiguous, “passing” might be equally defensible.
-
-^3🤖 *You were saved among all men*: The Greek “ἔρρυσο” is ambiguous—possibly “you were delivered,” “you perished,” or “you were rescued.” The choice “you were saved among all men” preserves this ambiguity; alternative nuances are possible depending on context.
-
-^4🤖 *<i.—for those>*: The angle-bracketed text reflects an apparent manuscript lacuna or editorial uncertainty and is retained as in the original. The four “turnings” of the year refer to the solstitial and equinoctial points in astrological doctrine.
+¹ Ed. Hercher, Astrampsychi oculorum decades, Berlin, 1863, p. 1–3. In Hercher's edition, two chapters which are separate in the manuscript are presented together.

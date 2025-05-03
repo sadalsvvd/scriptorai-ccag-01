@@ -1,25 +1,22 @@
-Codices Florentini
+CODICES FLORENTINI
 
-F. 269–274. Canons of notable cities.  
-F. 275–277. Canons concerning the fixed stars in the Zodiac, namely the principal thirty-degree divisions (“great decamerisms” or decans), in total thirty, their distributions, etc.^1🤖  
-F. 277–278. Canons concerning the bright stars included in the outcomes.^2🤖  
-F. 278v, without title. Saturn from the first degree up to the seventeenth—advancing additively, with scholia.  
-F. 279. Of John the Grammarian of Alexandria^3🤖 concerning the use of the astrolabe: what each of the things written upon it signifies, with scholia (“The [matter] of the surface on the astrolabe—he has separated in another place”).  
-F. 289v. Table.  
-F. 290. Method of Isaac [the monk] ([ ] — deleted), the Silversmith^4🤖, for the construction of an astrolabic device (“Since, just as [there are] archetypal [instruments] … and powers of others”).  
-F. 297. Claudius Ptolemy: The first book of the Compendium addressed to Syrus. At the end: “End of the fourth book and of the general treatise of the compendia addressed to Syrus.”  
-F. 347. On the so-called centers, revolutions, and declinations, and on the appellation and power of each of the twelve places. Beginning: “The circle of the Zodiac, among the astronomers, being divided into twelve parts, each of these twelve parts is commonly called a Sign.” Ending: “… we come to the prognostic conclusion.”  
-F. 350v. Claudius Ptolemy, the book ‘The Fruit’, in 100 chapters. Beginning: “I have set forth, O Syrus, the operations…” Ending: “… the enemy will be local.” Cf. above, codex 3, f. 19v. Another hand has written some things: On the transition from one Sign to another, etc.  
-Method for finding the hour, etc.  
-Exposition of Hermes Trismegistus on the safeguarding of life and constitution of the body (“Of the 37 decans in the Signs … you will be well”).
+F. 269–274. Canons of the notable cities.  
+F. 275–277. Canons of the fixed stars in the Zodiac, of the great dodecatemories¹: there are thirty (pl’. <sic>).  
+F. 277–278. Canons concerning the bright stars considered in predictions.  
+F. 278v, without title. Kronos (Saturn) from the first degree up to the seventeenth—proceeding by addition, with scholia.  
+F. 279. Of John the Grammarian of Alexandria²: On the use of the astrolabe, namely, what each of the items inscribed on it signifies, with scholia (“The marked area on the surface of the astrolabe is set apart elsewhere”).  
+F. 289v. table.  
+F. 290. Method for constructing an astrolabic instrument by Isaac the Monk, called the Silver³ (deleted) (“Since just as [there are] archetypes—of other powers”).  
+F. 297. Claudius Ptolemy: The first book of the concise Tetrabiblos, addressed to Syros. At the end: “End of the fourth book and of the entire treatise of the Summary to Syros.”  
+F. 347. On the so-called centers of revolutions and declinations, and the name and power of each of the twelve places. Begins: “The zodiacal circle, according to astronomers, being divided into twelve parts, each of these twelve divisions is called collectively ‘zōidion’⁴.” Ends: “We arrive at the final prognostication.”  
+F. 350v. Claudius Ptolemy, the “Karpos” (“The Fruit”) in one hundred chapters. Begins: “Setting forth, O Syros, the powers...” Ends: “the enemy will be domestic.” Cf. above, codex 3, f. 19v. Another hand has added notes: on the passage from the edge (ἄπω; read ἀπὸ) of a zodiac sign (zōidion) to another, etc.  
+Method concerning the finding of the hour, etc.  
+Exposition by Hermes Trismegistus concerning the safeguarding of life and the temperament of the body (“Of the thirty-seven decans⁵ in the zōidia—thus you will have well-disposed conditions”), etc.
 
-11 — Plut. 28, codex 33. — Paper manuscript, 20.6 × 15.5 cm, folios (ff.) 314 (1–2 + 160r + 314v blank), iii blank, 16th century (year 1542), [f. 314: From the birth of Christ, year 1542, month of February, day 16, Friday, seventh hour of night, this present book was completed. Thanks to the God who brings all good things to pass to the finisher]. — The codex was cursorily reviewed by Bandini, II, p. 191; cf. Cumont, L’astrologue Palchos (Revue de l’Instruction publique en Belgique, t. XL,
+11 — Plut. 28, codex: 33. — Paper, 20.6 × 15.5 cm, 314 folios (1–2, 160r, 314v blank), plus three blanks, 16th c. (1542). On fol. 314: “In the year of Christ 1542, in the month of February, 16th day, Friday, 7th hour of the night, this present book was completed. Thanks to God, who brings good things to fulfillment.” — The manuscript was briefly catalogued by Bandini, II, p. 191; see also Cumont, L’astrologue Palchos (Revue d. l’Instr. p. en Belg., t. XL,
 
-^1🤖 The Greek phrase “τῶν μεγάλων δεκαμορίων” refers to the thirty-degree divisions of the zodiac—decans or “decamerisms”; the phrase “αἱ πλ’” is textually unclear, possibly meaning “in total thirty” or reflecting a scribal corruption.  
-^2🤖 “Included in the outcomes” may refer to the incorporation of these bright stars in the casting of nativities or astrological outcomes; the phrase is ambiguous in the Greek.  
-^3🤖 “John the Grammarian of Alexandria” is identified as John Philoponus, also known as John of Alexandria. His treatise on the use of the astrolabe was published from Paris manuscripts by Hase, Rheinisches Museum, VI, 1839, p. 129ff. Cf. Tannery, Revue de Philologie, 1888, p. 60ff.  
-^4🤖 “The Silversmith” translates τοῦ ἀργύρου, which may play on the word for “silver” or “silversmith”; connection to Isaac as a monk is attested elsewhere, but the epithet here is marked as uncertain or deleted in the manuscript. Cf. Krumbacher, Byzantinische Literaturgeschichte, 2nd ed., p. 623.
-
----
-
-LLM Translation Footnotes
+¹ A dodecatemory is one twelfth of a zodiacal sign, i.e., 2°30′ sections; a technical term in ancient astrology.  
+² The treatise of John Philoponus of Alexandria, on the use of the astrolabe, published from the Paris manuscripts by Hase, Rhen. Mus., VI, 1839, p. 129 ff. See also Tannery, Revue de Philologie, 1888, p. 60 ff.  
+³ See Krumbacher, History of Byzantine Literature, 2nd ed., p. 623.  
+⁴ Zōidion (ζῴδιον): technical term for a zodiacal sign.  
+⁵ Decans: thirty-six (here, thirty-seven) subdivisions of the zodiac used in Hellenistic astrology.

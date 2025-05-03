@@ -1,1 +1,0 @@
-There is no content provided to translate.

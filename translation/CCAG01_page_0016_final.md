@@ -1,28 +1,32 @@
-Helios’ Chronocracy (The Sun, apportioning for himself—he will cause misfortunes)^1🤖 cf. ibid., cap. 31.  
-Aphrodite’s Chronocracy (Aphrodite, apportioning for herself—she produces unexpected things), cf. ibid., cap. 32.  
-Hermes’ Chronocracy (Hermes, taking—sharp and lofty)^2🤖 cf. ibid., cap. 33.  
-Selene’s Chronocracy (The Moon, taking the periods we have set forth), cf. ibid., cap. 34.  
-F. 140. How one ought to examine the transfers of the periods and the events occurring therein in accordance with the changes of the year (Since the beginning of the period occurs—it indicates that the same things will come to pass).  
-F. 144. Theophilus, On Inceptions (The beginning of the year, among the most ancient Egyptians—thus, successively, concerning the rest) = cod. 12, fol. 58v.  
-F. 145v. On the royal lot (Now, the lot of the king—should be discussed in relation to the midheaven).  
-F. 146. Concerning the annual lord (Thus likewise regarding the king, etc.).  
-F. 148. Concerning the beginning of the month (One ought to consider not only the whole year but also the monthly outcome).  
-Another examination concerning the month (From the degree through which the Sun passes—if he makes the day shorter), cf. cod. 12, fol. 64r.  
-F. 148v. Concerning the month according to Nechepsos (It is necessary to count from the transit of the Sun—their misfortune will not be heeded), cf. cod. Marcianus 335, fol. 340v.  
-F. 149. Indications of the conjunctions and full moons (Take the conjunctions and full moons that occur—on the double day (ἐν δισώμμῳ) regarding both)^3🤖,  
-F. 149v. Concerning outcomes from an eclipse (When the Moon is eclipsed in Gemini or in Libra or in Aquarius—relative to the climates subjected [to them]).  
-Concerning the conditions of the seven stars; Julianus (The star of Kronos, by nature, is duller in appearance—the cause is established), cf. cod. 12, fol. 66.  
-F. 150v. Concerning a false doctrine from the speech of a certain Syrian (Concerning the rainfall that has occurred each time—as previously stated, it does the same), cf. ibid., fol. 65.  
-F. 151v. From what causes the Moon and the stars do harm (It is necessary to know also from what causes the Moon and the stars are found to be useless and weak), = ibid., fol. 67v.  
-F. 152. Concerning common and universal inceptions (Upon every inception we examine the arrangement thus—if it is not present, [the event] does not occur).  
-F. 152v. Concerning inceptions at conjunctions and full moons (Conjunctions and full moons at inceptions—violent deaths arise) = cod. 12, fol. 68.
+Chronocratorship of Helios (Helios [the Sun], distributing [time] to himself—he will bring about evils), cf. ibid., cap. 31.  
+Chronocratorship of Aphrodite (Aphrodite, distributing [time] to herself—she produces unexpected things), cf. ibid., cap. 32.  
+Chronocratorship of Hermes (Hermes, having received [time]—sharp and lofty matters), cf. ibid., cap. 33.  
+Chronocratorship of the Moon (The Moon, receiving the periods—which we have set forth), cf. ibid., cap. 34.  
 
----
+F. 140. How one ought to consider the transits of the chronocrators and the events happening in them according to the seasons of the year (Since the beginning of the period comes about—the same things are shown to occur).  
 
-LLM Translation Footnotes
+F. 144. Theophilus on inceptions (The beginning of the year, according to the most ancient of the Egyptians—and so on in order concerning the rest) = codex 12, fol. 58v.  
 
-^1🤖 For “Chronocracy” (Greek: χρόνος + κρατέω, “rulership over time”), this technical term is standard in astrological literature. “Apportioning” renders ἐπιμερίζων, reflecting the technical process of assigning or governing periods. “Cause misfortunes” translates κακῶν ποιήσει, an idiom denoting the production of negative outcomes.
+F. 145v. On the royal lot (The lot of the king—one must consider the midheaven).  
 
-^2🤖 “Sharp and lofty” renders the Greek adjectives (ὀξὺ καὶ μετεώρων), typical in astrological descriptions of Hermes’ rulership. “Sharp” (ὀξὺ) can denote keenness or swiftness, while “lofty” (μετεώρων) refers to elevation or height, both metaphorical attributes described in the literature.
+F. 146. On the lord of the year (Thus, what pertains to the king, etc.).  
 
-^3🤖 The phrase “on the double day (ἐν δισώμμῳ) regarding both” preserves the Greek term “δισώμμος,” whose precise meaning is debated. Interpretations include “a period of two days/months” or “concerning both (conjunction and full moon) together.” The transliteration is retained pending further scholarly consensus.
+F. 148. On the beginning of the month (It is necessary to consider not only about the whole year—but also the monthly outcome).  
+
+Further, regarding the month (From the degree through which Helios passes—if one diminishes the day), cf. codex 12, fol. 64r.  
+
+F. 148v. On the month according to Nechepsos (It is necessary to count from the aspectual Helios—their misfortune will not be paid heed [or: will not be heeded]), cf. codex Marcianus 335, fol. 340v.  
+
+F. 149. Indications from conjunctions and full moons (Consider the conjunctions and full moons as they occur—in double measure concerning both).  
+
+F. 149v. On outcomes from eclipses (When the Moon is eclipsed in Gemini, or in Libra, or in Aquarius—for the underlying climes).  
+
+On the stations of the seven stars, by Julian (The star of Kronos (Saturn) is by nature dimmer in hue—has become the cause), cf. codex 12, fol. 66.  
+
+F. 150v. On a falsehood from the saying of a certain Syrian (Regarding whatever rainfall happens at any time—as was previously said, he does the same), cf. ibid., fol. 65.  
+
+F. 151v. From what the Moon and the stars cause harm (It is also necessary to know from what the Moon—and they turn out useless and weak), = ibid., fol. 67v.  
+
+F. 152. On general and universal inceptions (In every inception we thus consider the configuration—it sets it in motion by not being present).  
+
+F. 152v. On inceptions at conjunctions and full moons (Conjunctions and full moons at inceptions—and thus people may become subject to violent death) = codex 12, fol. 68.

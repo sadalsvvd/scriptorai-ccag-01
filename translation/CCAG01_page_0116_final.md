@@ -1,39 +1,40 @@
-Aphrodite as Timekeeper.  
-But the goddess, royal maiden of the deep-billowed brine, was the timekeeper by night, beautiful among the joyful Hours, exulting in graces, with the good who delight in noble possessions.
+Aphrodite as Hour-Marker.  
+Now the goddess, the queenly maiden of the deep-swelling brine,  
+marked the hours by night, fair among the delight-giving Hours,  
+delighting in gracious favors and splendid possessions.
 
-Hermes as Timekeeper.  
-Swift Hermes, presiding as timekeeper on sacred courses, bestowed on the day the Muse-given gift of prophetic song.
+Hermes as Hour-Marker.  
+But Hermes, swift in his sacred courses, having marked the hours,  
+at dawn granted the Muses' divine song.
 
 Helios in the Place of Life.  
-Helios, guiding the course and portion of life, fashions in the midst of times^1🤖 the wealth best fit for living.
+Helios, driving the course and portion of life,  
+in the midst of times produces wealth that sustains life.
 
 Selene in the Place of Life.  
-And Selene, traversing the course of life, sets beautiful things, especially as she passes through the night.
+But Selene, encompassing the course of life,  
+establishes fine things, and especially when she travels by night.
 
 Kronos in the Place of Life.  
-But if Kronos, unyielding, reaches the portion of life, he brings forth the end and most grievous goal of life, and snowflakes, deeds of evil, and unprofitable strife.
+If Kronos, unerring, approaches the portion of life,  
+he brings the completion of life and its gravest ending,  
+and snowstorms, evil deeds, and profitless strife.
 
 Ares in the Place of Life.  
-And Ares, when he steps into the portion of life, brings pains and groanings, woes and calamities.
+But when Ares enters upon the portion of life,  
+there are pains and groaning, afflictions, and evils.
 
 Zeus in the Place of Life.  
-And Zeus, radiant, whenever he advances to the portion of life, is wholly good and gives the greatest blessings.
+But if radiant Zeus journeys toward the portion of life,  
+everything is good and he grants the greatest blessings.
 
 Hermes in the Place of Life.  
-If Hermes with wings reaches the portion of life, he takes away holy wealth by means of his generous gifts.
+But if Hermes with winged feet advances to the portion of life,  
+he takes away divine wealth granted by gifts.
 
 Aphrodite in the Place of Life.  
-But if the royal goddess, laughter-loving Aphrodite—^2🤖
+If the goddess, the queenly laughter-loving Aphrodite...
 
 Selene in the Place of the Siblings.  
-If Selene appears in the third segment, she produces good and prosperous lives, and moving less, she sets an end more slowly.^3🤖
-
----
-
-LLM Translation Footnotes
-
-^1🤖 The Greek "ἐνί μεσάτοισι χρόνοις" can mean "in the midst of times," "seasons," or "periods." Here, "times" is used to preserve the temporal ambiguity of the original.
-
-^2🤖 The Greek text is fragmentary here and lacks a main verb or predicate; this incomplete clause is retained to reflect its lacunose state.
-
-^3🤖 The phrase "λήγουσα δὲ μεῖον ἐλαύνει" is ambiguous. It may mean "and by moving (or pausing) less, she sets (ends) more slowly," i.e., she brings about a slower ending. "Moving less" is interpretative. Alternate renderings are possible.
+†If Selene should appear in the third portion,  
+she renders things noble, prosperous for life, but brings a lesser accomplishment.

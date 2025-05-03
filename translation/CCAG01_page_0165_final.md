@@ -2,35 +2,24 @@ APPENDIX
 
 39. On Void Course.
 
-A void course (kenodromia) of the Moon occurs whenever she forms no aspect with any planet, either bodily or by configuration.^1🤖
+A void course of the Moon occurs when she is not applying to any [planet], neither bodily nor by aspect.
 
-40. On Homorroēsis.
+40. On Homorrhoesis (“flowing together”).
 
-Homorroēsis occurs when stars^2 are within the same boundaries, either by body, by configuration, or when they observe^3 each other within the boundaries of the same star.
+Homorrhoesis is when stars are in the same bounds, whether bodily, by aspect, or by observing each other in the bounds of the same star.
 
-41. On Enclosure (emperiochēsis).
+41. On Interposition.
 
-Enclosure is when two planets enclose another planet between them, in any configuration whatsoever, with no other planet casting a ray among those enclosed within seven degrees forward or backward.^4🤖
+Interposition is when two planets have one intermediate [planet] between them in whatever aspect possible, with no other [planet] casting a ray among the intermediates within seven degrees forward or backward.
 
-42. On Planets in Power (en dynamei).
+42. On Planets in Power.
 
-A planet is said to be “in power” when it is in its own house, exaltation, boundaries, its own phase, configuration (by aspect), or in a yet more strengthened place among the twelve divisions (houses).^5🤖
+A planet is said to be “in power” whenever it happens to be in its own house or exaltation or bounds or in its own phase or configuration or in some stronger place of the twelve divisions.
 
-43. On Lamps (lampēnai).
+43. On Planets in Their Own Light.
 
-Planets are in their own lamps when they are found in their own house, exaltation, or boundaries; and they delight in these placements even when found under the same solar rays.^6🤖 The benefic planets thereby increase good things, while the malefics are transformed toward beneficence.
+Planets are in their own light whenever they are found in their own house or exaltation or bounds; and they take pleasure in these places even if they are found under the rays of the Sun; for the benefics increase the good, and the malefics turn to beneficence.
 
-44. On How the Stars Rejoice.
+44. On How the Planets Take Pleasure.
 
-The stars are said to rejoice as follows: Kronos (Saturn), Zeus (Jupiter), and Ares (Mars), when configured; Selene (the Moon) and Aphrodite (Venus) as evening planets^7🤖. Furthermore, Kronos, Zeus, and Ares rejoice when configured in the quadrants from the Ascendant (horoskopos) to the Midheaven and from the Descendant to the Lower Midheaven; while the Moon and Aphrodite rejoice in the alternate quadrants. Hermes (Mercury) rejoices in both divisions, as he participates in both. The diurnal planets above the earth rejoice by day, the nocturnal ones below; and again, the nocturnal ones above the earth rejoice by night, the diurnal ones below.
-
-
-LLM Translation Footnotes
-
-1. “Forms no aspect”: That is, the Moon does not apply to any planetary aspect, neither by bodily conjunction nor by any other astrological configuration.  
-2. “Stars”: The Greek ἀστέρες refers both to planets and fixed stars, but here primarily means planets.  
-3. “Observe”: The Greek verb can also mean “behold” or “aspect” in astrological terms.  
-4. “Casting a ray”: Traditional astrological language for sending any kind of aspect. The seven-degree range applies both forwards and backwards from the planet being enclosed.  
-5. “Yet more strengthened place among the twelve divisions”: This refers to stronger or more effective houses in the system of twelve astrological houses.  
-6. “Under the same solar rays”: That is, even when combust (near the Sun), planets are still dignified if in their own house, exaltation, or boundaries.  
-7. “Evening planets”: Greek ἑσπέριοι, meaning when the Moon and Venus are west of the Sun, and thus visible as evening stars.
+The planets are said to take pleasure: Kronos (Saturn), Zeus (Jupiter), and Ares (Mars) when configured together; Selene (the Moon) and Aphrodite (Venus) as evening stars. Furthermore, Kronos, Zeus, and Ares take pleasure when configured in the quadrants from the Ascendant to the Midheaven and from the Descendant to the lower Midheaven, and Selene and Aphrodite in the alternate quadrants. Hermes (Mercury) in both, since he is of common nature. And the diurnal planets, when above the earth by day, take pleasure, while the nocturnal ones take pleasure below the earth; and by night, the nocturnal planets above the earth take pleasure, while the diurnal take pleasure below.

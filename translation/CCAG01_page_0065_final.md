@@ -1,44 +1,38 @@
-ριθ΄. Otherwise, concerning the same matter (It is necessary for the one asking — [regarding] reputation).
+rithʹ. Otherwise, concerning the same subject (It is necessary for the inquirer—reputation).
 
-F. 271v. ριε΄. Concerning whether the sought thing will come to an end (sic, tabula: “would come to an end”) (Whether the sought thing will have an end, etc.).  
-ρις΄. Which of the stars belong to the dark-blue, and which to the greenish (Saturn and Hermes [Mercury] — analogy).
+F. 271v. rieʹ. Concerning whether that which is sought will come to an end (sic, tab. λάβοι [read: “will obtain”]) (Whether that which is sought will have an end, etc.).  
+risʹ. Which of the stars belong to the dark blue, and which to the greenish (Saturn and Hermes [i.e., Mercury]—analogy).
 
-F. 272. ριζ΄. Otherwise, concerning that about which someone asks (Since the manners of masters of the house — of idle talk).
+F. 272. rizʹ. Otherwise, as to what is being asked (Since there are despotic ways—of futility).
 
-F. 273. ριη΄. Concerning whether the traveler will return sooner (The one asking about the traveler — [whether] city or region).
+F. 273. rihʹ. Concerning a traveler, whether he will return sooner (The one inquiring about a traveler—city and country).
 
-F. 273v. ριθ΄. Concerning those about [rulerships and] offices of cities and regions regarding those passing through (read: “περιεπομ.”) [here the title is missing in the text] (It is necessary for the climatarch — of the lights).  
-ρκ΄. Concerning departure from an untitled [city or region] (If someone from his homeland — [it is] good).
+F. 273v. rithʹ. Concerning magistrates and rulers of cities and country, and those on official journeys (l. peri-epom.) [the title is missing in the text] (It is necessary to consider the ruler of the climate—of the lights).  
+rkʹ. Concerning a journey from an unknown place (If someone departs from the homeland—it is favorable).
 
-F. 274v. ρκα΄. Concerning exile (If exile is prolonged — it indicates).
+F. 274v. rkaʹ. Concerning sojourning abroad or exile (If the sojourning is prolonged—it indicates).
 
-F. 275. ρκβ΄. Concerning which of the parents will predecease the other (Take the nativity day — the method).
+F. 275. rkbʹ. Concerning which parent will die first (Take the natal day—the method).
 
-F. 275v. ρκγ΄. Concerning how to make the stars into characters. — Published in the appendix.  
-ρκδ΄. Concerning the one seeking to be benefited (The one seeking to be benefited by someone — leads).
+F. 275v. rkgʹ. Concerning how to compose astral (star) letters. — Published in the appendix.  
+rkdʹ. On seeking benefit from another (The one seeking benefit from someone—leads).
 
-F. 276. ρκε΄. Concerning the bounds of the ascendants (The bounds of Saturn ascending — we have spoken).
+F. 276. rkeʹ. Concerning the terms (bounds) of Saturn ascending in the horoscope (The terms of Saturn ascending—we have spoken).
 
-F. 279v. ρκς΄. Concerning building and demolition (If you intend to build — of those who do mischief).
+F. 279v. rksʹ. Concerning building and demolition (If you intend to build—it is of the malefics).
 
-F. 280. ρκζ΄. Concerning how the traveler, acting, will meet [with success] (The horoscope indicates the traveler — accordingly).
+F. 280. rkzʹ. Concerning how the traveler will fare (the ascendant indicates the traveler—accordingly).
 
-F. 281. ρκη΄. Concerning the launching of a ship, and the departure based on the configuration of the stars (If the Moon happens to be above the earth — [as] said before).
+F. 281. rkhʹ. Concerning the voyage (or departure) of a ship, depending on the configuration of the stars (If the Moon happens to be above the earth—as previously indicated).
 
-F. 282v. ρκθ΄. Otherwise (The Moon under Mars and Hermes — it signifies a ship(?)).  
-ρλ΄. Concerning bonds^1🤖 from the configuration of the stars towards the Moon (The Moon as viewed by Jupiter — speak).
+F. 282v. rkhʹ. Otherwise (Moon under Mars and Hermes—it signifies a ship(?)).  
+rlʹ. Concerning aspects or bindings of the stars with respect to the Moon (Moon being observed by Zeus—say it).
 
-F. 283v. ρλα΄. Concerning war (It is written before in the 67th chapter of the book).  
-ρλβ΄. Concerning the casting of a lot for judgment (Observe the eclipse that occurred — it happens).
+F. 283v. rlaʹ. Concerning war (As written previously in chapter zaʹ of the book).  
+rlbʹ. Concerning the Lot of Judgment (Observe the eclipse that has occurred—it happens).
 
-F. 285. ρλγ΄. Concerning the motions of the seven planets (One must know that you need to eliminate — effect-writing).
+F. 285. rlgʹ. Concerning the motion of the seven planets (It must be known that one must deduce—outcome writing).
 
-F. 286. ρλδ΄. From Antiochus: what the stars signify when they happen to be in the places of the topic. — Published in the appendix.
+F. 286. rldʹ. Of Antiochus, as many things as the stars, happening to be in the places of the subject, signify. — Published in the appendix.
 
-F. 288v. ρλε΄. Results (in the table, outcomes) of the epoch of the fixed stars. (If therefore you find… let us assign) Partially published in the appendix.
-
----
-
-LLM Translation Footnotes
-
-^1🤖 For "bonds" ("δεσμοί") in "Concerning bonds from the configuration of the stars towards the Moon": the Greek term can also be rendered "fetters" or "attachments," with a technical meaning in astrology referring to particular types of aspects or connections. The translation "bonds" has been chosen for its fidelity and common use in astrological contexts.
+F. 288v. rleʹ. Results (in tab.: outcomes) of the epoch of the fixed stars. (If, then, you find... let us arrange them) Partly published in the appendix.

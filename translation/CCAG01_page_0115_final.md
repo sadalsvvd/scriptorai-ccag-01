@@ -1,53 +1,45 @@
 APPENDIX
 
-They sailed even amidst hardships, and found swift passage of time;  
-the sign of life sets, and unmixed miseries it has given.^1🤖
+They sailed amid evils and found means also for swift time;  
+the sign of life sets, and gave grievous† misfortunes without hearth.
 
-The Sun as Time-Lord.  
-The Sun, measuring the hours, runs on encircling with the cry of his ray,^2🤖  
-and, having fixed the speed of the hour, he grants fair days,  
-especially appearing to many among the masculine signs,^3🤖  
-he signified those possessing wealth  
-and much mercy in living things for a span of time; but if among the evil  
-he comes together in aspect, the reputation is lessened—save that he is noble,  
-and brings good to father and livelihood, and loosens reckless woes.
+Helios, determining the hour.  
+Helios, passing through in a circle with the voice of his ray†,  
+having entered the speed of the hour, gives bright days,  
+chiefly appearing to many among the male signs of the zodiac.  
+He signified those possessing wealth  
+and much pity in living creatures over time; but if he mingles with evils,  
+his appearance wanes again, yet he is fine  
+for father and livelihood, and he releases reckless misfortunes.
 
-Saturn as Time-Lord.  
-But if Saturn gazes, holding the sting^4🤖 by lot  
-in governing the hours, he is baleful, and even worse by night,  
-dispatching orphanhoods, doom, and evilly-bound woes,^5🤖  
-and many-tangled excesses of afflictions he is wont to send forth,  
-and to the sick and perishing he has brought warfare as a star;  
-for terribly, with Saturn's snow,^6🤖 his course is announced.
+Kronos, determining the hour.  
+But if Kronos observes, holding the sting according to his lot, as the time-determiner,  
+he is bad, and baser at night;  
+he sends orphanhoods, delusions, tightly bound misfortunes,  
+and to sufferings he adds manifold calamity†;  
+he cast upon the sick and dying a contentious star, the bringer of war to mortals;  
+for dreadful is Kronos’s course revealed amid snows†.
 
-Zeus as Time-Lord.  
-And Zeus, much-honored god, far superior in governing hours,  
-is much more excellent by day; but if he journeys by night,  
-not evil, nor yet good—a most radiant light appeared,  
-for short spans he produces decent men in the middle rank,^7🤖  
-but in old age he grants the deprivation which is the star of night.^8🤖  
-But if, rejoicing in bright Olympus, he journeys onward,  
-fortunate and always preeminent they become, most of all in their homeland;  
-but if evil overtakes him in his incursion without share,  
-he brings dreadful sorrows, dispatching many grievous woes.
+Zeus, determining the hour.  
+Zeus, supremely divine, is far better as a time-determiner by day;  
+he is much stronger then; but if he travels by night,  
+he is neither bad nor indeed good†—his most radiant light appears—  
+he grants to a few, in middling times, well-composed men;  
+in old age, at night, may the nightly star bring decline†.  
+But if, rejoicing in bright Olympus, he travels,  
+men are always fortunate and prominent, especially in the homeland;  
+but if an evil comes to him without proper ritual,  
+he inflicts dreadful sufferings on the wretched, sending many woes.
 
-Ares as Time-Lord.  
-But Ares, holding the greatest sting^9🤖 of the time-lord,  
-donned in strength, gave golden-working gifts,  
-increased the wealth for men, but these did not  
-make sovereign nor resolve great sorrows of soul;  
-by night he is much superior, especially among the masculine signs.
+Ares, determining the hour.  
+Ares, holding the greatest sting of the time-determiner,  
+armored in valor, gave gifts wrought in gold,  
+magnified wealth for men; but they, not restraining from past excess,  
+do not release grievous sufferings of the soul.  
+At night, he is much stronger, appearing among males.
 
 ---
 
-LLM Translation Footnotes
+1 πλέονεσιν: cod.; corrected by Kroll.  2 ζωήσημα δύνει: cod.  5 ἐμβεβάς: cod.  6 φαινομένοισι τέκεν ἀρσενικοί: cod.  7 ἐν, afterward an abbreviation difficult to explain: cod.; I have conjectured ἐσήμανε with doubt.  8 ζωοῖσι τέλος: cod.; τελεῖν conjectured by Kroll.  9 τετέας μειῶν conjectured by Kroll.  10 βορτῶ: cod.; corrected by Kroll.  12 Λευσ’ κεντρ’ κατέχοντα μοι’: cod.; partially κατὰ μοῖραν, corrected by Kroll.  13 ὡρονομῶν: cod.; corrected by Kroll. Χρειότερος: cod.  14 κακοείρετα: cod.; corrected by Kroll.  15 ὑπὸ μοιραῖ conjectured by Kroll.  16 πολεμήμτος: cod.  17 νιφαδέσσι: cod., i.e. "with the storms of misfortunes" [Kroll], cf. however p. 110, v. 18.  20 ἥματα: cod.  22 μεσοστύχους: cod.; corrected by Kroll.  21 ἔφηνεγ: conjecture.  23 δυν’ νυκτός: cod.  27 δεινοῖς: cod.; ἐζολέσει conjectured by Kroll.  29 ὡρονόμος: cod. κατέχων κατύ-χων: cod. 31 ἅραφ: cod.; τεύχων conjectured by Kroll.  32 ἐπ] εἰ conjectured by Kroll.
 
-1🤖 The opening lines are obscure, with debated manuscript readings; the rendering preserves the ambiguity and abruptness of the Greek.  
-2🤖 "Cry of his ray": "βοῇ ἀκτῖνι" can mean "cry" as both a sound and a metaphor for brightness or radiance; the phrase keeps the poetic ambiguity of the original.  
-3🤖 "Masculine signs": This preserves astrological and grammatical ambiguity, denoting the Sun's favorable influence in masculine zodiacal signs and possibly among men.  
-4🤖 "Sting": "κέντρον" is an astrological metaphor for planetary influence, often implying affliction or intensity.  
-5🤖 "Evilly-bound woes": "κακοείρετα πήματα" maintains the structure and compound sense in the Greek, denoting woes tightly bound with evil.  
-6🤖 "Saturn's snow": "νιφαδέσσι Κρόνου" is metaphorical for Saturn's calamitous nature; the translation retains this poetic imagery.  
-7🤖 "Decent men in the middle rank": "μεσοστύχους" is ambiguous, possibly "men of middle rank" or those in the "midst" between extremes (see critical apparatus).  
-8🤖 The phrase about deprivation in old age under the "star of night" is corrupt and ambiguous; the rendering preserves the possible double sense of loss and death.  
-9🤖 "Greatest sting": Again, "κέντρον" here refers to the strength or impact of Mars' rulership, retaining the technical astrological term.
+† Text uncertain or corrupt.

@@ -1,20 +1,22 @@
-The total duration of these years is three hundred sixty-five days and a quarter; this quarter, in every four years, is completed into a full day. That day, in the month of Subat (that is, February), they add; hence, that year has three hundred sixty-six days. This is called “kapisā,”^1🤖 which the Romans call “bissextile”; but those years which do not have an added day are called “pasitā.”^2🤖 The beginning of this year is the second day, which is also the beginning of their month Tishri; and some count the beginning of that year from the sixth day. But the name of that month is Adar,^3 because it is in this month that the beginning of the world is renewed, that is, takes its origin. For this reason also Patanēs^4 set the course of the stars according to this year, establishing its beginning from Adar.
+and the whole period of these is three hundred and sixty-five days and a quarter; and this quarter, in every fourth year, completes one day. That day, in the month of Sumbat, that is, February, they add; hence that year is three hundred and sixty-six days; and this is called "kapisa," which the Romans call "bissextile." But those years which do not have this added day are called "pasita." Therefore, the beginning of this year is the second day, which is also the beginning of their month Tashri. But some reckon the beginning of that year from the sixth; and the name of that month among them is Adar, on account of this: because the renewal, or the beginning, of the world is reckoned in this month. For this reason also, Patani* (i.e., al-Battānī, also known as Albategnius) has established the course of the stars for his conjunction in this year and has set the beginning of his year from Adar.
 
-The fourth year: this is how the Persians reckon, because the beginning of this year is counted from the time when Muhammad journeyed from Mecca to Medina. The beginning of this year is the seventh day, and the beginning of the month Muharram; and this is what the Arabs call by that name. Their years are lunar years: the year is three hundred fifty-four days and twenty-two minutes^5🤖; thus, the twenty minutes in three years accumulate into a day, and the two minutes in thirty years accumulate into another day, so that in thirty years there are eleven surplus days. Therefore, in thirty years, eleven years are “kapisā,” and that “kapisā” year is three hundred fifty-five days;^6 the other years, each being three hundred fifty-four days, are called for them “pasitā.”^7
-
-The months of this year are counted in two ways: the Persians count each month separately; but others begin their count from the sighting of the new moon.^8 After this reckoning, there is a period during which three months each have twenty-nine days, and another period in which four months each have thirty days; this they call the “roiatukhillai reckoning.”^9 For this reason, there is no fixed order. Astronomers, however, from the start of the year, assign thirty days to the first month, twenty-nine to the next, and so on counting alternately until the year is complete; and they call this reckoning “ampri ausat.”^10 All the tables use this reckoning. After this and the first reckoning, three days are lacking.
+The fourth year: this the Persians reckon, since the beginning of this year is counted from the time when Muhammad went from Mecca to Medina. And the beginning of this year is the seventh day, as is also the beginning of the month Muharram; and thus this name is what the Arabs call it; and their years are lunar years, being three hundred and fifty-four days and eight hours and forty-eight minutes; these eight hours, in every three years, amount to one day; and in thirty years the forty-eight minutes make up one day, so that in thirty years there are eleven extra days; it happens, then, in thirty years, eleven years are intercalated ("kapisa"); and that leap year has three hundred and fifty-six days. The rest of the years, being three hundred and fifty-four days, are called by them "pasita." The months, therefore, of this year are calculated in two ways: the Persians count by single months; but others reckon the beginning (of the count) from when they see the new moon. According to this reckoning, there occurs a period in which three months have each twenty-nine days, and another period in which four months have each thirty days; this they call "the count of roiatuquilla"; for this reason, they are not in a single order. But the astronomers, from the beginning of the year, count the first month as having thirty days, the next after it as having twenty-nine, and so count alternately until the end of the year; and this count they call "ampri ausat"; and the computation of all conjunctions is according to this count. But after this count and the first, it happens that three days are lacking
 
 ---
 
-LLM Translation Footnotes
+3 Sumbat = the Syriac month Shebat.  
+4 kapisa = Syr. kbisha "intercalary," Arab. kebise.  
+6 pasita = Syr. pshīlā "simple."  
+8 Tashri = the Syriac month tishrī.  
+9 Adar = the Syriac month Adar, i.e. March.  
+16 Muharram cf. above, p. 85, v. 8.  
+18 eight hours and forty-eight minutes: these eight hours make one day in three years; forty-eight minutes make one day in thirty years. Cf. Ideler, Chronologie, II, 480ff.  
+21 There is a lacuna here. Kapisa, cf. above, note 4.  
+22 three hundred and fifty-six: some read three hundred and sixty-six.  
+23 pasita, cf. above, note 6.  
+25 "see": the manuscript reads otherwise, emended by Usener.  
+27 perhaps "this."  
+28 The words are corrupt.  
+30 In alternation: thus in the manuscript, emended by Usener.
 
-^1🤖 “kapisā” is a technical term (Syriac: kbisha) for the intercalary or leap year, used here in contrast to the Roman “bissextile.”  
-^2🤖 “pasitā” (Syriac: pshīlā) refers to the “simple” or ordinary year, i.e., without an intercalated day.  
-^3 “Adar” is the name corresponding to the month of March in the Syriac calendar.  
-^4 Patanēs refers to al-Battānī (Albategnius), the noted medieval astronomer.  
-^5🤖 The original and most critical editions note that technically, the lunar year should be “three hundred fifty-four days, eight hours, and forty-eight minutes.” The “twenty-two minutes” is a simplified or possibly corrupt reading.  
-^6🤖 Some manuscripts or editions mistakenly give a total of 365 days; the correct value for a lunar leap year is 355 days.  
-^7🤖 “kapisā” and “pasitā” refer respectively to “intercalary” and “simple” years in both Syriac and Arabic calendar traditions.  
-^8🤖 The reference to beginning the count with “the sighting of the new moon” reflects the observation-based reckoning of the Islamic calendar.  
-^9🤖 The terminology “roiatukhillai” is corrupt in the manuscripts and its precise meaning is uncertain, but it refers to a cycle alternating between months of 29 and 30 days.  
-^10 The “ampri ausat” reckoning assigns 30 and 29 days alternately to months to approximate the lunar year, as used in astronomers’ tables.
+* Patani, i.e. al-Battānī, also known as Albategnius, died in A.H. 317 (929 CE), see Gildemeister, loc. cit., p. 15c.

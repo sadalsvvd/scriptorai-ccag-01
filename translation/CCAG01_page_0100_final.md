@@ -1,32 +1,19 @@
 EXCERPTS FROM CODEX 11 (Laur. 28, 33)
+
 or rather from Codex Angelicanus 29¹.
 
 ———
 
 Selected Chapters of Palchos.
 
-A few words have been said about Palchos the Egyptian astrologer, who flourished toward the end of the 5th century (cf. c. νΖ–νΘʹ, λαʹ, πζʹ, πηʹ), both in Rev. de l’Instr. publ. en Belg. 1897, p. 1ff., and above (p. 84), among the interpreters prohibited in the Middle Ages, where “the interpreter Palchos” is mentioned. The present passages from his work, which we offer here, will provide additional information. The two fragments (λαʹ, πηʹ, cf. πλεʹ) that had previously been published, we here repeat, so that all the texts from this apotelesmatic² book that have so far been published may be found together in one place.
+Concerning Palchos, the Egyptian astrologer who flourished at the end of the 5th century CE (cf. chap. νΖ–νΘ´, λα’, πζ’, πη´), a few words have been written in the Rev. de l’Instr. publ. en Belg. 1897, p. 1ff., and above (p. 84) he is mentioned among the interpreters prohibited in the Middle Ages, ὁ ἑρμηνευτὴς Πάλχος. More will be revealed by the portions of his work which we here present. We repeat here two fragments (λα’, πη’ cf. πλε’) that had already been published previously, so that all passages from this apotelesmatic [astrological] book thus far published may be found in one place.
 
-F. 100v (=210v). ιζʹ. On the Loss of Property, according to Erasistratus³: how to find the thief and the thing lost, and where it lies.
+f. 100v (=210v). 17. Concerning the loss of an object, according to Erasistratus²: how to find the thief and what was lost and where it lies.
 
-He observes according to the centers (κέντρα)^1🤖 as follows: Let the ascendant be the thing lost, the midheaven the thief, the descendant the stealer, the lower midheaven (imum coeli) the place where the lost item lies. Likewise, the Moon also indicates where the lost item lies. If the Moon is at the ascendant, it indicates that the lost item lies in a central and conspicuous place^2🤖. But if it is at the midheaven, the item lies in an elevated place; if it is beneath the earth (at the lower midheaven), it lies in a hollow place or in a pit; if the Moon is at the descendant, it lies in a private and scattered place^3🤖. If Saturn is ascending, the thing lost will be old, or unfinished, or abandoned. One should also inquire about the nature of the star. If Mars is ascending or at a center with the Moon, the theft has been done with violence, with doors broken, or bedrooms^12 or chests or seals^13 forced open. If Jupiter is at the midheaven and together with the Moon, the theft has taken place from a sacred place. If Venus is with the Moon at the center, it indicates that the lost items are of a feminine kind; if Venus is at the midheaven, it indicates the lost things are sacred from a sacred place. If Mercury is at the center or with the Moon, [they are] silver objects, books^17, or documents.
+He observes from the cardines [astrological angles] in this way: let the Ascendant be the lost object, the Midheaven the loser, the Descendant the thief, the Imum Coeli where the lost object lies; likewise, the Moon also indicates where the lost object lies. The Moon in the Ascendant indicates that the lost object lies in a central and visible place; if the Moon is at the Midheaven, it lies in a lofty place; if it is at the Imum Coeli, it lies in a hollow place or in a well; the Moon in the Descendant indicates that it lies in a secluded and scattered place. If Saturn is at the Ascendant, the lost object will be old or incomplete or cast aside. Also consider the nature of the planet. If Mars is at the Ascendant or conjunct the Moon, the theft was committed with violence: a lock was broken, or beds or furnishings or seals were forced. If Jupiter is at the Midheaven and with the Moon, the theft occurred from a sacred place. Venus conjunct the Moon at the cardine indicates that the objects lost are women's things; if Venus is at the Midheaven, it indicates that sacred objects from a sacred place have been lost; Mercury at the cardine or with the Moon, [the lost items are] silver or books or documents.
 
---------
-¹ Cf. Studi ital. etc., IV, p. 60ff.—Since it has been shown that the astrological collection of Palchos preserved in the Laurentian codex was copied, though not completely, from the Angelicanus codex (Cumont, L’astrologie Palchos, p. 2), we have decided to publish the excerpts from Palchos’ book according more to the authority of the archetype than to that of the copy.
+¹ Cf. Studi ital. etc., IV, p. 60ff.—Since it has been shown that the astrological collection of Palchos preserved in the Laurentian codex was copied inexactly from the Angelicanus codex (Cumont, L’astrologie Palchos, p. 2), we have decided to publish excerpts from Palchos’ book according to the authority of the archetype rather than the copy.
 
-² The technical term “apotelesmatic” (ἀποτελεσματικός) refers specifically to works dealing with astrological outcomes (effects or results), and is not to be conflated with general astrological treatises.
+² On Erasistratus, cf. above, Masala's excerpt p. 82, l. 23.
 
-³ On Erasistratus, cf. the excerpt from Masala above, p. 82, l. 23.
-
-12 bedrooms supplied by Kroll.  
-13 seals in the manuscript.  
-17 book in the manuscript.
-
-
-LLM Translation Footnotes
-
-^1🤖 The term “centers” translates Greek κέντρα, the angular cardinal points of the astrological chart (ascendant, midheaven, descendant, imum coeli), sometimes also rendered as “angles” or “pivots.” “Centers” is a literal rendering; “angles” is standard in modern astrology, “pivots” is plausible as well.
-
-^2🤖 “Central and conspicuous place” renders the sense of the lost item being in a public or visible location; other interpretations could be “public and visible place.”
-
-^3🤖 “Private and scattered place” interprets Greek ἰδιόκτῳ καὶ ἀνακεχυμένῳ; “scattered” (ἀνακεχυμμένος) might also mean “disarrayed” or “piled up,” thus an area not only private but possibly cluttered or in disorder.
+12 τὸ supplied by Kroll. 13 σφραγίδων (seals) in manuscript. 17 βιβλος (book) in manuscript.

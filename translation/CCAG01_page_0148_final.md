@@ -1,32 +1,24 @@
 III. — r, s.
 
-Of the manuscripts I have enumerated above, none present the chapters except those found in codex L. However, I have consulted two more complete manuscripts, which I shall describe more fully in due course; for now, these remarks will suffice.
+Of the codices which I have enumerated above, none presents chapters except those found in codex L. However, I have inspected two more complete codices, which I will soon describe in more detail. For now, let this suffice.
 
-r = Munich 287 (14th century) fol. 107: “From the Treasuries of Antiochus: Exposition and Solution (i.e., account and explanation) of the Whole Art of Astronomy.” You will see that the title agrees with that of L; moreover, various readings here and there also correspond with the oldest codex. Codex r contains the following chapters also found in L: the prooemium, 1, 2, 4+5+6, 7–12, 15, 16, 19+22, 23, 29, 48, 47, part of chapter 51, and chapter 53; apart from chapters 47, 48, and 53, I have carefully collated all of these, although in cod. r all but these three are mutilated. And although r contains many interpolations and many omissions, still it has not been without its utility, since at times it alone has preserved the genuine readings. Furthermore, r offers either 11 or 14 chapters of the Rhetorian treatise which are not found in L. I shall publish these, together with others, in the catalogue of Munich astrological manuscripts.
+r = Munich 287 (14th century), folio 107: Ἐκ τῶν Ἀντιόχου θησαυρῶν διήγησις καὶ ἐπίλυσις (scil. ταύτης) πάσης ἀστρονομικῆς τέχνης (“From the Treasuries of Antiochus: Account and Solution of the Entire Art of Astronomy”). You see that the title agrees with L, and likewise individual readings here and there correspond with those in the oldest codex. Codex r contains the following chapters extant in L: prooemium, 1, 2, 4+5+6, 7–12, 15, 16, 19+22, 23, 29, 48, 47, part of chapter 51, chapterlet 53; all of which, except chapters 47, 48, and 53, I have diligently collated in codex r, where they are all mutilated. And although many things in r are interpolated or omitted, I have still made useful use of it, since it alone sometimes preserves genuine readings. But in addition, r contains either 11 or 14 chapters of the Rhetorian treatise that I have not found in L. I will publish these along with others in the catalog of Munich astrological manuscripts.
 
-s = Berlin 173 (Philipp. gr. 1577, 15th century) fol. 139r–146v. It is titled: “The Treasury of Rhetorius, a Summary of the Whole of Astronomy.” The first chapter begins: “The zodiacal circle moves obliquely, having twelve divisions.” On fol. 144r, the next chapter follows: “Concerning the nature and power of the wandering stars, and which parts each is ruler of; and what this signifies.” Finally, on fol. 145v: “Solution and Exposition of all the aforesaid.” It begins: “For what reason, out of the twelve signs, …” and concludes on fol. 146v, last line: “which is water.” You will see that this one chapter, of the three contained in the Berlin codex, is also found in codex L. The first two chapters I will publish along with the chapters of codex r; the third chapter I have collated against the text of codex L.
+s = Berlin 173 (Philipp. gr. 1577, 15th century), folia 139r–146v. It is inscribed: Ῥητορίου θησαυρὸς συνεκμν τὸ πᾶν τῆς ἀστρονομίας (“The Treasury of Rhetorius, a compendium of the entirety of astronomy”). The first chapter begins: Ὁ ζωδιακὸς κύκλος κινείται λοξῶς ἔχων τμήματα ιβ′ (“The zodiacal circle moves obliquely, having twelve divisions”). On folio 144r, a second chapter follows: Περὶ τῆς τῶν πλανωμένων ἀστέρων φύσεως καὶ δυνάμεως καὶ ὧν κυριεύει μελῶν ἕκαστος· καὶ τί σημαίνει (“On the nature and power of the wandering stars, and which members each rules, and what [this] signifies”). Finally, on folio 145v: ἐπίλυσις καὶ διήγησις πάντων τῶν προειρημένων. Incipit: Τίνος ἕνεκα τῶν δώδεκα ζῴδιων (“Explanation and account of all the aforesaid. Begins: For what reason concerning the twelve signs…”), ends folio 146v, final line: ὅ ἐστιν ὕδωρ (“…which is water”). You see that this one chapter, of the three contained in cod. Berol., is also found in codex L. The first two chapters I will publish together with the chapters from codex r; the third chapter I have collated with the text of codex L.
 
-As to why I have not thought it proper to establish a recension of the chapters of this Porphyrian treatise, I will state in a few words. Scarcely, indeed, can one discern which words belong to Porphyry and which to Rhetorius, before one has access to the whole of Porphyry. Thus, wherever the manuscripts L and r diverge from the edition of the Porphyrian introduction, I have found it sufficient simply to note this. Matters of mere orthography I have decided not to mention, here or elsewhere; nor have I transcribed all the obvious errors of the later manuscripts, unless compelled by more serious considerations.
+As to why I have not thought fit to carry out a recension of Porphyrian chapters of this treatise, I shall say in a few words. Indeed, unless you have Porphyry entire, you can scarcely elucidate what words belong to Porphyry and what to Rhetorius. Accordingly, when the codices L and r differ from the edition of the Porphyrian introduction, I have considered it sufficient to annotate this. However, I have decided neither here nor elsewhere to adduce matters that are merely orthographical; nor have I transcribed all manifest errors of the more recent codices, unless moved by more serious grounds.
 
 [F. B.]
 
-<Of Rhetorius> From the Treasuries of Antiochus: Exposition and Solution of the Whole Art of Astronomy.
+<Rhetorius> From the Treasuries of Antiochus: Account and Solution of the Entire Art of Astronomy.
 
-<Proemium>.
+<Prooemium>.
 
-For what reason, out of the twelve zodiacal signs arranged in a circle, we have taken the beginning from Aries and not rather from Cancer, at which the cosmic ascendant is set, or from Leo, as from the solar sign, but
+For what reason we have made the beginning of the twelve zodiacal signs, arranged in a circle, from Aries, and not rather from Cancer, at which the cosmic ascendant occurs, or from Leo as a solar sign, but
 
 ---
-
-1. For how the title of the treatise is read in each manuscript, see above.
-4 ἕνεκεν r.  ὑπὸ κριοῦ r; ἐν κριοῦ L.
-5 ποιησώμεθα r. καθότι καὶ κοσμικὸς q.
+1 On how the title of the treatise is read in each codex, see above.
+4 For “ἕνεκα”, r; ὑπὸ κριοῦ r; ἐν κριοῦ L.
+5 For “ποιησώμεθα”, r. καθότι καὶ κοσμικός q.
 6 ἡλιακοῦ ζωδίου q: ἡλίου L r.
-
-
-LLM Translation Footnotes
-
-^1🤖 On “Exposition and Solution (i.e., account and explanation)”: The Greek terms ἐπίλυσις and διήγησις are best captured here as “exposition and solution,” but “account” or “explanation” are also defensible translations.
-^2🤖 On “cosmic ascendant”: “κοσμικὸς ὦροσκόπος” is standardly rendered as “cosmic ascendant” in the scholarly literature, but “cosmical horoscope” is also sometimes used.
-^3🤖 “Solar sign” for ἡλιακοῦ ζωδίου is ambiguous in Greek: it may mean simply “the sign of the Sun,” i.e., Leo, but could also be read as “solar zodiac.”
-^4🤖 The sentence in the proemium ends in an ellipsis because it continues on the following page.
+---

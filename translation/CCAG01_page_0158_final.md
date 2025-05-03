@@ -1,21 +1,20 @@
-If one of the stars is found in the house of a benefic and in the bounds^1🤖 of a benefic, and is connected to the nativity by a benefic, the fortune is benefic; but if it is found in the house of a benefic yet in the bounds of a malefic, the good of the fortune is diminished; but if it happens to be in the house of a malefic and in the bounds of a malefic, the fortune will be bad and obscure.
+...if a star is found in the house of a benefic and within the bounds of a benefic, and the bounds of a benefic have an influence on the nativity, the fortune is that of a benefic; but if it is found in the house of a benefic yet in the bounds of a malefic, the goodness of the fortune is diminished; and if it happens in the house of a malefic and in the bounds of a malefic, the fortune is bad and obscure.
 
-13. On the Ascensions of the Seven Climes (Klimata).
+54. — if L. 201, 1 for "apotelesmatourgia." 4 for "the recollection." r. 5 "the contributing—only" omitted. r. "the bounds of it contribute only in their own outcomes." L. 6 "the" L, "then the" r. 8 "the very ones" r. 9 "these" r. 10 "he was compelled" r.
 
-Ptolemy has precisely set out the ascensions of the seven climes (klimata), investigating them minutely, and we have need of these in all methods of genethlialogy, just as he presents them in his handbook; the Egyptians, however, and Valens have set forth the seven climes more roughly, yet we also require these for the co-risings of the signs of the zodiac and the stars in each clime, as Valens says in his own Outcomes.
+13. On the ascensions of the seven climes.
 
-14. On the Melothesia^2🤖 of the Zodiacal Signs.
+Ptolemy precisely determined the ascensions of the seven climes by thorough investigation, and we need these in all genethlialogical methods as he determined in his handy canon; but the Egyptians and Valens determined the seven climes less precisely, yet actively, and we need these in the risings of the zodiacal signs and of the stars for each clime, as Valens says in his own Apotelesmata (Results).*
 
-This is the section of Porphyry (p. 201). I have recorded the following from codex L: p. 201, line 12, "the melothesia of men" L; line 14, "the healthy" for "the unhealthy" L (for "the unhealthy," cf. Ptol. Tetrab. III, 17); line 15, "of the lots" L; line 16, "of them" L; also line 20, "then" L; line 19, "having made it clear" L; "according to" is also in L.
+14. On the melothesia (bodily rulership) of the zodiacal signs.
 
-15. On triangles, squares, diameters, and those that bear no relationship to each other, as in the case of diameters.
+This is a chapter of Porphyry, p. 201. I have noted these from codex L: p. 201, 12 “the melothesiai of humans” L. 14 “the sinews” L (for “the sinews,” cf. Ptolemy, Tetrabiblos III, 17). 15 “of the lots” L. 16 “of them” L. and 20 “there” L. 19 “having made it clear” L. “kata” [κατά] is also found in L.
 
-This is the section of Porphyry (p. 201 ff.). In codices L and r I have found different readings: ...
+15. On the triangles, squares, diameters, and the other figures bearing a relation to each other as in the form of diameters.
+
+This is a chapter of Porphyry p. 201 following. In manuscripts L and r I have found various readings: p. 201, 24 “configuration” L. 25 “have been constituted three” r.; “and greater” and “of all” omitted r. 26 “according to — as we have demonstrated” omitted r. 28 “we will show” L.; after “chronike,” r provides: “as some determined regarding the ascensions of the signs; but the third, etc.” 29 “an” [ἂν] rightly omitted r. 30 “determined” L, r. 31 “and of the ascensions” L. 32 “and the general” [reading: “the general” L; “the new” r.] “the universal is called” 30 r. “kata eis” [κατὰ εἷς] L. “kata—let us go astray” omitted r. 34 “the one of the sun” r. 35 “appeared” [“was wondered at” L, r] “prosunelion” [προσῆλιον] L. 37 “broadly” [“harmfully” r].
+
+1 “is found” omitted r.; “in” supplied. “house of a benefic” r. 2 "to r."—“and” L. “fortune” [“soul” r.] “if” I have written: “whether” L, r. “in” supplied. “house” omitted r. 4 “and” omitted r. 5 “to the fortune” L; “to the soul” r. 10 Cf. Ptolemy and Theon's tables, ed. Halma, II, 2 sqq. 13 “Valens” in codices. 15 “risings” L, “in his own Apotelesmata as he says” L. 22 In codex π the chapter is so inscribed: “On the side of the triangular, square, and hexagonal figures”; in codex r: “On the triangular, square, and hexagonal [figures] as in the form of diameters.”
 
 ---
-
-LLM Translation Footnotes
-
-^1🤖 "Bounds" translates the Greek ὅριοι (horioi), a technical astrological term referring to divisions within each zodiac sign, with each planet assigned a portion. Also called "terms" in some literature, but "bounds" is now standard among scholars.
-
-^2🤖 "Melothesia" (μελοθεσία) is a technical term in astrology denoting the assignment of body parts (or, at times, musical correspondences) to the zodiacal signs. In this context, it refers to the traditional mapping of parts of the human body to astrological signs.
+*Apotelesmata: A Greek term meaning “effects” or “outcomes,” and also the title of Valens’ principal astrological work.

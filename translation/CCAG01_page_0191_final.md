@@ -1,52 +1,46 @@
-the lot of Zeus, he says; from which is the sun withdrawn with pleasure (C)—the sun to be mingled;  
-from which is the lot of Aphrodite; from which is (C) the lawless sun;  
-the lot of Hermes; from which is (Γ) the sun with the Moon;  
-the lot of the luminaries; from which is (Γ) the sun with Por-  
-the lot of Zeus;  
-the lot of Aphrodite; from which is (Γ) the lot of all things;  
-the lot of Hermes;  
-the lot of Ares; from which is Z;  
-the lot of all; from which is (Γ) the sun departing from the Moon.^1🤖
+the lot of Zeus, he says; from which is the sun being withdrawn with pleasure(C), the sun to be confused;
+from which is the lot of Aphrodite; from which (C) is the sun lawless;
+lot of Hermes; from which (Γ) is the sun together with the Moon;
+lot of the luminaries; from which (Γ) is the sun together with Por;
+lot of Zeus;
+lot of Aphrodite; from which (Γ) is the lot of all things;
+lot of Hermes;
+lot of Ares; from which is Z;
+lot of all things; from which (Γ) is the sun being separated from the Moon.
 
-     But in the case of a nocturnal nativity, the penelē—  
-the lot of Helios; from which is (Θ) the lot of Aphrodite;  
-Helios; from which is (Γ) the sun to be removed; from which is (Γ)  
-the lot of Ares; from which is (Γ) the sun together with the beloved;  
-the lot of Hermes; from which is (Γ) the sun mingled;  
-the lunar lot; from which is (Γ) the sun departing from the Moon.  
-the lot of Hermes; from which is (Γ) the sun together with the beloved;  
-the lot of Diosynax; from which is (Γ) the sun together with the Moon;  
-the lot of every diurnal sun and Asempos; from  
-which is (Θ) the meridional sun.  
-from which is (Θ) the deficient sun; from which is (Δ)  
-the remaining sun; from which is (Γ) the accompanying sun.
+     But in a nocturnal nativity, the pelenē
+lot of the Sun; from which (Θ) is the lot of Aphrodite;
+Sun; from which (Γ) is the sun to be removed; from which (Γ)
+lot of Ares; from which (Γ) is the sun together with the beloved;
+lot of Hermes; from which (Γ) is the sun being mixed;
+lot lunar; from which (Γ) is the sun being separated from the Moon.
+lot of Hermes; from which (Γ) is the sun together with the beloved;
+lot of Diosynaktos; from which (Γ) is the sun together with the Moon;
+lot of all diurnal sun and Asempoi; from
+which (Θ) is the sun at midday.
+from which (Θ) is the sun being left; from which (Δ)
+is the remaining sun; from which (Γ) is the sun accompanying.
 
-The lot of Callion.  
-the small lot of Heliophilios; from (Z);  
-the lot of Apollo; from which is (Γ) the sun to be left behind;  
-the lot of Heliophorion; from which is (Γ) the sun with the Moon;  
-the lot of Pandorus; from which is (Γ) the sun accompanying;  
-from which is (Z) the sun with the sister.  
-the sun-bearing lot; from which is (Γ) the sun everywhere; from (Z);  
-the lot of the sun at sea; from which is (Γ) the sun departing from the Moon;  
-from (Z), from which is (Γ) the lot of the whole midday;  
-the lot of Aphrodite; from which is (Γ) the sun with Poros; from which is (Γ) the sun with the sea.  
-the lot of Hermes; from which is (σ) of the hours; from which is (Γ) the sun with a share;  
-from which is (Γ) the sun with the others; for as it comes to be;  
-of the solar month; from which is (Γ) the sun with Aphrodite;  
-from (Z) from which is (Γ) the sun with the Moon.
+Lot of Kallion.
+lot of Heliophilios, little; from (Ζ)
+lot of Apollo; from which (Γ) is the sun to be left;
+lot of Helioforios; from which (Γ) is the sun with the Moon;
+lot of Pandoros; from which (Γ) is the sun accompanying;
+from which (Ζ) is the sun with [his] sister.
+lot of Helioforos; from which (Γ) is the sun everywhere; from (Ζ)
+lot of Heliopontios; from which (Γ) is the sun being separated from the Moon;
+from (Ζ) from which (Γ) is the lot of the whole midday;
+lot of Aphrodite; from which (Γ) is the sun together with Poros; from which (Γ) is the sun together with the sea.
+lot of Hermes; from which (σ) of the hours; from which (Γ) is the sun with Moira;
+from which (Γ) is the sun with the others; whatever comes to be;
+of the sun's month; from which (Γ) is the sun with Aphrodite;
+from (Ζ) from which (Γ) is the sun with the Moon.
 
-□ ♃ ♇ □ ♀ ☿ ♄ ♂ sun untroubled; from (Z) sun  
-□ ♄ ♀ ☿ ♃ ☿ sun untroubled from (Z) ♆ ♄ ♇  
-= ♃ ☿ ♂ ♀ ♄ ♇ ♆ ☉ ♄ sun untroubled from (Z) ♃ ♆  
+□ ♃ ♇ □ ♀ ☿ ♄ ♂ sun untroubled; from (Ζ) sun
+□ ♄ ♀ ☿ ♃ ☿ sun untroubled from (Ζ) ♆ ♄ ♇
+= ♃ ☿ ♂ ♀ ♄ ♇ ♆ ☉ ♄ sun untroubled from (Ζ) ♃ ♆
 
-     ON THE LOTS OF THE BELOVED ON ACCOUNT OF JUSTICE NI =  
-the lot of the beloved; from which is (C) love; from which is Aphrodite;  
-the lot of the beloved; from which is (Γ) love; from which is Aphrodite;  
-the lot of the beloved; from which is (Γ) love; from which is Aphrodite;
-
----
-
-LLM Translation Footnotes
-
-1. 🤖 The expression "sun departing from the Moon" (ἥλιος ἀποσεληνιζόμενος) is an astrological technical term, indicating the Sun separated from the Moon, either in calculation or planetary relationship. Alternate translations might be "sun removed from the Moon" or "sun no longer under the Moon's influence." The choice to render this directly makes the underlying Greek more immediately accessible to the reader while preserving its technical connotation.
+     ON THE LOTS OF THE BELOVED ACCORDING TO DIKAIOU N[I]=
+lot of the beloved; from which (C) is love from which is Aphrodite;
+lot of the beloved; from which (Γ) is love from which is Aphrodite;
+lot of the beloved; from which (Γ) is love from which is Aphrodite;

@@ -1,20 +1,15 @@
 APPENDIX
 
-He adds certain other things concerning these stars, then again speaks of himself (f. 141v):
+He adds certain other things concerning these stars, and presently again speaks about himself (f. 141v):
 
-These matters we discovered after keeping vigil and laboring for quite some time, since often, in the case of a nativity, with no proper observation being found—neither with the luminaries^1🤖 being at the centers^2🤖, but even deviating from them, nor, when the benefics^3🤖 are at the centers, do we observe nativities that are especially prominent and very fortunate: all of which, except for those bright stars rising together^4🤖 with the centers or the Moon, we have not taken into account. For this reason, we have set forth both the difference and the effect of the bright and notable stars, all except for only one, Canopus, because it lies very far to the south and is scarcely visible in these regions, as I observed in the latitude corresponding to Rome. We, then...
+“These things we have found by staying awake and laboring for a sufficient time, since often upon a nativity, when neither is any configuration found well suited—whether because the luminaries are not at the centers but have even deviated, nor when the benefics are at the centers do we observe very great and most fortunate nativities—those which are without bright stars rising together with the centers or with the Moon, we have not found to participate. On account of this reason, we have set forth both the differences and the efficacy of the bright and notable stars, <all> except for only one, Canopus, because it is much more southern and is scarcely visible in these regions, as I observed in the region through Rome; as for us, then...”
 
-What follows in the testimonia concerning ancient authorities (p. 80) has already been presented. A conclusion is appended:
+2 μὴ δὲ μιᾶς codex. 3 καὶ omitted by editor. 5 κέντροις [I do not understand]. 8 These bright stars are thirty in number, as the author himself says (see above, p. 80, τῶν λ’ λαμπρῶν ἀστέρων); cf. Porphyry, Introduction, p. 240, ed. 1559, πάντας added. Canopus is thus given in the codex. For similar statements concerning this star, see Manilius, I, 208ff. 9 αὐτῶν] Should it be ἄλλων?
 
-Therefore, having set forth regarding the proper power and effect of the fixed and bright stars, and, as far as possible, having given a scientific account of them, it is reasonable that we also subordinate both the power of the lesser stars and their productive quality to these.
+What follows in the testimonia concerning ancient authors (p. 80) has already been presented above. Subjoined is the conclusion:
+
+“Having thus described our own account concerning the power and efficacy of the fixed and bright stars, and having, as far as possible, considered them according to natural philosophy, let us also reasonably ascribe the efficacy and productive quality of the lesser ones.”
 
 [F. C.]
 
----
-
-LLM Translation Footnotes
-
-^1🤖 “Luminaries” in ancient Greek astrological context refers to the Sun and Moon.
-^2🤖 “Centers” is used as a neutral rendering for the Greek “κέντροις,” which might refer to angles (ascendant, midheaven, etc.) or other central points in the astrological chart; its precise meaning is debated among scholars.
-^3🤖 “Benefics” are the favorable planets (typically Jupiter and Venus) in astrology, corresponding to the Greek “ἀγαθοποιοί.”
-^4🤖 The phrase “rising together” translates the astrological technical term “συνανατελλόντων,” denoting stars that rise at the same time as the centers or the Moon, which implies a particular kind of conjunction at the ascendant.
+1 ἀπογραφώμενος codex. τὰς in the codex with three dots above, perhaps originally τὰς δυνάμεις. 2 This discussion of the lesser stars does not appear among the excerpts of Palchus.

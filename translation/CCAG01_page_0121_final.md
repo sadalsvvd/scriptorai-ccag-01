@@ -1,26 +1,27 @@
 APPENDIX
 
-In order that we may not seem, by indulging in verbosity, to have obscured the clarity of the table, let us therefore begin to set forth the productive power^1🤖 of each of the fixed stars, after inscribing in the table how many degrees each occupies in longitude, as well as the consulship of Olybrius and Ausonius—for the fixed stars move one degree in 160 years into the next tropical sign, as the most divine Ptolemy has demonstrated—at which time we too composed this book, and what temperament each possesses, and what latitude or wind^2🤖 each continually occupies, following his tradition so that we might omit nothing of the teaching of the table. Let us, therefore, proceed to the exposition of the table.
+So that, by deploying prolixity, we do not seem to obscure the clarity of the table, let us now proceed to set forth the productive power of each of the fixed stars, inscribing in the table also how many degrees each of them occupies in longitude—namely, in the consulship of Olybrius and Ausonius, since the fixed stars are shifted by 1 degree in 100 years toward the following of the tropical points, as the most divine Ptolemy has indicated—during which time we too composed this book; and of what temperament each is, and what latitude or wind each always occupies, we have set forth according to his tradition, so that we omit nothing from the instruction of the table. Let us therefore proceed to the exposition of the table.
 
-Now, all those among men who are born at the rising of Spica, the bright star on the left hand^3🤖 of the Virgin, which is at the 29th degree of Virgo itself in the Zodiac...
+All those who are born at the rising of Spica, the bright star in the left hand of Virgo, which is situated at the 29th degree of Virgo in the Zodiac...
 
-The discourse treats of Spica of Virgo, the stars of Lyra (Λύρα), Piscis Austrinus (the great fish in the southern quarter), Cygnus (the Swan), Corona Borealis (the Northern Crown), and their relationship to Venus and Mars, and then continues (f. 138v):
+2    σαφήνιας ἀμαυροῖς cod., with three dots above. ἀρξόμεθα cod. ποιητικῆς cod.  
+4    ὑπατία cod. ὀλυμβρίου (written in the plural in erasure) καὶ αὐξονίου cod.—Olybrius and Ausonius are recorded in the fasti for the year 379 A.D.; see Chronica minora, ed. Mommsen, vol. III, p. 523.  
+5    μοῖρα cod., corrected by Kroll.
 
-If Saturn happens to be present with any of these same bright stars at the hour of birth, those born become skilled in the art of medicine and proficient in the interpretation of hidden books or are very learned in mysteries and rites; but if Jupiter observes at the hour of birth one of the aforesaid bright stars, greater fortunes, honors, and high offices—or even authority—are bestowed.
+He discusses Spica of Virgo, the stars of Lyra (Λύρα), Piscis Austrinus (the Southern Fish), Cygnus (the Bird), Corona Borealis (the Crown), and their relationship to Venus and Mars; then he proceeds (fol. 138v):
 
-But even among these, there are certain differences: the star of Spica produces hierophants, highly honored priests, philosophers, or prophets of certain rites, and especially those born in Greece; and if found in female nativities^4🤖, it makes priestesses of Demeter, the Mother of the Gods, Kore, or Isis, or hierophantides, or those knowledgeable in mysteries or rites, or those who participate in certain initiations^5🤖 and are greatly aided by the gods. But if at the midheaven the bright star on the Northern Crown is present, it produces celebrated persons, crown-bearers, high priests, friends of kings, individuals who are strong in body and become renowned and loved by many.
+If Saturn happens to be present with any of these bright stars at the hour of birth, they become skilled in medicine and in the diagnosis or prognosis of secret books or rites, or very learned in mysteries; and if Jupiter is present with one of the aforementioned bright stars at the hour of birth, he bestows greater good fortune, honors or reputation, offices, or even rulership.
 
-Afterwards, the discourse concerns the power of the other stars. The following are enumerated: the star on the heart of Leo, Arcturus, the bright star of Aquila, Anta–
+Moreover, different outcomes result in these cases: Spica produces hierophants, high priests, philosophers, or prophets of certain rites, and especially those born in Greece; and in the case of female births, if it is found, it makes priestesses of Demeter, the Mother of the Gods, Kore, or Isis, or women hierophants, skilled in mysteries or rites, possessing certain initiations, and greatly supported by the gods. And if at midheaven the bright star of the northern Crown is rising, it produces renowned persons: crown-bearers, chief priests, friends of kings, with strong bodies, illustrious and beloved by many.
 
+1    τῶν supplied. ἐ’ = ι’ cod.  
+2    προγνῶσι cod.  
+3    πολυιστορεὺς cod., corrected by Kroll.  
+6    hardly sound.  
+8    ἐλλάδα cod.  
+9    οὕτως cod.  
+11    ἀπεχομένους cod. βοηθουμένους cod.  
+12    βορείου: κυρίου as it seemed cod.  
+14    ὀνομαστόν cod. καὶ supplied.
 
-LLM Translation Footnotes
--------------------------
-^1🤖 "Productive power" translates ποιητικῆς δυνάμεως, denoting a star's causal influence or efficacy in ancient astrological doctrine. "Efficacy" is an alternative rendering.
-
-^2🤖 "Latitude or wind": Ancient astronomical texts assigned each star both a celestial latitude and an associated "wind," reflecting cosmological or meteorological concepts distinct from modern usage.
-
-^3🤖 "Hand" here translates Greek χειρὸς for anatomical specificity; "arm" could also be considered but "hand" matches the traditional attribution for Spica.
-
-^4🤖 "Female nativities" renders the technical astrological term for births with female horoscopes, indicating gender-specific effects in the ancient doctrines.
-
-^5🤖 "Initiations" is used to reflect ancient Greek τελεταί or μυστήρια, meaning ceremonial or mystery rites; "ceremonial acts" is another possible rendering depending on context.
+Thereafter, the discourse turns to the powers of other stars. The following are listed: the one at the heart of Leo, Arcturus, the bright star of Aquila, Anta—
